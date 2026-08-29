@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev Unknown -->
+<scene>
+  <track model="1_track.b3d" x="0" y="0" z="0">
+    <animated-texture name="zipper_collect.png" dy="10.000" />
+    <animated-texture name="zipper_collect.png" dy="10.000" />
+  </track>
+  <sky-color rgb="77 104 255"/>
+  <sky-box texture="summersky_t.jpg summersky_b.jpg summersky_e.jpg summersky_w.jpg summersky_s.jpg summersky_n.jpg"/>
+  <camera far="1000.0"/>
+  <checks>
+    <check-lap kind="lap" same-group="0" other-ids="4" />
+    <check-line kind="activate" other-ids="2" p1="18.78 -154.56" p2="25.08 -134.89"
+                min-height="24.38" same-group="1"/>
+    <check-line kind="activate" other-ids="3" p1="-137.67 -52.12" p2="-118.16 -46.18"
+                min-height="16.68" same-group="2"/>
+    <check-line kind="activate" other-ids="0" p1="14.77 -16.35" p2="35.46 -11.54"
+                min-height="0.53" same-group="3"/>
+    <check-line kind="activate" other-ids="1" p1="11.86 56.73" p2="32.18 50.56"
+                min-height="0.53" same-group="4"/>
+  </checks>
+  <item x="34.52" y="0.45" z="-43.36" />
+  <item x="32.23" y="0.45" z="-45.35" />
+  <item x="29.94" y="0.45" z="-47.45" />
+  <item x="27.85" y="0.45" z="-49.44" />
+  <item x="34.22" y="0.45" z="71.35" />
+  <item x="34.77" y="0.45" z="69.17" />
+  <item x="35.31" y="0.45" z="67.00" />
+  <item x="35.75" y="0.45" z="64.71" />
+  <item x="36.29" y="0.45" z="62.54" />
+  <item x="36.73" y="0.45" z="60.14" />
+  <item x="119.97" y="0.59" z="64.78" />
+  <item x="119.97" y="0.59" z="62.55" />
+  <item x="119.97" y="0.59" z="60.32" />
+  <item x="119.97" y="0.92" z="58.13" />
+  <item x="119.97" y="0.92" z="55.83" />
+  <item x="-1.28" y="21.66" z="-144.75" />
+  <item x="-1.28" y="21.52" z="-142.37" />
+  <item x="-1.28" y="20.82" z="-139.69" />
+  <item x="-1.28" y="20.03" z="-137.06" />
+  <item x="-1.28" y="19.15" z="-134.48" />
+  <item x="-125.71" y="19.15" z="-18.47" />
+  <item x="-123.39" y="18.84" z="-20.22" />
+  <item x="-121.03" y="17.70" z="-22.23" />
+  <item x="-118.63" y="16.95" z="-24.46" />
+  <default-start karts-per-row     ="4"
+                 forwards-distance ="1.10"
+                 sidewards-distance="1.10"
+                 upwards-distance  ="1.10"/>
+</scene>

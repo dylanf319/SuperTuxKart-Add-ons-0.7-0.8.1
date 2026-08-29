@@ -1,0 +1,10 @@
+water2.png reset=Y transparency=Y
+track_guiderail.png transparency=Y
+Walltexture4a.png transparency=Y
+Walltexture4b.png transparency=Y
+Walltexture4c.png transparency=Y
+Walltexture4d.png transparency=Y
+Walltexture5a.png transparency=Y
+Walltexture5b.png transparency=Y
+Walltexture5c.png transparency=Y
+Walltexture5d.png transparency=Y

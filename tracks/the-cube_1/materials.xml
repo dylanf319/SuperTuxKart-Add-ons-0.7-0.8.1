@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev Unknown -->
+<materials>
+  <material name="grassy.png" max-speed="0.5"/>
+  <material name="track_guiderail.png" transparency="yes"/>
+  <material name="Walltexture4a.png" alpha="yes "/>
+  <material name="Walltexture4b.png" alpha="yes "/>
+  <material name="Walltexture4c.png" alpha="yes "/>
+  <material name="Walltexture4d.png" alpha="yes "/>
+  <material name="Walltexture5a.png" alpha="yes "/>
+  <material name="Walltexture5b.png" alpha="yes "/>
+  <material name="Walltexture5c.png" alpha="yes "/>
+  <material name="Walltexture5d.png" alpha="yes "/>
+  <material name="water2.png" reset="Y"/>
+</materials>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev Unknown -->
+<materials>
+  <material name="aarmco.png" backface-culling="N" compositing="blend" disable-z-write="Y"/>
+  <material name="bananawrap.png">
+    <zipper duration="3.5" max-speed-increase="15.0" fade-out-time="3.0" speed-gain="4.5"/>
+  </material>
+  <material name="blackfade.png" compositing="blend" collision-detect="Y" reset="Y" disable-z-write="Y" collision-reaction="reset"/>
+  <material name="clouds.png" collision-detect="Y" reset="Y" collision-reaction="reset"/>
+  <material name="concrete.png" backface-culling="N"/>
+  <material name="fog.png" compositing="blend" disable-z-write="Y"/>
+  <material name="fog.png" compositing="blend" disable-z-write="Y"/>
+  <material name="herringwall.png" backface-culling="N" compositing="blend" disable-z-write="Y"/>
+  <material name="lava.png" collision-detect="Y" reset="Y" collision-reaction="reset"/>
+  <material name="lava2.png" collision-detect="Y" reset="Y" collision-reaction="reset"/>
+  <material name="lil_lava2.png" collision-detect="Y" reset="Y" collision-reaction="reset"/>
+  <material name="mathclassfloor.png">
+    <particles base="smoke.xml" condition="skid"/>
+  </material>
+  <material name="palm.png" backface-culling="N"/>
+  <material name="rainbow.png" backface-culling="N" compositing="blend" disable-z-write="Y"/>
+  <material name="rainbow3.png" backface-culling="N"/>
+  <material name="sea_sky_fade.png" light="N" compositing="blend" collision-detect="Y" reset="Y" disable-z-write="Y" collision-reaction="reset"/>
+  <material name="skyfade.png" light="N" compositing="blend" collision-detect="Y" reset="Y" disable-z-write="Y" collision-reaction="reset"/>
+  <material name="swatch.png" light="N" collision-detect="Y" reset="Y" collision-reaction="reset"/>
+  <material name="track.png" high-adhesion="true"/>
+  <material name="track2.png" high-adhesion="true"/>
+  <material name="water.png" collision-detect="Y" reset="Y" collision-reaction="reset"/>
+  <material name="water_light.png" collision-detect="Y" reset="Y" collision-reaction="reset"/>
+  <material name="water_light_animated.png" collision-detect="Y" reset="Y" collision-reaction="reset"/>
+  <material name="wet_chrome2.png" graphical-effect="spheremap"/>
+  <material name="wet_window.png" compositing="blend" disable-z-write="Y"/>
+  <material name="zipper.png" light="N">
+    <zipper duration="3.5" max-speed-increase="10.0" fade-out-time="3.0" speed-gain="10.0" min-speed="-1.0"/>
+  </material>
+</materials>

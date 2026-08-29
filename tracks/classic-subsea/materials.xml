@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev 8848 -->
+<materials>
+  <material name="window.png" compositing="blend" clampu="Y" clampv="Y" disable-z-write="Y"/>
+  <material name="chrome2.jpg" sphere="Y"/>
+</materials>

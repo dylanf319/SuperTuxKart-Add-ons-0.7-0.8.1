@@ -1,0 +1,33 @@
+sign_lotclosed.png, sign_nolittering.png, graffiti_sign.png, by ctdabomb Released under CC-BY-SA 3.0
+
+art_tuxwarhol.png and art_mondriantux.png by someguy Released under CC-BY-SA 3.0
+
+art_stoneagetux.png, Gooey-Tag.png, Mr-ice-Block-Tag.png, Puffy-Tag.png, ElePHPant.png, Evil-Tux-Tag.png, Nolok-Tag.png, Gnu-Tag.png, Hexley-Tag.png, Wilber-Tag.png, Tux-tag.png, Van-Tux-Autoportrait.png by Rudy Released under CC-BY-SA 3.0
+
+brunocb-jeune-tuxette-a-la-perle-16461.png, brunocb-la-joconde---mona-lisa-tux-6204.png, brunocb-leonard-de-vinci----tux-de-vitruve-10838.png, brunocb-psychedetux-dali-8692.png by BrunoCB Released under LGPL
+
+concrete.png, brick.png by the original (Super)TuxKart team Released under GPl
+
+city_asphalt, city_concrete, city_metal by horace Released under CC-BY-SA 3.0
+
+earth.png and logs2 by Auria Released under CC-BY-SA 3.0
+art-volcano-lava.png, art-volcano-stones.png, art-volcano-track.png, and chess.png from the original volcano track.
+
+grass2 created by Christoph Egger <debian@christoph-egger.org>, Marianne Gagnon (Auria) and MiniBjorn Released under CC-BY-SA 3.0
+
+tree_leaves1.png, tree_leaves2.png by varivar Released under CC-BY-SA 3.0
+
+art_stkwikieviltux.png, art_stkwikimozilla.png, art_stkwikimriceblock.png, art_stkwikinolok.png, art_stkwikiskirpy.png, art_stkwikiyeti.png, art_stklogo.png from the SuperTuxKart wiki http://supertuxkart.sourceforge.net/
+BrickRound0025_2_S.png by p0ss relesed under GPL
+
+bubinga.png, wood_fine.png by Luke.RUSTLTD released under CC0
+
+Chemine.jpg by Tiziana Released under CC-BY-SA 3.0
+
+OrnamentsRectangular0021_1_S.jpg by Paata Vardanashvili <http://commons.wikimedia.org/wiki/File:Sameba_13.jpg> |edited by qubodup <http://qubodup.net> | hosted by <opengameart.org> | license: CCBY3.0 <http://creativecommons.org/licenses/by/3.0/>
+
+art_stkinthedark.png, art_tuxinthecity.png, mosaic01.png, graffiti_mural.png, by qubodup released under CC0/PD
+
+wilber.png by dakal Released under CC-BY-SA 3.0
+
+art_tux_scream.png by C. Stone released under CC-BY-SA 3.0

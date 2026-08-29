@@ -1,0 +1,32 @@
+industry track by Ivar ten Cate
+licensed under CC-BY-SA (textures too)
+
+Mesh modified and converted by sj04736
+
+Some source textures are from http://trak.mercenariesguild.net/.
+Those textures are licensed under CC-BY-SA 2.5 or later, or GPL v2 or later
+(SJ: I couldn't find any of the exact textures on the site. They must be
+derivatives. This likely includes all images not defined below, with
+modifications by Ivar ten Cate.)
+
+adverts.png
+  Image from SuperTuxKart's old Tux Tollway
+
+blender-logo.png
+  Derivative of logo from http://www.blender.org/blenderorg/blender-foundation/logo/
+  (usage guidelines at link above, usage falls under the "Usage in artwork and
+  community websites" section)
+
+city_asphalt_1.jpg
+city_checker.png
+polluted_water.png (from canyon_water.png)
+  CC-BY-SA 3.0 by Thomas Oppl (horace) toppl@fh-sbg.ac.at (c) 2008
+
+grass.png
+  Image from SuperTuxKart
+
+industry-smoke.xml
+  Based on smoke_brown.xml from STK 0.7.3
+industry-smoke.png
+  CC-BY-SA created by MiniBjorn (c) 2008-2010,
+  from smoke.png in STK 0.7.3, modified by sj04736

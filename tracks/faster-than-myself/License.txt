@@ -1,0 +1,18 @@
+Lizenz fuer Faster than myself (Track)
+
+Owner: Timo Schwarzer
+License: CC by-nd 3.0    (http://creativecommons.org/licenses/by-nd/3.0/deed.de)
+
+
+Lizenz fuer die Texturen:
+
+-black.png
+-green.png
+-part3.png
+-Road1.png
+-stoneslab_side.png
+==> Owner: Timo Schwarzer
+License: CC by-nd 3.0    (http://creativecommons.org/licenses/by-nd/3.0/deed.de)
+
+-railing.png
+==> Part of SuperTuxKart

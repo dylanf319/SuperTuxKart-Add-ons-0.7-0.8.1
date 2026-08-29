@@ -1,0 +1,737 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev Unknown -->
+<scene>
+  <track model="city_night_track.b3d" x="0" y="0" z="0">
+    <static-object lod_instance="true" lod_group="lantern" xyz="-6.29 8.17 8.10" hpr="-0.0 -90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_distance="8.0" lod_group="lantern" model="Cube.001.b3d" xyz="14.93 -14.61 14.93" hpr="0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-6.29 8.17 -0.69" hpr="-0.0 90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="26.88 7.34 -0.69" hpr="-0.0 90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="26.88 7.34 8.10" hpr="-0.0 -90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-40.26 9.58 8.10" hpr="-0.0 -90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-40.26 9.58 -0.69" hpr="-0.0 90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-75.07 10.63 -0.69" hpr="-0.0 90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-75.07 10.63 8.10" hpr="-0.0 -90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-109.77 10.70 8.10" hpr="-0.0 -90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-109.77 10.70 -0.69" hpr="-0.0 90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-143.77 10.55 -0.69" hpr="-0.0 90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-143.77 10.55 8.10" hpr="-0.0 -90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-366.99 6.85 8.10" hpr="-0.0 -90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-366.99 6.85 -0.69" hpr="-0.0 90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-332.99 10.20 -0.69" hpr="-0.0 90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-332.99 10.20 8.10" hpr="-0.0 -90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-298.30 12.77 8.10" hpr="-0.0 -90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-298.30 12.77 -0.69" hpr="-0.0 90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-263.48 12.92 -0.69" hpr="-0.0 90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-263.48 12.92 8.10" hpr="-0.0 -90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-177.76 10.52 8.10" hpr="-0.0 -90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-177.76 10.52 -0.69" hpr="-0.0 90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-229.51 11.51 -0.69" hpr="-0.0 90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-229.51 11.51 8.10" hpr="-0.0 -90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="traffic-lights-4" xyz="-204.16 8.28 3.61" hpr="-0.0 -90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="hospital-skyscraper" xyz="-101.21 65.36 35.83" hpr="-0.0 -89.3 0.0" scale="2.81 2.81 2.81"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="building1-north" xyz="309.89 76.16 220.69" hpr="-0.0 -22.1 0.0" scale="1.90 3.38 4.02"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="building3-south" xyz="-97.44 47.94 -27.78" hpr="-0.0 -180.0 -0.0" scale="0.54 13.76 0.60"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-191.53 10.04 126.93" hpr="-0.0 -128.7 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-186.03 10.04 120.07" hpr="0.0 51.3 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-159.48 11.05 128.02" hpr="-0.0 95.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-158.71 11.05 136.77" hpr="0.0 -85.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_distance="300.0" lod_group="building2-north" model="Cube.036.b3d" xyz="302.11 -75.78 154.11" hpr="-0.0 179.5 -0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-206.54 11.06 99.21" hpr="-0.0 -173.2 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-197.82 11.06 98.17" hpr="0.0 6.8 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="traffic-lights-3" xyz="53.07 -0.06 89.97" hpr="0.0 0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_distance="5000.0" lod_group="hospital-skyscraper" model="Cube.051.b3d" xyz="-101.21 -212.07 35.83" hpr="-0.0 -89.3 0.0" scale="2.81 2.81 2.81"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="48.77 6.13 28.54" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="57.55 6.13 28.54" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="57.55 3.28 65.16" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="48.77 3.28 65.16" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="48.77 1.59 117.75" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="57.55 1.59 117.75" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="57.55 1.66 152.89" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="48.77 1.66 152.89" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="48.77 3.36 187.99" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="57.55 3.36 187.99" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="76.14 -1.27 85.58" hpr="-0.0 90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="76.14 -1.27 94.37" hpr="-0.0 -90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="209.78 -3.03 95.95" hpr="-0.0 -90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="209.78 -3.03 87.17" hpr="-0.0 90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="253.00 1.28 87.07" hpr="-0.0 90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="253.00 1.28 95.86" hpr="-0.0 -90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="401.92 51.65 159.46" hpr="0.0 89.7 0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="401.92 51.65 166.33" hpr="0.0 -90.3 -0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_distance="8.0" lod_group="lantern_1" model="Cube.077.b3d" xyz="9.72 -17.15 15.81" hpr="0.0 89.7 0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_distance="8.0" lod_group="lantern_2" model="Cube.170.b3d" xyz="7.64 -14.42 14.39" hpr="0.0 -0.0 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-100.93 10.91 182.41" hpr="-0.0 -106.7 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-97.61 10.59 171.31" hpr="0.0 73.3 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-84.96 11.46 184.84" hpr="0.0 73.3 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-88.29 11.39 195.94" hpr="-0.0 -106.7 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-75.86 12.02 209.38" hpr="-0.0 -106.7 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-72.53 12.18 198.28" hpr="0.0 73.3 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-53.55 14.08 219.30" hpr="0.0 5.9 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-65.08 12.97 220.49" hpr="-0.0 -174.1 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_distance="5000.0" lod_group="lantern" model="Cube.278.b3d" xyz="14.93 -14.61 15.85" hpr="0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_distance="5000.0" lod_group="lantern_1" model="Cube.279.b3d" xyz="10.49 -17.15 15.81" hpr="0.0 89.7 0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_distance="5000.0" lod_group="lantern_2" model="Cube.280.b3d" xyz="5.37 -14.42 14.39" hpr="0.0 -0.0 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="57.55 7.12 -22.62" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="48.77 7.12 -22.62" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="48.77 6.89 -55.79" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="57.55 6.89 -55.79" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="57.55 6.65 -91.28" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="48.77 6.65 -91.28" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="48.61 6.30 -125.21" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="57.40 6.30 -125.21" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="57.40 6.30 -161.36" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="48.61 6.30 -161.36" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="48.92 6.20 -198.03" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="57.71 6.20 -198.03" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="57.71 5.61 -231.81" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="48.92 5.61 -231.81" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="48.92 5.76 -266.27" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="57.71 5.76 -266.27" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="57.71 5.46 -300.89" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="48.92 5.46 -300.89" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="48.92 5.39 -336.23" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="57.71 5.39 -336.23" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="building4-south" xyz="-245.91 49.40 -10.85" hpr="-0.0 -180.0 -0.0" scale="2.36 2.29 2.36"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="57.55 4.94 224.40" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="48.77 4.94 224.40" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="48.77 5.13 258.62" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="57.55 5.13 258.62" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="57.55 5.45 293.00" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="48.77 5.45 293.00" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="48.77 5.57 328.73" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="57.55 5.57 328.73" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="57.55 5.72 362.79" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="48.77 5.72 362.79" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="48.77 5.85 399.93" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="57.55 5.85 399.93" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="57.55 6.09 435.73" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="48.77 6.09 435.73" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="48.77 6.31 470.32" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="57.55 6.31 470.32" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="57.55 6.49 505.13" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="48.77 6.49 505.13" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="48.77 6.70 539.49" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="57.55 6.70 539.49" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-199.30 8.63 -370.77" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-208.09 8.63 -370.77" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-208.06 10.53 -333.76" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-199.27 10.53 -333.76" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-199.30 13.32 -299.42" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-208.08 13.32 -299.42" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-208.08 14.61 -265.92" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-199.30 14.61 -265.92" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-199.30 13.26 -231.11" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-208.08 13.26 -231.11" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-208.32 10.00 -193.34" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-199.54 10.00 -193.34" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-199.84 8.51 -157.89" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-208.62 8.51 -157.89" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-208.62 8.01 -123.47" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-199.84 8.01 -123.47" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-199.84 9.64 -90.87" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-208.62 9.64 -90.87" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-208.51 10.78 -54.70" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-199.72 10.78 -54.70" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-199.72 10.56 -20.71" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-208.51 10.56 -20.71" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="traffic-lights-3" xyz="53.21 5.47 3.91" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="230.33 0.66 95.86" hpr="-0.0 -90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-127.75 10.95 133.92" hpr="0.0 61.7 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-131.92 10.95 141.65" hpr="-0.0 -118.3 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="304.77 37.94 210.35" hpr="0.0 -84.4 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="303.91 37.94 201.60" hpr="-0.0 95.6 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="332.47 34.36 198.63" hpr="-0.0 97.2 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="333.56 34.36 207.35" hpr="0.0 -82.8 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="360.76 30.02 205.18" hpr="-0.0 -91.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="360.92 30.02 196.39" hpr="0.0 89.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="388.16 25.48 196.39" hpr="0.0 89.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="388.00 25.48 205.18" hpr="-0.0 -91.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="414.17 20.03 205.91" hpr="-0.0 -91.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="414.33 20.03 197.13" hpr="0.0 89.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="440.15 14.58 188.48" hpr="-0.0 111.7 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="443.40 14.58 196.64" hpr="0.0 -68.3 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object model="traffic_light_green_3.b3d" xyz="53.07 -0.06 89.97" hpr="0.0 0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object model="Cube.624.b3d" xyz="485.15 2.15 92.22" hpr="0.0 0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="building2-north" xyz="302.11 37.31 154.11" hpr="-0.0 179.5 -0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_distance="200.0" lod_group="hospital-skyscraper" model="Cube.626.b3d" xyz="-101.21 -76.86 35.83" hpr="-0.0 -89.3 0.0" scale="2.81 2.81 2.81"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_distance="5000.0" lod_group="building1-north" model="Cube.627.b3d" xyz="309.89 -0.12 220.69" hpr="-0.0 -22.1 0.0" scale="1.90 3.38 4.02"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_distance="260.0" lod_group="building1-north" model="Cube.628.b3d" xyz="309.89 -68.52 220.69" hpr="-0.0 -22.1 0.0" scale="1.90 3.38 4.02"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_distance="200.0" lod_group="building3-south" model="Cube.801.b3d" xyz="-97.44 -57.23 -27.78" hpr="-0.0 -180.0 -0.0" scale="0.54 13.76 0.60"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_distance="5000.0" lod_group="building3-south" model="Cube.802.b3d" xyz="-97.44 -150.79 -27.78" hpr="-0.0 -180.0 -0.0" scale="0.54 13.76 0.60"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_distance="200.0" lod_group="building4-south" model="Cube.803.b3d" xyz="-245.91 -37.06 -10.85" hpr="-0.0 -180.0 -0.0" scale="2.36 2.29 2.36"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_distance="5000.0" lod_group="building4-south" model="Cube.804.b3d" xyz="-245.91 -121.89 -10.85" hpr="-0.0 -180.0 -0.0" scale="2.36 2.29 2.36"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_distance="20.0" lod_group="traffic-lights-4" model="Cube.805.b3d" xyz="-204.16 -8.46 3.61" hpr="-0.0 -90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_distance="5000.0" lod_group="traffic-lights-4" model="Cube.806.b3d" xyz="-204.16 -22.00 3.61" hpr="-0.0 -90.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_distance="20.0" lod_group="traffic-lights-3" model="Cube.807.b3d" xyz="53.21 -7.92 3.91" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_distance="5000.0" lod_group="traffic-lights-3" model="Cube.808.b3d" xyz="53.21 -18.90 3.91" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-208.42 11.45 31.72" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-199.64 11.45 31.72" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-199.64 12.11 63.42" hpr="-0.0 -0.0 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-208.42 12.11 63.42" hpr="-0.0 -180.0 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-118.51 11.14 161.78" hpr="-0.0 -166.2 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-109.98 11.14 159.68" hpr="0.0 13.8 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-110.09 16.42 221.63" hpr="-0.0 -8.3 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-118.79 16.42 220.37" hpr="-0.0 171.7 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-123.23 14.69 252.71" hpr="-0.0 171.7 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-114.53 14.69 253.97" hpr="-0.0 -8.3 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-122.78 8.70 322.80" hpr="-0.0 -8.3 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-131.48 8.70 321.53" hpr="-0.0 171.7 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-135.89 8.62 356.12" hpr="-0.0 172.5 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-127.17 8.62 357.27" hpr="-0.0 -7.5 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-131.31 7.93 390.97" hpr="-0.0 -7.5 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-140.02 7.93 389.82" hpr="-0.0 172.5 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-115.86 12.64 182.41" hpr="-0.0 179.6 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-107.07 12.64 182.47" hpr="-0.0 -0.4 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-119.39 10.54 289.29" hpr="-0.0 -7.9 0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="-126.49 10.54 288.42" hpr="-0.0 172.1 -0.0" scale="0.74 0.16 0.28"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_distance="4988.0576171875" lod_group="building2-north" model="Cube.932.b3d" xyz="302.11 -19.57 154.11" hpr="-0.0 179.5 -0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_distance="100.0" lod_group="tree" model="Cube.946.b3d" xyz="32.97 -54.34 50.32" hpr="180.0 89.1 -0.0" scale="11.71 16.75 16.75"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_distance="5000.0" lod_group="tree" model="Cube.947.b3d" xyz="32.97 -57.33 85.75" hpr="180.0 89.1 -0.0" scale="11.71 16.75 16.75"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="tree" xyz="32.97 7.72 50.32" hpr="180.0 89.1 -0.0" scale="11.71 16.75 16.75"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="tree" xyz="32.97 10.19 27.82" hpr="0.0 66.2 -180.0" scale="11.71 16.75 16.75"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="tree" xyz="5.95 10.88 22.11" hpr="0.0 66.2 -180.0" scale="11.71 16.75 16.75"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="tree" xyz="-18.23 10.88 21.75" hpr="180.0 85.5 -0.0" scale="11.71 16.75 16.75"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="tree" xyz="-4.53 8.32 28.75" hpr="180.0 85.5 -0.0" scale="11.71 16.75 16.75"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="tree" xyz="-11.84 12.78 43.52" hpr="180.0 85.5 -0.0" scale="11.71 16.75 16.75"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="tree" xyz="14.65 11.15 41.08" hpr="180.0 85.5 -0.0" scale="12.68 18.13 18.13"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="tree" xyz="14.65 10.36 65.43" hpr="180.0 85.5 -0.0" scale="12.68 18.13 18.13"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="tree" xyz="32.68 5.33 71.86" hpr="180.0 62.7 -0.0" scale="11.44 16.36 16.36"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="tree" xyz="18.96 5.88 84.79" hpr="180.0 87.0 -0.0" scale="12.18 17.42 17.42"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="tree" xyz="36.28 6.10 91.10" hpr="180.0 87.0 -0.0" scale="12.18 17.42 17.42"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="tree" xyz="16.30 7.63 106.78" hpr="180.0 87.0 -0.0" scale="12.18 17.42 17.42"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="tree" xyz="37.17 5.63 110.54" hpr="-180.0 -64.3 -0.0" scale="12.18 17.42 17.42"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="tree" xyz="17.46 7.79 125.97" hpr="-180.0 -64.3 -0.0" scale="12.18 17.42 17.42"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="tree" xyz="36.93 6.20 128.25" hpr="-0.0 -66.1 -180.0" scale="12.18 17.42 17.42"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="tree" xyz="310.37 20.70 -9.16" hpr="180.0 85.5 -0.0" scale="7.12 10.18 10.18"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="tree" xyz="336.46 31.73 -9.16" hpr="180.0 85.5 -0.0" scale="7.88 11.27 11.27"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="tree" xyz="321.65 25.81 29.56" hpr="180.0 85.5 -0.0" scale="8.92 12.76 12.76"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="tree" xyz="355.52 35.76 16.00" hpr="180.0 85.5 -0.0" scale="7.88 11.27 11.27"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="tree" xyz="318.47 32.55 121.44" hpr="180.0 85.5 -0.0" scale="8.92 12.76 12.76"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="tree" xyz="357.07 25.30 45.58" hpr="180.0 85.5 -0.0" scale="7.88 11.27 11.27"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="tree" xyz="75.50 6.05 128.25" hpr="-0.0 -66.1 -180.0" scale="12.18 17.42 17.42"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="tree" xyz="77.30 6.74 235.37" hpr="180.0 33.7 -0.0" scale="12.18 17.42 17.42"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="tree" xyz="77.37 8.06 358.07" hpr="-0.0 -66.1 -180.0" scale="12.18 17.42 17.42"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="tree" xyz="77.37 8.46 469.85" hpr="-0.0 -9.3 -180.0" scale="12.18 17.42 17.42"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="tree" xyz="75.50 7.15 52.14" hpr="-0.0 -42.1 -180.0" scale="12.18 17.42 17.42"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="tree" xyz="75.50 8.02 -54.37" hpr="-180.0 -13.6 -0.0" scale="12.18 17.42 17.42"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="tree" xyz="75.50 8.02 -182.91" hpr="-0.0 -42.1 -180.0" scale="12.18 17.42 17.42"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="tree" xyz="75.50 8.02 -319.54" hpr="-0.0 -42.1 -180.0" scale="12.18 17.42 17.42"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="9.09 22.75 247.71" hpr="0.0 -13.2 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="6.93 22.69 256.65" hpr="-0.0 166.8 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="75.25 29.83 263.98" hpr="0.0 -10.5 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-447.61 -26.65 111.79" hpr="0.0 -15.5 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-450.11 -26.71 120.64" hpr="-0.0 164.5 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-482.91 -30.47 110.28" hpr="-0.0 164.5 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-480.41 -30.42 101.44" hpr="0.0 -15.5 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-512.83 -33.92 90.95" hpr="0.0 -15.5 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-515.33 -33.98 99.80" hpr="-0.0 164.5 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-547.62 -37.74 88.99" hpr="-0.0 164.5 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-545.12 -37.69 80.15" hpr="0.0 -15.5 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-549.35 -37.90 97.92" hpr="0.0 -15.5 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-551.85 -37.96 106.76" hpr="-0.0 164.5 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="73.52 29.77 273.00" hpr="-0.0 169.5 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-519.56 -34.19 117.57" hpr="-0.0 164.5 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-517.06 -34.14 108.73" hpr="0.0 -15.5 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-484.64 -30.63 119.21" hpr="0.0 -15.5 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-487.14 -30.69 128.05" hpr="-0.0 164.5 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-454.34 -26.92 138.41" hpr="-0.0 164.5 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-451.84 -26.86 129.57" hpr="0.0 -15.5 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-419.26 -23.62 139.84" hpr="0.0 -15.5 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-421.76 -23.68 148.69" hpr="-0.0 164.5 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-389.65 -19.91 158.80" hpr="-0.0 164.5 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-387.15 -19.85 149.95" hpr="0.0 -15.5 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="106.58 33.20 280.81" hpr="-0.0 170.7 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-354.33 -16.58 160.01" hpr="0.0 -16.5 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-356.99 -16.64 168.81" hpr="-0.0 163.5 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-324.27 -13.59 178.83" hpr="-0.0 163.5 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-321.61 -13.53 170.03" hpr="0.0 -16.5 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-289.27 -9.50 179.92" hpr="0.0 -14.9 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-291.68 -9.55 188.79" hpr="-0.0 165.1 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-259.03 -6.18 198.64" hpr="-0.0 165.1 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-256.62 -6.12 189.77" hpr="0.0 -14.9 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-223.99 -3.50 199.61" hpr="0.0 -14.9 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-226.40 -3.56 208.48" hpr="-0.0 165.1 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="108.11 33.26 271.75" hpr="0.0 -9.3 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-194.08 0.58 218.15" hpr="-0.0 165.1 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-191.67 0.64 209.28" hpr="0.0 -14.9 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-158.50 4.45 219.09" hpr="0.0 -15.4 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-160.99 4.40 227.93" hpr="-0.0 164.6 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-128.81 6.58 237.83" hpr="-0.0 164.6 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-126.32 6.63 228.98" hpr="0.0 -15.4 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="141.47 36.72 279.46" hpr="0.0 -11.2 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="139.63 36.66 288.46" hpr="-0.0 168.8 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="173.23 40.29 296.15" hpr="-0.0 168.8 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="175.06 40.35 287.14" hpr="0.0 -11.2 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="208.13 43.69 294.65" hpr="0.0 -11.2 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="206.30 43.63 303.65" hpr="-0.0 168.8 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-26.69 19.14 247.89" hpr="-0.0 164.6 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="239.29 47.10 310.90" hpr="-0.0 168.8 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="241.13 47.15 301.90" hpr="0.0 -11.2 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="275.03 50.75 309.33" hpr="0.0 -11.2 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="273.19 50.69 318.33" hpr="-0.0 168.8 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="306.03 54.25 325.62" hpr="-0.0 168.8 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="307.86 54.30 316.61" hpr="0.0 -11.2 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="341.38 57.74 323.94" hpr="0.0 -11.2 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="339.54 57.68 332.94" hpr="-0.0 168.8 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="372.70 61.06 340.03" hpr="-0.0 168.8 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="374.54 61.11 331.03" hpr="0.0 -11.2 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-24.20 19.20 239.05" hpr="0.0 -15.4 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="407.98 64.56 338.04" hpr="0.0 -11.2 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="406.14 64.51 347.05" hpr="-0.0 168.8 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="439.43 68.02 354.18" hpr="-0.0 168.8 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="441.26 68.08 345.18" hpr="0.0 -11.2 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="474.51 71.59 352.16" hpr="0.0 -11.2 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="472.67 71.53 361.16" hpr="-0.0 168.8 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="506.19 74.94 368.12" hpr="-0.0 168.8 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="508.03 75.00 359.12" hpr="0.0 -11.2 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="541.45 78.51 365.99" hpr="0.0 -11.2 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="539.61 78.45 374.99" hpr="-0.0 168.8 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-61.48 14.92 228.58" hpr="0.0 -15.4 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="535.80 78.21 392.87" hpr="-0.0 168.8 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="537.64 78.26 383.87" hpr="0.0 -11.2 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="504.22 74.76 376.99" hpr="0.0 -11.2 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="502.39 74.70 386.00" hpr="-0.0 168.8 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="468.86 71.29 379.04" hpr="-0.0 168.8 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="470.70 71.34 370.04" hpr="0.0 -11.2 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="437.45 67.83 363.05" hpr="0.0 -11.2 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="435.62 67.78 372.06" hpr="-0.0 168.8 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="402.33 64.26 364.92" hpr="-0.0 168.8 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="404.17 64.32 355.92" hpr="0.0 -11.2 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-63.97 14.86 237.43" hpr="-0.0 164.6 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="370.73 60.87 348.90" hpr="0.0 -11.2 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="368.89 60.81 357.91" hpr="-0.0 168.8 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="335.73 57.44 350.82" hpr="-0.0 168.8 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="337.57 57.49 341.82" hpr="0.0 -11.2 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="304.05 54.06 334.49" hpr="0.0 -11.2 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="302.22 54.00 343.49" hpr="-0.0 168.8 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="269.38 50.45 336.21" hpr="-0.0 168.8 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="271.22 50.50 327.20" hpr="0.0 -11.2 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="237.32 46.91 319.77" hpr="0.0 -11.2 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="235.48 46.85 328.78" hpr="-0.0 168.8 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-88.15 12.01 230.46" hpr="-0.0 164.6 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="202.49 43.39 321.53" hpr="-0.0 168.8 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="204.32 43.45 312.53" hpr="0.0 -11.2 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="171.25 40.11 305.02" hpr="0.0 -11.2 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="169.42 40.05 314.02" hpr="-0.0 168.8 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="135.82 36.42 306.34" hpr="-0.0 168.8 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="137.66 36.48 297.34" hpr="0.0 -11.2 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="104.31 33.01 289.63" hpr="0.0 -9.3 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="102.77 32.96 298.69" hpr="-0.0 170.7 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="69.71 29.52 290.88" hpr="-0.0 169.5 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="71.44 29.58 281.86" hpr="0.0 -10.5 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-85.66 12.06 221.62" hpr="0.0 -15.4 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="38.50 26.06 273.84" hpr="0.0 -13.0 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="36.38 26.00 282.78" hpr="-0.0 167.0 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-89.47 11.82 239.49" hpr="0.0 -15.4 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-91.96 11.76 248.34" hpr="-0.0 164.6 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-67.78 14.62 255.30" hpr="-0.0 164.6 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-65.29 14.68 246.46" hpr="0.0 -15.4 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-28.01 18.96 256.92" hpr="0.0 -15.4 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-30.50 18.90 265.77" hpr="-0.0 164.6 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="3.12 22.45 274.53" hpr="-0.0 166.8 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="5.28 22.51 265.59" hpr="0.0 -13.2 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="40.19 26.25 264.90" hpr="-0.0 167.0 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-122.09 6.85 211.21" hpr="0.0 -15.4 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-124.58 6.79 220.05" hpr="-0.0 164.6 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-156.76 4.61 210.16" hpr="-0.0 164.6 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-154.27 4.67 201.31" hpr="0.0 -15.4 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-187.45 0.85 191.51" hpr="0.0 -14.9 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-189.85 0.79 200.37" hpr="-0.0 165.1 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-222.17 -3.35 190.70" hpr="-0.0 165.1 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-219.76 -3.29 181.83" hpr="0.0 -14.9 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-252.39 -5.91 171.99" hpr="0.0 -14.9 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-254.80 -5.96 180.86" hpr="-0.0 165.1 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="42.31 26.30 255.96" hpr="0.0 -13.0 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-287.45 -9.34 171.01" hpr="-0.0 165.1 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-285.04 -9.29 162.15" hpr="0.0 -14.9 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-317.38 -13.32 152.26" hpr="0.0 -16.5 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-320.04 -13.37 161.05" hpr="-0.0 163.5 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-352.76 -16.43 151.03" hpr="-0.0 163.5 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-350.10 -16.37 142.24" hpr="0.0 -16.5 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-382.92 -19.64 132.18" hpr="0.0 -15.5 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-385.42 -19.70 141.02" hpr="-0.0 164.5 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-417.53 -23.46 130.91" hpr="-0.0 164.5 -0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_2" xyz="-415.03 -23.41 122.07" hpr="0.0 -15.5 0.0" scale="0.84 0.19 0.32"/> <!-- writeStaticObjects 3 -->
+    <static-object model="Plane.b3d" xyz="-97.90 4.93 178.16" hpr="0.0 42.5 0.0" scale="4.49 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object model="Plane.008.b3d" xyz="-24.95 10.95 243.61" hpr="0.0 74.1 0.0" scale="4.49 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object model="Plane.009.b3d" xyz="-66.31 6.43 212.12" hpr="0.0 42.5 0.0" scale="4.49 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object model="Plane.010.b3d" xyz="31.04 17.00 257.89" hpr="0.0 76.8 0.0" scale="4.49 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object model="Plane.011.b3d" xyz="84.74 22.69 271.03" hpr="0.0 76.8 0.0" scale="4.49 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object model="Plane.012.b3d" xyz="137.38 28.24 283.18" hpr="0.0 76.8 0.0" scale="4.49 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object model="river_ground.b3d" xyz="0.00 -2.13 0.00" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object model="Plane.015.b3d" xyz="470.73 -5.71 91.90" hpr="0.0 -89.5 0.0" scale="4.86 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="247.59 42.91 272.88" hpr="-0.0 165.3 -0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="251.19 43.77 285.68" hpr="-0.0 -14.7 0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="263.90 35.37 177.65" hpr="0.0 43.0 0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="254.17 33.50 156.50" hpr="0.0 12.1 0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="249.91 32.25 143.87" hpr="0.0 171.3 0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="262.07 29.90 118.55" hpr="-0.0 135.9 -0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="258.45 31.03 132.17" hpr="-0.0 -25.1 0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="286.09 27.93 105.77" hpr="-0.0 100.3 -0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="275.30 28.66 113.96" hpr="-0.0 -51.7 0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="299.67 27.15 109.51" hpr="-0.0 -76.8 0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="307.69 25.64 97.22" hpr="-0.0 133.0 -0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="321.24 24.77 91.55" hpr="-0.0 -34.3 0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="258.20 41.51 262.61" hpr="0.0 -22.3 -0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="322.12 24.20 77.71" hpr="-0.0 148.0 -0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="333.67 24.12 71.34" hpr="-0.0 -32.0 0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="333.61 24.16 57.48" hpr="-0.0 152.0 -0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="344.57 24.21 50.19" hpr="-0.0 -20.0 0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="342.01 24.03 35.45" hpr="-0.0 175.9 -0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="347.97 23.76 27.53" hpr="0.0 10.4 0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="338.23 22.46 22.42" hpr="-0.0 -143.4 -0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="336.70 20.56 12.03" hpr="0.0 49.0 0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="325.73 19.09 13.57" hpr="-0.0 -111.3 -0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="318.85 17.19 5.10" hpr="0.0 81.8 0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="257.73 40.27 247.51" hpr="-0.0 145.8 -0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="307.43 15.51 11.48" hpr="0.0 -86.7 0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="295.45 13.92 6.26" hpr="-0.0 100.1 -0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="285.17 12.34 15.61" hpr="0.0 -73.7 0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="271.67 10.61 13.17" hpr="-0.0 111.1 -0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="264.48 9.20 23.83" hpr="0.0 -59.7 0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="252.17 6.82 24.06" hpr="-0.0 131.7 -0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="249.00 5.26 36.22" hpr="0.0 -37.7 0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="237.66 2.41 53.48" hpr="0.0 -16.3 0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="237.55 3.65 40.29" hpr="-0.0 149.4 -0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="229.07 1.31 62.58" hpr="-0.0 166.6 -0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="272.53 38.50 238.01" hpr="-0.0 -45.7 0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="234.36 0.19 75.44" hpr="0.0 -4.9 0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="278.55 37.99 224.92" hpr="0.0 129.0 0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="291.45 37.68 220.42" hpr="-0.0 -33.1 0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="286.40 37.65 209.25" hpr="-0.0 -162.1 -0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="284.18 37.13 195.51" hpr="0.0 46.8 0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="269.16 36.41 191.42" hpr="-0.0 -133.2 -0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern_1" xyz="253.94 34.57 171.15" hpr="0.0 -156.1 -0.0" scale="0.53 0.12 0.20"/> <!-- writeStaticObjects 3 -->
+    <animated-texture name="arrow.png" dx="-1.000" />
+    <animated-texture name="arrow.png" dx="-1.000" />
+    <animated-texture name="arrow.png" dx="-1.000" />
+    <animated-texture name="arrow.png" dx="-1.000" />
+    <animated-texture name="arrow.png" dx="-1.000" />
+    <animated-texture name="arrow.png" dx="-1.000" />
+    <animated-texture name="arrow.png" dx="-1.000" />
+    <animated-texture name="arrow.png" dx="-1.000" />
+    <animated-texture name="arrow.png" dx="-1.000" />
+  </track>
+  <object type="animation" model="river.b3d" xyz="0.00 0.00 0.00" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00"  interaction="ghost">
+  </object>
+  <checks>
+    <check-lap kind="lap" same-group="0" other-ids="1 5" />
+    <check-line kind="activate" other-ids="4" p1="-181.40 31.19" p2="-231.86 32.37"
+                min-height="4.75" same-group="1 5"/>
+    <check-line kind="activate" other-ids="0" p1="200.81 111.89" p2="201.86 61.43"
+                min-height="-11.65" same-group="2"/>
+    <check-line kind="activate" other-ids="2" p1="369.80 33.33" p2="319.52 37.83"
+                min-height="18.43" same-group="3 6"/>
+    <check-line kind="activate" other-ids="3 6" p1="239.47 250.34" p2="284.87 272.39"
+                min-height="35.90" same-group="4"/>
+    <check-line kind="activate" other-ids="4" p1="-111.60 113.19" p2="-133.83 67.88"
+                min-height="8.89" same-group="1 5"/>
+    <check-line kind="activate" other-ids="2" p1="510.21 100.94" p2="459.74 101.12"
+                min-height="-4.40" same-group="3 6"/>
+  </checks>
+  <sky-box texture="skybox-top.jpg skybox-bottom.jpg skybox-east.jpg skybox-west.jpg skybox-south.jpg skybox-north.jpg"/>
+  <camera far="1000.0"/>
+  <default-start karts-per-row     ="2"
+                 forwards-distance ="1.50"
+                 sidewards-distance="3.00"
+                 upwards-distance  ="0.10"/>
+  <big-nitro x="-15.50" y="1.16" z="6.71" />
+  <big-nitro x="-15.50" y="1.16" z="3.58" />
+  <big-nitro x="-15.50" y="1.16" z="0.38" />
+  <item x="-52.89" y="2.95" z="3.58" />
+  <banana x="-129.06" y="3.20" z="6.57" />
+  <banana x="-131.62" y="3.20" z="3.62" />
+  <banana x="-129.07" y="3.20" z="0.78" />
+  <small-nitro x="-189.23" y="3.20" z="0.78" />
+  <small-nitro x="-189.20" y="3.20" z="6.59" />
+  <big-nitro x="-204.00" y="3.20" z="-20.57" />
+  <big-nitro x="-204.00" y="5.15" z="72.68" />
+  <item x="-176.14" y="3.09" z="136.89" />
+  <item x="-174.43" y="3.09" z="129.40" />
+  <item x="-157.19" y="3.95" z="128.21" />
+  <item x="-157.19" y="3.95" z="136.13" />
+  <banana x="-80.49" y="6.01" z="196.59" />
+  <banana x="124.79" y="26.78" z="277.23" />
+  <banana x="124.08" y="26.78" z="280.13" />
+  <banana x="123.51" y="26.78" z="283.00" />
+  <item x="71.04" y="21.11" z="264.72" />
+  <item x="70.10" y="21.20" z="269.91" />
+  <small-nitro x="235.75" y="38.68" z="309.35" />
+  <small-nitro x="246.06" y="39.52" z="306.43" />
+  <item x="264.82" y="33.24" z="243.40" />
+  <banana x="288.87" y="31.93" z="208.10" />
+  <small-nitro x="281.22" y="30.84" z="194.71" />
+  <small-nitro x="274.33" y="30.46" z="194.71" />
+  <item x="267.22" y="23.47" z="121.07" />
+  <item x="263.54" y="23.46" z="118.59" />
+  <item x="231.65" y="-5.67" z="74.49" />
+  <banana x="318.32" y="11.27" z="10.46" />
+  <banana x="319.29" y="11.12" z="6.54" />
+  <big-nitro x="209.41" y="-10.25" z="88.83" />
+  <big-nitro x="209.41" y="-10.25" z="94.44" />
+  <banana x="139.17" y="-16.55" z="88.07" />
+  <banana x="139.17" y="-16.55" z="91.08" />
+  <banana x="139.17" y="-16.55" z="94.18" />
+  <item x="53.06" y="-5.31" z="89.93" />
+  <object type="billboard" texture="light_red.png" xyz="-81.59 210.66 -133.96" 
+             width="10.018" height="10.018" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="119.86 70.49 277.34" 
+             width="9.419" height="9.419" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="115.20 70.49 298.53" 
+             width="9.419" height="9.419" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="117.52 70.49 299.22" 
+             width="9.419" height="9.419" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="122.11 70.49 278.15" 
+             width="9.419" height="9.419" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="99.53 64.71 263.97" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="74.39 52.28 257.89" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="50.62 41.39 251.96" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="24.79 30.41 245.53" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="0.29 20.27 239.39" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="12.58 25.27 242.44" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="38.29 36.06 248.79" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="63.06 46.93 255.05" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="87.01 58.41 260.89" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="111.53 71.30 266.83" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="-12.77 15.43 236.06" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_red.png" xyz="122.85 79.70 269.50" 
+             width="10.018" height="10.018" >
+  </object>
+  <object type="billboard" texture="light_red.png" xyz="114.62 79.70 307.69" 
+             width="10.018" height="10.018" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="-12.77 15.43 236.06" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="111.53 71.30 266.83" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="87.01 58.41 260.89" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="63.06 46.93 255.05" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="38.29 36.06 248.79" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="12.58 25.27 242.44" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="0.29 20.27 239.39" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="24.79 30.41 245.53" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="50.62 41.39 251.96" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="74.39 52.28 257.89" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="99.53 64.71 263.97" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="90.45 64.71 301.71" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="65.32 52.28 295.63" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="41.54 41.39 289.71" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="15.71 30.41 283.27" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="-8.78 20.27 277.13" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="3.51 25.27 280.19" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="29.22 36.06 286.53" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="53.98 46.93 292.80" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="77.93 58.41 298.63" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="102.45 71.30 304.58" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="-21.84 15.43 273.80" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="146.99 66.01 274.89" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="169.77 57.09 280.06" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="192.79 49.84 285.26" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="216.20 43.66 290.63" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="228.00 41.08 293.33" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="205.01 46.50 288.07" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="181.07 53.41 282.58" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="158.64 61.25 277.49" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="135.20 71.45 272.23" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="126.68 71.32 310.10" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="150.11 59.90 315.36" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="172.54 51.13 320.45" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="196.49 44.04 325.93" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="219.47 39.69 331.19" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="207.67 41.60 328.50" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="184.26 47.45 323.12" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="161.24 55.24 317.92" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="138.46 65.18 312.76" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="138.25 26.98 313.93" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="161.70 29.53 319.10" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="185.23 32.01 324.30" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="208.55 34.66 329.94" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="-9.04 11.55 278.31" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="15.54 14.20 284.45" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="41.23 16.90 290.88" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="65.13 19.38 296.81" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="90.35 22.25 302.88" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="99.69 22.25 262.90" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="74.61 19.38 256.70" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="50.82 16.90 250.69" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="25.04 14.20 244.53" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="0.52 11.55 238.08" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="216.37 34.66 289.44" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="193.06 32.01 283.90" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="169.99 29.53 278.91" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="147.22 26.98 273.72" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="123.16 53.74 267.71" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="123.22 29.57 267.71" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="123.10 6.88 267.71" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="114.07 6.88 309.41" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="114.19 29.57 309.41" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_white.png" xyz="114.13 53.74 309.41" 
+             width="2.415" height="2.415" >
+  </object>
+  <object type="billboard" texture="light_red.png" xyz="357.67 265.03 299.80" 
+             width="10.018" height="10.018" >
+  </object>
+  <object type="billboard" texture="light_red.png" xyz="-37.48 247.16 -24.61" 
+             width="10.018" height="10.018" >
+  </object>
+  <object type="billboard" texture="light_red.png" xyz="-81.59 210.66 -133.96" 
+             width="10.018" height="10.018" >
+  </object>
+  <object type="billboard" texture="light_red.png" xyz="-235.51 249.81 -175.08" 
+             width="10.018" height="10.018" >
+  </object>
+  <object type="billboard" texture="light_red.png" xyz="-281.63 214.94 49.64" 
+             width="10.018" height="10.018" >
+  </object>
+</scene>

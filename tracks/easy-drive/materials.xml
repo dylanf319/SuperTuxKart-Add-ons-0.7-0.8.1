@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev 8296 -->
+<materials>
+  <material name="city_fern.png" compositing="blend" backface-culling="N"/>
+  <material name="city_fern.png" compositing="blend" backface-culling="N"/>
+  <material name="city_fern.png" compositing="blend" backface-culling="N"/>
+  <material name="fence.png" backface-culling="N" compositing="blend"/>
+  <material name="fence.png" backface-culling="N" compositing="blend"/>
+  <material name="fence.png" backface-culling="N" compositing="blend"/>
+  <material name="tree_1.png" compositing="blend" backface-culling="N"/>
+  <material name="tree_1.png" compositing="blend" backface-culling="N"/>
+  <material name="tree_1.png" compositing="blend" backface-culling="N"/>
+</materials>

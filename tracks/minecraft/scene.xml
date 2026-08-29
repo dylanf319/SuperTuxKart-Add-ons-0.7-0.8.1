@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev Unknown -->
+<scene>
+  <track model="1_track.b3d" x="0" y="0" z="0"/>
+  <sky-color rgb="0 0 0"/>
+  <camera far="687.5009765625"/>
+  <checks>
+    <check-lap kind="lap" same-group="0" other-ids="1" />
+    <check-line kind="activate" other-ids="0" p1="-100.45 -11.15" p2="-100.45 -5.32"
+                min-height="62.98" same-group="1"/>
+  </checks>
+  <item x="85.55" y="56.17" z="-11.33" />
+  <item x="5.13" y="61.07" z="-7.91" />
+  <item x="-104.95" y="63.38" z="4.30" />
+  <item x="-95.71" y="63.38" z="20.76" />
+  <item x="-100.33" y="63.38" z="-8.47" />
+  <default-start karts-per-row     ="5"
+                 forwards-distance ="1.10"
+                 sidewards-distance="1.10"
+                 upwards-distance  ="1.10"/>
+</scene>

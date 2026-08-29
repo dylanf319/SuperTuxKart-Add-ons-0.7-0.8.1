@@ -1,0 +1,466 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev Unknown -->
+<scene>
+  <track model="mountain16_track.b3d" x="0" y="0" z="0">
+    <static-object model="tree.b3d" xyz="-105.44 32.74 79.59" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-48.76 15.59 37.40" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="53.47 5.06 0.71" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="9.33 5.06 -2.68" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-7.86 6.45 3.75" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-6.19 6.37 20.74" hpr="-90.0 0.0 -5.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="10.12 5.69 28.54" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-6.88 7.43 42.51" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="10.06 5.72 56.65" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-8.16 8.78 52.51" hpr="-90.0 -0.0 -6.6" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-4.18 6.07 74.38" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-16.68 6.40 80.65" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-19.51 7.32 90.62" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="10.34 6.23 61.37" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="9.43 6.08 50.76" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="9.15 6.02 39.83" hpr="-89.5 -4.4 -2.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-7.83 7.37 31.62" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="8.62 5.46 16.71" hpr="-90.0 0.0 -1.9" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-11.73 7.82 56.62" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-10.55 6.65 75.83" hpr="-90.0 0.0 -6.1" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-27.41 11.31 122.94" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-37.12 13.24 60.10" hpr="-90.0 -0.0 -5.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-19.12 9.35 55.43" hpr="-90.0 -0.0 -0.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-29.70 11.76 50.75" hpr="-90.0 -0.0 -10.3" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-32.45 12.63 35.78" hpr="-90.0 -0.0 -5.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-16.92 9.22 43.88" hpr="-90.0 0.0 -10.5" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-20.49 10.31 26.98" hpr="-90.0 -0.0 -13.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-23.52 10.46 37.01" hpr="-90.0 -0.0 -5.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-49.76 15.17 45.67" hpr="-90.0 -0.0 -5.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-57.59 15.87 51.17" hpr="-90.0 -0.0 -5.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-49.90 15.08 57.76" hpr="-90.0 -0.0 -0.8" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-58.42 16.93 68.48" hpr="-90.0 -0.0 -5.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-49.76 15.37 77.55" hpr="-90.0 -0.0 -5.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-52.51 15.75 65.46" hpr="-90.0 -0.0 -5.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-65.15 18.50 81.53" hpr="-90.0 -0.0 -5.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-58.00 17.18 76.72" hpr="-90.0 -0.0 -5.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-55.81 16.93 87.17" hpr="-90.0 0.0 -1.9" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-45.36 14.97 90.33" hpr="-90.0 0.0 -9.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-63.64 17.55 96.78" hpr="-90.0 -0.0 -5.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-33.15 11.49 67.51" hpr="-90.0 -0.0 -5.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-34.80 12.05 123.25" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-39.89 12.59 119.49" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-5.78 6.11 87.27" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-84.51 22.95 101.56" hpr="-90.0 0.0 -15.5" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-98.23 24.86 116.02" hpr="-90.0 -0.0 -5.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-83.02 17.55 115.13" hpr="-90.0 -0.0 -5.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-63.64 15.99 115.27" hpr="-90.0 -0.0 -5.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-85.86 17.55 134.21" hpr="-90.0 -0.0 -5.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-64.68 16.34 128.10" hpr="-90.0 -0.0 -5.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-44.55 11.46 137.34" hpr="-90.0 -0.0 -5.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-68.56 14.42 148.97" hpr="-90.0 0.0 -1.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-45.89 10.16 148.97" hpr="-90.0 -0.0 -5.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-8.22 5.79 135.98" hpr="-90.0 -0.0 -5.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-20.69 8.21 138.39" hpr="-90.0 -0.0 -5.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-43.69 14.69 -3.81" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-33.71 13.64 -3.81" hpr="-90.0 0.0 -0.3" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-27.05 12.52 3.75" hpr="-90.0 -0.0 -13.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-22.78 11.37 14.08" hpr="-90.0 -0.0 -6.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-72.69 18.31 51.92" hpr="-90.0 -0.0 -5.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-87.51 24.84 58.50" hpr="-99.3 1.3 -13.7" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-99.35 27.43 40.94" hpr="-99.3 1.3 -10.1" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-63.19 18.07 14.41" hpr="-99.3 1.3 -10.1" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-254.41 36.13 145.05" hpr="-85.5 -0.1 -6.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-238.85 41.37 114.21" hpr="-78.1 0.6 3.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-217.59 41.86 124.04" hpr="-87.4 1.5 5.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-225.58 39.66 125.45" hpr="-80.9 0.9 5.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-231.85 40.12 120.24" hpr="-87.4 1.5 5.0" scale="1.56 1.56 4.51"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-264.46 38.10 114.53" hpr="-80.9 0.9 5.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-340.41 17.64 191.32" hpr="-80.9 0.9 5.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-308.94 17.59 188.80" hpr="-93.8 2.0 4.8" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-372.24 19.26 198.12" hpr="-80.9 0.9 5.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-358.81 12.32 228.85" hpr="-89.0 1.6 5.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-350.43 13.28 214.67" hpr="-83.6 1.1 5.1" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-340.44 12.32 231.26" hpr="-89.0 1.6 5.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-323.04 11.91 229.33" hpr="-89.0 1.6 5.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-320.47 11.14 237.22" hpr="-89.0 1.6 5.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-374.59 15.00 224.34" hpr="-89.0 1.6 5.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-268.44 12.64 199.06" hpr="-90.6 1.3 0.6" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-280.52 10.45 233.52" hpr="-89.0 1.6 5.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-302.10 11.44 229.33" hpr="-89.0 1.6 5.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-379.67 19.01 202.29" hpr="-80.9 0.9 -4.6" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-155.62 19.56 152.54" hpr="-91.2 125.3 -9.5" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-142.42 15.22 170.96" hpr="-104.7 126.4 -11.3" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-165.86 20.48 158.22" hpr="-101.1 125.7 -6.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-161.64 13.22 179.97" hpr="-104.4 125.9 -8.7" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-144.34 10.50 193.69" hpr="-95.4 125.5 -1.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-172.67 12.54 186.52" hpr="-95.4 125.5 -1.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-161.50 10.47 202.44" hpr="-95.4 125.5 -1.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-151.91 7.87 214.28" hpr="-94.5 125.5 -0.6" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-171.66 9.37 211.55" hpr="-96.4 124.4 -6.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-137.56 8.33 204.22" hpr="-81.9 125.7 15.6" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-133.67 12.59 184.07" hpr="-81.9 125.7 5.8" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-115.91 12.17 179.47" hpr="-81.9 125.7 -2.5" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-129.47 21.12 146.21" hpr="-104.7 126.4 -11.3" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-129.60 31.27 110.48" hpr="-104.7 126.4 -14.6" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-139.00 22.31 125.83" hpr="-104.7 126.4 -14.6" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-112.78 6.62 195.06" hpr="-94.5 125.5 -9.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-112.50 6.06 203.89" hpr="-94.5 125.5 -14.6" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-48.38 4.58 185.10" hpr="-90.0 0.0 -1.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-59.44 6.17 177.16" hpr="-87.4 0.2 -4.7" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-76.07 12.39 165.53" hpr="-85.4 0.3 -6.5" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-173.17 4.83 305.10" hpr="-87.3 4.2 -0.7" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-149.61 6.19 278.05" hpr="-89.0 1.6 -1.5" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-177.75 9.32 227.49" hpr="-69.6 128.4 25.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-156.26 7.29 230.54" hpr="-94.3 124.5 -7.6" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-159.13 6.81 245.58" hpr="-86.0 124.8 3.3" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-155.54 6.48 259.55" hpr="-87.5 124.6 1.3" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-145.87 7.00 238.06" hpr="-94.7 125.3 -5.7" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-147.71 6.34 251.78" hpr="-94.8 124.4 -4.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-144.14 6.18 263.00" hpr="-94.8 124.4 -4.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-136.65 5.55 253.32" hpr="-94.8 124.4 -4.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-138.17 5.35 243.61" hpr="-78.3 126.4 10.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-131.73 6.25 230.54" hpr="-99.5 124.7 -1.3" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-143.19 7.54 223.55" hpr="-91.9 124.5 -3.6" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-131.91 7.68 220.33" hpr="-90.7 124.3 -0.9" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-121.16 7.34 216.03" hpr="-95.2 127.3 -0.1" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-124.71 4.86 235.01" hpr="-94.8 124.4 -4.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-115.79 4.48 229.47" hpr="-93.6 122.1 -3.8" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-121.01 4.42 247.09" hpr="-94.8 124.4 -4.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-131.02 4.91 241.92" hpr="-94.8 124.4 -4.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-124.84 5.00 257.80" hpr="-94.8 124.4 -4.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-136.56 5.68 267.07" hpr="-93.0 123.4 -6.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-110.85 3.22 245.01" hpr="-94.8 124.4 -4.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-110.42 3.30 236.09" hpr="-90.6 129.2 -0.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-19.40 7.54 147.62" hpr="-94.8 124.4 -4.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-33.39 6.30 160.41" hpr="-94.8 124.4 -4.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-39.58 11.76 144.53" hpr="-94.8 124.4 -4.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-29.56 8.65 149.70" hpr="-94.8 124.4 -4.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-33.27 12.64 137.62" hpr="-94.8 124.4 -4.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-45.21 9.52 155.93" hpr="-94.8 124.4 -4.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-52.70 8.07 165.61" hpr="-94.8 124.4 -4.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-56.27 11.79 154.39" hpr="-94.8 124.4 -4.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-92.50 4.94 185.25" hpr="-117.5 137.5 -10.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-75.96 2.35 201.50" hpr="-78.7 6.4 1.3" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-57.16 4.05 191.31" hpr="-82.2 4.1 -0.6" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-69.54 -2.92 220.85" hpr="-78.7 6.4 1.3" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-69.41 0.39 211.89" hpr="-78.7 6.4 16.9" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-59.18 -6.17 233.07" hpr="-78.7 6.4 1.3" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-83.01 -6.62 248.94" hpr="-94.5 125.5 -14.6" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-98.01 -1.80 261.55" hpr="-94.5 125.5 -14.6" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-108.30 3.41 274.89" hpr="-81.2 126.4 -2.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-100.90 17.66 140.82" hpr="-84.8 -1.4 0.7" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="50.13 5.06 21.11" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="44.94 5.06 47.82" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="36.78 5.06 69.51" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="32.88 5.09 86.39" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="129.43 32.09 146.72" hpr="-93.6 124.1 -2.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="140.61 35.83 122.16" hpr="-97.4 123.9 0.6" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="134.67 31.07 170.70" hpr="-97.4 123.9 0.6" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="62.98 8.66 144.22" hpr="-93.6 124.1 -2.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="63.98 7.61 168.70" hpr="-93.6 124.1 -2.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="43.49 3.06 195.69" hpr="-93.6 124.1 -2.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="74.97 6.45 195.69" hpr="-93.6 124.1 -2.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="46.49 5.30 178.70" hpr="-93.6 124.1 -2.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="57.98 5.62 188.19" hpr="-93.6 124.1 -2.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="88.96 11.76 168.20" hpr="-93.6 124.1 -2.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="79.97 11.58 148.22" hpr="-93.6 124.1 -2.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="50.48 6.66 158.71" hpr="-93.6 124.1 -2.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="75.47 6.04 209.68" hpr="-93.6 124.1 -2.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="36.49 1.35 228.67" hpr="-93.6 124.1 -2.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="52.98 0.35 236.66" hpr="-93.6 124.1 -2.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="50.98 2.87 206.18" hpr="-93.6 124.1 -2.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="73.47 4.99 242.66" hpr="-91.6 125.8 7.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="60.48 11.44 283.13" hpr="-93.6 124.1 -2.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="28.00 1.22 254.15" hpr="-93.6 124.1 -2.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="76.47 9.57 262.64" hpr="-93.6 124.1 -2.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="114.94 21.57 251.15" hpr="-93.6 124.1 -2.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="101.95 15.68 219.67" hpr="-93.6 124.1 -2.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="98.45 16.17 169.20" hpr="-93.4 123.5 4.6" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="34.11 5.08 -29.16" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="35.15 5.08 -46.64" hpr="-89.7 0.1 -1.7" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="38.86 5.08 -64.30" hpr="-90.3 -0.1 1.9" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="18.25 5.08 -56.99" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="9.89 5.08 -44.74" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="17.68 5.08 -33.63" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="43.68 5.07 -81.00" hpr="-90.3 -0.1 1.5" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="62.43 5.00 -77.88" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="61.76 5.00 -59.31" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="57.70 5.00 -48.51" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="57.37 5.00 -25.22" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="79.98 8.60 -43.78" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="121.84 24.00 9.89" hpr="-90.2 -2.1 4.8" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-49.48 -6.54 237.19" hpr="-78.7 6.4 1.3" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-37.71 -4.77 243.18" hpr="-84.4 3.6 10.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-29.86 -5.30 251.23" hpr="-90.0 5.2 5.5" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-24.70 -6.30 260.11" hpr="-78.7 6.4 1.3" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-23.26 -7.79 268.37" hpr="-89.4 8.7 -1.6" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-24.29 -6.08 280.76" hpr="-96.2 9.9 -3.7" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-29.45 -6.17 294.18" hpr="-78.7 6.4 1.3" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-48.24 -6.17 295.01" hpr="-78.7 6.4 1.3" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-61.87 -3.21 294.39" hpr="-94.6 6.5 -0.5" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-69.92 -4.63 282.41" hpr="-90.8 6.5 -0.1" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-76.94 -5.80 270.02" hpr="-92.8 6.5 -0.3" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-87.88 -5.41 260.94" hpr="-85.7 3.5 -1.8" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-54.04 -7.29 267.35" hpr="-89.4 8.7 -1.6" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="125.20 24.12 55.52" hpr="-93.6 122.9 0.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-33.43 5.47 377.39" hpr="-90.4 5.0 2.9" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-8.36 14.38 402.79" hpr="-101.5 4.0 4.6" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-4.93 9.94 370.13" hpr="-90.4 5.0 2.9" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="11.09 5.31 71.67" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="0.28 6.02 76.02" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-123.24 38.65 20.75" hpr="-95.6 2.2 -1.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-261.39 47.26 64.71" hpr="-87.4 1.5 5.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-231.38 37.82 -2.00" hpr="-87.4 1.5 5.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-233.30 44.34 24.49" hpr="-87.4 1.5 5.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-263.30 32.20 4.39" hpr="-87.4 1.5 5.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-232.34 29.59 -32.32" hpr="-87.4 1.5 5.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-260.43 23.70 -32.64" hpr="-87.4 1.5 5.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-250.53 31.13 -11.26" hpr="-87.4 1.5 5.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-270.01 26.96 -11.57" hpr="-87.4 1.5 5.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-283.09 30.98 23.86" hpr="-87.4 1.5 5.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-314.05 25.26 23.54" hpr="-87.4 1.5 5.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-308.63 24.18 13.96" hpr="-87.4 1.5 5.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-322.99 34.09 65.67" hpr="-87.4 1.5 5.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-289.16 32.50 37.90" hpr="-87.4 1.5 5.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-306.07 32.17 50.03" hpr="-87.4 1.5 5.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-319.48 37.83 77.80" hpr="-91.1 5.7 -0.5" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-90.25 15.99 -117.64" hpr="-87.6 3.8 -1.9" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-100.73 15.56 -102.88" hpr="-89.2 3.2 -4.7" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-146.04 30.96 -151.47" hpr="-87.6 3.8 -1.9" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-345.87 20.77 -169.89" hpr="-87.6 3.8 -1.9" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-371.60 16.28 -241.13" hpr="-87.6 3.8 -1.9" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-521.01 44.63 -36.57" hpr="-87.6 3.8 -1.9" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-420.05 44.77 -100.81" hpr="-86.4 5.2 0.3" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-430.78 10.94 269.54" hpr="-94.8 5.6 -1.8" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-419.31 10.12 277.54" hpr="-94.8 5.6 -1.8" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-406.94 11.10 285.69" hpr="-94.8 5.6 -1.8" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-401.21 11.10 284.48" hpr="-94.8 5.6 -1.8" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-393.06 11.10 279.50" hpr="-94.8 5.6 -1.8" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-385.51 10.29 273.76" hpr="-94.8 5.6 -1.8" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-379.47 10.93 263.65" hpr="-88.9 2.7 3.7" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-383.54 12.32 252.49" hpr="-88.9 2.7 3.7" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-391.67 12.75 241.42" hpr="-88.9 2.7 3.7" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-372.21 11.55 282.60" hpr="-88.9 2.7 3.7" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-399.42 12.61 234.53" hpr="-88.9 2.7 3.7" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-404.80 12.25 227.00" hpr="-88.9 2.7 3.7" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-412.77 12.12 221.19" hpr="-89.8 2.6 1.8" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-416.64 13.18 210.21" hpr="-88.9 2.7 3.7" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-416.00 15.06 199.88" hpr="-88.9 2.7 3.7" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-423.74 15.36 191.27" hpr="-88.9 2.7 3.7" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-431.28 13.99 183.95" hpr="-88.9 2.7 3.7" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-444.19 10.28 182.01" hpr="-88.9 2.7 3.7" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-457.97 10.48 186.53" hpr="-92.0 2.4 -2.6" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-459.69 10.44 197.08" hpr="-92.9 8.2 -4.8" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-456.68 10.15 204.97" hpr="-92.9 8.2 -4.8" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-469.14 15.21 204.97" hpr="-92.9 8.2 -4.8" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-463.33 12.84 213.69" hpr="-92.9 8.2 -4.8" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-461.56 11.38 222.93" hpr="-92.9 8.2 -4.8" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-468.12 13.08 231.85" hpr="-92.9 8.2 -4.8" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-458.40 10.21 240.59" hpr="-92.9 8.2 -4.8" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-465.30 17.07 247.63" hpr="-92.9 8.2 -4.8" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-455.23 12.94 252.82" hpr="-97.6 6.1 -10.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-450.35 13.99 262.68" hpr="-92.9 8.2 -4.8" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-440.18 14.67 272.34" hpr="-92.9 8.2 -4.8" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-191.89 50.01 64.73" hpr="-90.0 124.6 -0.9" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-3.38 5.08 -37.87" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-10.47 5.36 -50.46" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-23.51 5.03 -45.65" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-39.08 6.81 -56.18" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-53.72 10.47 -69.45" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-65.39 12.25 -82.27" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-71.57 15.39 -96.91" hpr="-86.9 -2.0 2.6" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-16.42 6.65 -19.57" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-28.30 6.67 -23.59" hpr="-90.0 -0.0 0.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-43.82 7.07 -31.83" hpr="-95.8 0.7 -2.8" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-125.00 25.27 -39.45" hpr="-95.6 2.2 -1.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-110.96 25.29 -26.09" hpr="-95.6 2.2 -1.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-117.13 32.45 0.95" hpr="-95.6 2.2 -1.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-90.76 26.62 16.02" hpr="-85.3 0.6 -8.5" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-90.76 21.68 -13.08" hpr="-95.6 2.2 -1.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-83.91 15.55 -38.42" hpr="-91.2 0.9 -3.7" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-108.91 18.36 -57.94" hpr="-95.6 2.2 -1.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-159.93 26.08 -54.51" hpr="-95.6 2.2 -1.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-155.13 31.08 -33.63" hpr="-95.6 2.2 -1.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-170.89 43.02 -12.86" hpr="-95.6 2.2 -1.0" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-194.92 28.00 -48.17" hpr="-97.2 3.5 1.7" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-162.01 43.17 60.11" hpr="-90.0 124.6 -0.9" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-165.87 43.03 49.90" hpr="-91.4 124.7 4.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-168.23 42.77 40.81" hpr="-92.2 124.8 -0.6" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-140.96 41.41 52.76" hpr="-90.0 124.6 -0.9" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-143.70 42.18 64.63" hpr="-90.0 124.6 -0.9" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-191.67 45.31 35.26" hpr="-92.5 126.0 -4.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-185.52 43.14 17.16" hpr="-92.5 126.0 -4.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-203.78 45.27 26.82" hpr="-89.9 125.5 0.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-243.16 14.29 198.67" hpr="-97.2 126.0 -3.8" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-210.91 13.35 197.83" hpr="-95.4 125.5 -1.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-219.71 11.90 216.25" hpr="-95.4 125.5 -1.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-229.76 13.43 202.85" hpr="-95.4 125.5 -1.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-194.16 12.53 196.57" hpr="-95.4 125.5 -1.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-144.66 40.70 41.88" hpr="-90.0 124.6 -0.9" scale="1.08 1.08 4.18"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-311.63 15.61 311.14" hpr="-90.1 3.6 -2.7" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-235.34 13.03 335.89" hpr="-91.3 4.1 -4.8" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-288.05 18.19 346.37" hpr="-88.9 2.7 3.7" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-210.73 11.23 216.45" hpr="-95.4 125.5 -1.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-228.08 11.58 224.37" hpr="-94.8 123.6 -5.5" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-224.27 12.84 208.90" hpr="-95.4 125.5 -1.4" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-198.74 11.05 212.35" hpr="-96.4 124.4 -6.2" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-186.11 10.06 211.64" hpr="-95.3 128.5 -8.7" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-270.40 11.50 219.71" hpr="-90.6 1.3 0.6" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-263.62 11.36 226.11" hpr="-90.6 1.3 0.6" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-256.14 11.16 232.69" hpr="-90.6 1.3 0.6" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-248.85 11.09 238.19" hpr="-90.6 1.3 0.6" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-239.26 10.74 242.16" hpr="-90.6 1.3 0.6" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+    <static-object model="tree.b3d" xyz="-229.16 10.21 243.12" hpr="-90.6 1.3 0.6" scale="1.56 1.56 5.06"/> <!-- writeStaticObjects 3 -->
+  </track>
+  <particle-emitter kind="smoke.xml" x="-241.81" y="12.07" z="225.52" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-241.62" y="12.07" z="225.47" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-241.94" y="12.07" z="225.34" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-48.73" y="16.26" z="-1.28" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-48.67" y="16.26" z="-1.16" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-48.84" y="16.26" z="-1.16" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-48.78" y="16.26" z="-1.43" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-48.56" y="16.26" z="-1.36" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-48.71" y="16.26" z="-1.32" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-48.85" y="16.26" z="-1.29" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-48.64" y="16.26" z="-1.20" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-48.79" y="16.26" z="-1.42" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-48.76" y="16.26" z="-1.20" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-50.82" y="16.84" z="7.67" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-50.78" y="16.82" z="7.45" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-50.76" y="16.75" z="7.54" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-50.85" y="16.93" z="7.54" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-50.82" y="16.84" z="7.68" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-50.78" y="16.77" z="7.59" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-50.81" y="16.90" z="7.29" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-50.83" y="16.90" z="7.52" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-50.78" y="16.80" z="7.46" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-50.78" y="16.80" z="7.46" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-50.85" y="16.91" z="7.64" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-50.82" y="16.89" z="7.43" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-50.83" y="16.90" z="7.56" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-50.83" y="16.94" z="7.36" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-50.74" y="16.73" z="7.42" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-50.79" y="16.79" z="7.65" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-50.89" y="17.01" z="7.56" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-0.30" y="6.62" z="66.92" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-0.06" y="6.62" z="66.73" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="0.09" y="6.62" z="66.90" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-0.10" y="6.62" z="66.84" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-0.05" y="6.62" z="67.12" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-0.20" y="6.62" z="67.05" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="0.02" y="6.62" z="66.93" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-0.14" y="6.62" z="66.85" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="0.20" y="6.62" z="66.85" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="0.01" y="6.71" z="66.95" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="0.05" y="6.43" z="66.93" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-0.12" y="6.47" z="67.02" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="0.06" y="6.86" z="66.93" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-0.16" y="6.87" z="67.05" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="0.12" y="6.46" z="66.89" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="0.23" y="6.75" z="66.84" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-0.08" y="6.65" z="67.00" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="0.07" y="6.56" z="66.92" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-0.04" y="6.55" z="66.98" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="0.06" y="6.18" z="66.92" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-241.95" y="12.07" z="225.66" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="smoke.xml" x="-241.75" y="12.07" z="225.62" h="0.000000">
+  </particle-emitter>
+  <sun  fog="true" fog-color="144 179 214" fog-start="172.00900268554688" fog-end="533.8141479492188"/>
+  <sky-color rgb="144 179 214"/>
+  <banana x="-0.300889" y="0.471669" z="21.745094" />
+  <banana x="1.801778" y="0.471669" z="21.745094" />
+  <item x="-197.997818" y="42.155819" z="27.990482" h="14.930655" />
+  <item x="-38.512283" y="1.154992" z="4.891869" />
+  <item x="-44.653744" y="11.930136" z="21.917477" />
+  <item x="-47.66967" y="12.003597" z="22.238897" />
+  <item x="-195.000916" y="42.082355" z="28.456964" h="14.930655" />
+  <small-nitro x="-312.53949" y="26.504675" z="169.722977" />
+  <small-nitro x="-283.811951" y="28.633942" z="172.242935" />
+  <small-nitro x="-256.596375" y="30.58577" z="170.226974" />
+  <small-nitro x="-365.710693" y="24.434555" z="182.070801" />
+  <small-nitro x="-339.463074" y="24.863623" z="172.621658" />
+  <item x="-69.066154" y="14.340923" z="72.368393" />
+  <item x="-43.922649" y="10.526649" z="63.977722" />
+  <item x="18.919815" y="0.89459" z="82.422943" />
+  <item x="22.54196" y="0.796399" z="83.362808" />
+  <item x="6.766837" y="0.796501" z="128.68042" h="5.483611" />
+  <item x="3.251084" y="0.894692" z="127.398727" h="5.483611" />
+  <item x="-26.425461" y="0.897985" z="186.466217" h="18.062763" />
+  <item x="-23.273239" y="0.799794" z="188.482849" h="18.062763" />
+  <banana x="-37.377693" y="0.898691" z="203.760925" h="18.062763" />
+  <item x="-155.704849" y="38.379723" z="-7.887259" />
+  <item x="-274.576019" y="24.142246" z="172.038483" />
+  <item x="-274.606873" y="24.156895" z="173.786118" />
+  <item x="-274.548676" y="24.14226" z="170.525909" />
+  <small-nitro x="-162.187546" y="38.814392" z="27.530293" />
+  <small-nitro x="-157.831833" y="38.814392" z="28.597586" />
+  <small-nitro x="-177.07196" y="38.814392" z="36.559021" />
+  <small-nitro x="-175.80275" y="38.814392" z="41.49165" />
+  <small-nitro x="-173.956619" y="38.814392" z="46.078129" />
+  <small-nitro x="-171.562424" y="38.814392" z="51.501137" />
+  <checks>
+    <check-lap kind="lap" same-group="0" other-ids="1" />
+    <check-line kind="activate" other-ids="2" p1="-41.57 60.80" p2="-84.92 58.33"
+                min-height="13.48" same-group="1"/>
+    <check-line kind="activate" other-ids="0" p1="-169.39 -14.26" p2="-158.21 83.40"
+                min-height="38.99" same-group="2"/>
+  </checks>
+  <camera far="539.6824951171875"/>
+  <default-start karts-per-row     ="2"
+                 forwards-distance ="1.10"
+                 sidewards-distance="1.10"
+                 upwards-distance  ="1.10"/>
+  <end-cameras>
+    <camera type="static_follow_kart" xyz="6.952941 4.504769 23.843657" distance="14.320000648498535"/> <!-- Camera.001 -->
+    <camera type="static_follow_kart" xyz="2.784731 6.349994 69.729050" distance="24.32000160217285"/> <!-- Camera -->
+    <camera type="static_follow_kart" xyz="-36.013496 12.193670 118.627884" distance="14.960000038146973"/> <!-- Camera.004 -->
+    <camera type="static_follow_kart" xyz="-36.373348 14.919584 3.061030" distance="20.20000457763672"/> <!-- Camera.002 -->
+    <camera type="static_follow_kart" xyz="-115.381271 41.760349 127.207916" distance="30.839998245239258"/> <!-- Camera.005 -->
+  </end-cameras>
+</scene>

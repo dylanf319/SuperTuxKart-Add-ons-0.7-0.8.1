@@ -1,0 +1,9 @@
+track author:  CT. da'Bomb released under CC-BY-SA 3.0
+
+zipper.png by Dakal, released under CC-BY-SA 3.0
+
+green.png, sign.png, and warning.png by CT. da'Bomb released under CC-BY-SA 3.0
+
+redbrick.png based on brick.png by the original TuxKart team released under GPL
+
+lava_sky.png by Auria released under GPL

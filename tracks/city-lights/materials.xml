@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev Unknown -->
+<materials>
+  <material name="arrow.jpg" backface-culling="N"/>
+  <material name="arrow.png" light="N" backface-culling="N" compositing="blend" ignore="Y"/>
+  <material name="Bleech2.png" light="N" backface-culling="N" compositing="blend" ignore="Y"/>
+  <material name="bridge_fence.png" light="N" backface-culling="N" compositing="test"/>
+  <material name="invisible.png" fog="N" light="N" collision-detect="Y" compositing="test" reset="Y" collision-reaction="reset"/>
+  <material name="light_red.png" light="N" backface-culling="N" compositing="blend"/>
+  <material name="light_white.png" light="N" backface-culling="N" compositing="blend"/>
+  <material name="Metal3.png" light="N"/>
+  <material name="road_barrier.jpg" backface-culling="N"/>
+  <material name="skyscraper15_only-v-tileable-hc.jpg" light="N"/>
+  <material name="skyscraper16_tileable-a.jpg" light="N"/>
+  <material name="skyscraper20_tileable.jpg" light="N"/>
+  <material name="skyscraper24_tileable.jpg" light="N"/>
+  <material name="skyscraper25_tileable.jpg" light="N"/>
+  <material name="skyscraper29_tileable.jpg" light="N"/>
+  <material name="skyscraper31_tileable.jpg" light="N"/>
+  <material name="skyscraper5_tileable.jpg" light="N"/>
+  <material name="skyscraper65_tileable.jpg" light="N"/>
+  <material name="skyscraper65_tileable.jpg" light="N"/>
+  <material name="skyscraper6_tileable-a.jpg" light="N"/>
+  <material name="skyscraper6_tileable-b.jpg" light="N"/>
+  <material name="skyscraper72b_tileable-lc.jpg" light="N"/>
+  <material name="skyscraper8_tileable.jpg" light="N"/>
+  <material name="skyscraper9_tileable-a.jpg" light="N"/>
+  <material name="skyscraper9_tileable-b.jpg" light="N"/>
+  <material name="storm_zipper.png" light="N" compositing="test">
+    <zipper duration="3.5" max-speed-increase="20.0" fade-out-time="5.378378868103027" speed-gain="5.094594478607178"/>
+  </material>
+  <material name="traffic_light_background.png" light="N"/>
+  <material name="traffic_light_green.png" light="N" backface-culling="N" compositing="blend"/>
+  <material name="traffic_light_off.png" light="N" compositing="blend"/>
+  <material name="traffic_light_red.png" light="N" backface-culling="N" compositing="blend"/>
+  <material name="traffic_light_red_off.png" light="N" compositing="blend"/>
+  <material name="water.png" fog="N" light="N" backface-culling="N" graphical-effect="water">
+    <sfx filename="splash.ogg" min_speed="5.00" max_speed="15.00" min_pitch="0.80" max_pitch="1.20" positional="Y" rolloff="0.10"/>
+    <particles base="splash.xml" condition="skid drive"/>
+  </material>
+  <material name="water.png" fog="N" light="N" backface-culling="N" graphical-effect="water">
+    <sfx filename="splash.ogg" min_speed="5.00" max_speed="15.00" min_pitch="0.80" max_pitch="1.20" positional="Y" rolloff="0.10"/>
+    <particles base="splash.xml" condition="skid drive"/>
+  </material>
+  <material name="white.png" light="N"/>
+  <material name="windowskyscraper2.jpg" light="N"/>
+  <material name="windowsskyscraper_blender_texturepack.jpg" light="N"/>
+</materials>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev Unknown -->
+<scene>
+  <track model="alpine-2_track.b3d" x="0" y="0" z="0"/>
+  <sky-color rgb="77 104 255"/>
+  <camera far="1000.0"/>
+  <checks>
+    <check-lap kind="lap" same-group="0" other-ids="1" />
+    <check-line kind="activate" other-ids="0" p1="46.68 725.04" p2="46.68 738.04"
+                min-height="35.26" same-group="1"/>
+  </checks>
+  <default-start karts-per-row     ="2"
+                 forwards-distance ="2.00"
+                 sidewards-distance="2.50"
+                 upwards-distance  ="1.10"/>
+</scene>

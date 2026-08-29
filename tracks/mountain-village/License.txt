@@ -1,0 +1,24 @@
+Mountain Village, version 0.2
+-----------------------------
+
+This track is made by Willem Sonke, and released under the CC-BY-SA 3.0.
+
+The packaged track itself does not contain any textures; all textures used are from the main SuperTuxKart package. For reference, a list of used textures follows:
+ * city_asphalt_1.jpg
+ * city_checker.png
+ * concrete_plain.png
+ * cottage_wall1.jpg
+ * cottage_wall2.jpg
+ * cottage_wall3.jpg
+ * fence.jpg
+ * grass.jpg
+ * hacienda_ground.jpg
+ * railing.png
+ * rock_mountain.jpg
+ * roof.png
+ * sea.jpg
+ * signs.png
+ * track.png
+ * vegetation_1.png
+ * wall_rock.png
+The licenses of these textures can be found in the data/textures folder.

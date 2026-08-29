@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev Unknown -->
+<materials>
+  <material name="lava.png" reset="Y">
+    <particles base="smoke.xml" condition="drive"/>
+  </material>
+  <material name="metalgrid.png" compositing="blend"/>
+  <material name="sign.png" compositing="blend"/>
+  <material name="zipper.png">
+    <zipper duration="0.5" max_speed_increase="25.0" fade_out_time="0.5" speed_gain="10.0"/>
+  </material>
+</materials>

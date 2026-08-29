@@ -1,0 +1,8 @@
+Mines track (c) 2008 Ivar ten Cate (varivar@gmail.com)
+
+Track and textures licensed under CC BY-SA 3.0
+http://creativecommons.org/licenses/by-sa/3.0/
+
+except l_lampstruct0 and lightHaloY by Samuncle (Jean-Manuel Clamençon)
+releasd under CC-BY-SA 3.0
+based on public domain images from Burningwell

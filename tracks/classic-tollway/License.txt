@@ -1,0 +1,22 @@
+This track is based on the original Tux Tollway, by Oliver & Steve Baker
+
+Textures
+==========
+
+adverts.png
+  Extreme Tux Racer logo: Provided. See http://extremetuxracer.com/forum/viewtopic.php?f=2&t=121
+  TuxPaint logo: Bill Kendrick: GPL
+  Bullet logo: http://code.google.com/p/bullet/: Zlib?
+  PLib logo: Steve Baker; LGPL?
+candy_stripe.png
+  GPL
+Penguin_orig.png
+  Tux design: Larry Ewing ; Created with GIMP.
+zipper.png
+  GPL
+
+Music
+==========
+
+tk2.ogg
+  Matt Thomas (from STK 0.3) - GPL

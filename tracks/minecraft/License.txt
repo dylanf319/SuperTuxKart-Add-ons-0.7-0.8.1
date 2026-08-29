@@ -1,0 +1,29 @@
+Lizenz fuer Minecraft (Track)
+
+Owner: Timo Schwarzer
+License: CC by-nd 3.0    (http://creativecommons.org/licenses/by-nd/3.0/deed.de)
+
+
+Lizenz fuer die Texturen:
+
+-mc1-Alpha.png
+-mc1-RGB.png
+-mc1-RGBA.png
+==> Quote from the Author:
+_________________________
+"Hey, everyone! These are some textures I did back in april and may, and now I'm releasing them for everyone to use freely! If you want to download, you can use these textures in any way you please, even if there are so little...
+
+Minecraft Forum post:
+http://www.minecraftforum.net/topic/1162360-work-in-progress-textures-16p/page__p__14239584#entry14239584
+
+Happy using! :)"
+_________________________
+
+
+-Sand.png
+-Road1.png
+==> Owner: Timo Schwarzer
+License: CC by-nd 3.0    (http://creativecommons.org/licenses/by-nd/3.0/deed.de)
+
+
+All other Textures are from SuperTuxKart.

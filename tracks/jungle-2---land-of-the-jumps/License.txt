@@ -1,0 +1,22 @@
+The majority of this track comes from Jungle (Amazonian Journey track) and is therefore released under GPL.
+
+However some edits were made by Hero in the action of turning this into the current track. These edits are under GPL.
+
+mossy_stone.png, mossy_stone2.png, obelisk.png, bush.png and some models :
+    from the http://www.titusgames.de GLEST jungle set
+    released under GPL
+
+pot.png
+    Released under CC-BY-SA 3.0
+    by Simon Burchell
+
+statue.jpg
+    Released under CC-BY-SA 3.0
+    by Peter Andersen
+
+Amazon Jungle music by Auria released under CC-BY-SA 3.0
+
+Skybox
+    by Marianne Gagnon, based on images by
+    by Cerdito14 and "Urbanarcheology" from Wikimedia Commons
+    released under CC-BY-SA 3.0

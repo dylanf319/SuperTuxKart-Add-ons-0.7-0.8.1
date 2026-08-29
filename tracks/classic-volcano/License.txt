@@ -1,0 +1,13 @@
+Volcano Track by Ingo Ruhnke
+
+lava.png - From SuperTuxKart 0.7 - GPL
+
+sand.png - From SuperTuxKart 0.7
+ - by Marianne Gagnon (Auria) - CC-BY-SA 3.0
+
+stones.png - From SuperTuxKart 0.5 - GPL
+
+track.png - From SuperTuxKart 0.7
+ - by Thomas Oppl (horace) toppl@fh-sbg.ac.at (c) 2008 - CC-BY-SA 3.0
+
+trackborder.png - From SuperTuxKart 0.7 - GPL

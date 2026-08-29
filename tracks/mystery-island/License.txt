@@ -1,0 +1,22 @@
+Mystery Island track by sj04736
+    released under CC-BY-SA 3.0
+
+empty.png, gold-pattern.png, wood.png, woodend.png by sj04736
+    released under CC-BY-SA 3.0
+
+lantern.jpg, rock_mountain.jpg, oldWood.png
+    based on pictures from BurningWell,
+    modified by jean-manuel clemençon (SamUncle),
+    released under public domain
+
+torch-fire.xml
+    from fire.xml in SuperTuxKart 0.7.3
+
+chess.png, grass.png
+    GPL, by the original (Super)TuxKart team.
+
+sea.jpg
+    CC-BY-SA 3.0 by Auria
+
+track.png, track2.png
+    CC-BY-SA 3.0 by Thomas Oppl (horace) toppl@fh-sbg.ac.at (c) 2008

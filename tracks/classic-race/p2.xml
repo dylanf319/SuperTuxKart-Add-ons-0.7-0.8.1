@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<particles emitter="point">
+
+    <spreading angle="0"         />
+    
+    <velocity  x="0"
+               y="0"
+               z="0"         />
+    
+    <material  file="starparticle.png"  />
+    
+    <!-- Amount of particles emitted per second -->
+    <rate      min="1200"
+               max="1600"
+               decay_rate="800"   />
+    
+    <!-- Minimal and maximal lifetime of a particle, in milliseconds. -->
+    <lifetime  min="10000"
+               max="10000"          />
+    
+    <!-- Size of the particles -->
+    <size      min="0.40"
+               max="0.60"       
+               x-increase-factor="2"  />
+    
+    <color     min="255 255 255"
+               max="255 255 255"  />
+    
+    <!-- How much time in milliseconds before the particle is fully faded out  -->
+    <fadeout   time="3000"         />
+
+</particles>

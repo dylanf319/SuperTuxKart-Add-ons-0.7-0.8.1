@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev Unknown -->
+<materials>
+  <material name="boards.png" backface-culling="N"/>
+  <material name="city_bricks.png" backface-culling="N"/>
+  <material name="concrete_plain.png" fog="N" light="N" backface-culling="N"/>
+  <material name="fence-brown.png" fog="N" light="N" backface-culling="N" compositing="blend"/>
+  <material name="fence-white.png" fog="N" light="N" backface-culling="N" compositing="blend"/>
+  <material name="glass.png" fog="N" light="N" backface-culling="N" compositing="blend"/>
+  <material name="HortonStone6.jpg" fog="N" light="N" backface-culling="N"/>
+  <material name="pino2.png" fog="N" light="N" backface-culling="N" compositing="blend"/>
+  <material name="tree_1Low.png" fog="N" light="N" backface-culling="N" compositing="blend"/>
+  <material name="wheat.png" fog="N" light="N" backface-culling="N" compositing="blend"/>
+</materials>

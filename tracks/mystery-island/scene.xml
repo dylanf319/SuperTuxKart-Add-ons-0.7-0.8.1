@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev 11470 -->
+<scene>
+  <track model="mystery_island_track.b3d" x="0" y="0" z="0">
+    <static-object model="chest.b3d" xyz="37.62 -1.25 -21.39" hpr="11.1 -0.0 -0.0" scale="0.60 0.60 0.60"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_distance="200.0" lod_group="post" model="woodenpost-200.b3d" xyz="84.30 1.78 128.38" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_distance="75.0" lod_group="post" model="woodenpost.b3d" xyz="88.24 1.78 128.49" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="post" xyz="33.79 -7.31 80.53" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="post" xyz="30.78 -5.26 101.03" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="post" xyz="41.78 -6.07 91.53" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="post" xyz="47.34 -2.34 114.12" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="post" xyz="54.76 -3.04 101.84" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="post" xyz="65.53 -1.16 122.11" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="post" xyz="70.16 -2.09 108.91" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="post" xyz="88.34 1.78 124.78" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="post" xyz="87.88 1.11 110.64" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="post" xyz="21.40 -7.31 87.48" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="torch" xyz="97.30 7.98 109.37" hpr="-0.0 90.9 -0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_distance="35.0" lod_group="torch" model="torch_35.b3d" xyz="66.87 7.98 150.20" hpr="-0.0 90.9 -0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_distance="80.0" lod_group="torch" model="torch_80.b3d" xyz="65.49 7.98 150.23" hpr="-0.0 90.9 -0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="torch" xyz="127.18 6.51 106.54" hpr="-0.0 79.6 -0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="torch" xyz="157.94 9.41 112.71" hpr="0.0 70.8 0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="torch" xyz="180.22 12.35 122.99" hpr="0.0 48.9 0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+  </track>
+  <water model="water.b3d" xyz="85.40 -3.72 41.18" hpr="0.0 -0.0 0.0" scale="2.01 2.01 2.01" height="0.25" speed="150.00" length="65.00">
+    <animated-texture name="sea.jpg" dx="0.050"  dy="0.050" />
+  </water>
+  <particle-emitter kind="torch-fire.xml" x="97.31" y="8.66" z="109.49" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="torch-fire.xml" x="127.21" y="7.15" z="106.67" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="torch-fire.xml" x="157.91" y="10.02" z="112.85" h="0.000000">
+  </particle-emitter>
+  <particle-emitter kind="torch-fire.xml" x="180.14" y="13.09" z="123.05" h="0.000000">
+  </particle-emitter>
+  <object type="animation" model="ramp.b3d" xyz="0.00 0.00 0.00" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00" tangents="true"  interaction="ghost">
+  </object>
+  <sun  fog="true" fog-color="116 114 147" fog-start="25.0" fog-end="150.0" xyz="-55.89 240.00 6.14" ambient="194 198 127"/>
+  <sky-color rgb="116 114 147"/>
+  <banana x="168.98056" y="10.703304" z="110.839394" />
+  <banana x="171.422516" y="10.703304" z="112.496437" />
+  <banana x="166.800232" y="10.703304" z="108.659065" />
+  <banana x="171.073669" y="10.703304" z="108.746277" />
+  <banana x="168.806137" y="10.703304" z="106.391525" />
+  <banana x="166.451385" y="11.5" z="104.211205" />
+  <banana x="170.463181" y="11.301758" z="104.036781" />
+  <banana x="168.282852" y="11.5" z="102.205307" />
+  <banana x="165.840897" y="12.5" z="100.635475" />
+  <banana x="170.027115" y="12.5" z="100.286621" />
+  <banana x="167.759583" y="13" z="98.455147" />
+  <banana x="164.968765" y="14" z="96.798103" />
+  <banana x="169.154984" y="14" z="95.577126" />
+  <banana x="166.451385" y="14" z="94.356148" />
+  <banana x="164.183853" y="15" z="93.13517" />
+  <banana x="167.410736" y="15" z="91.914192" />
+  <banana x="165.240601" y="15" z="90.105743" />
+  <banana x="166.189743" y="10.703304" z="112.322014" />
+  <banana x="86.198174" y="10" z="-34.617973" />
+  <banana x="88.475151" y="10" z="-35.934032" />
+  <banana x="87.200874" y="10" z="-38.503437" />
+  <banana x="89.582291" y="10" z="-40.007488" />
+  <banana x="86.82486" y="10" z="-32.236561" />
+  <item x="17.906132" y="2.5" z="72.774353" />
+  <item x="19.536087" y="2.5" z="70.768257" />
+  <item x="22.294472" y="2.5" z="71.645927" />
+  <item x="23.799046" y="2.5" z="69.51445" />
+  <item x="26.432049" y="2.5" z="70.642883" />
+  <item x="152.285004" y="6" z="51.477837" />
+  <item x="156.464218" y="6" z="50.694233" />
+  <item x="160.643433" y="6.5" z="49.649429" />
+  <item x="115.121597" y="6.5" z="116.437523" />
+  <item x="113.24102" y="6.5" z="114.348" />
+  <item x="115.01712" y="6.5" z="112.153999" />
+  <item x="112.300735" y="6.5" z="110.586853" />
+  <item x="114.599213" y="6.5" z="108.392853" />
+  <item x="112.793861" y="21" z="132.464203" />
+  <item x="116.555008" y="21" z="132.464203" />
+  <item x="119.714371" y="21" z="132.163315" />
+  <big-nitro x="172.264114" y="10" z="129.132004" />
+  <big-nitro x="112.302147" y="21" z="118.63929" />
+  <big-nitro x="146.929977" y="15" z="23.813622" />
+  <big-nitro x="86.375191" y="15" z="-36.481274" />
+  <big-nitro x="181.338242" y="15.785407" z="148.716507" />
+  <big-nitro x="160.285889" y="17.318426" z="157.630569" />
+  <small-nitro x="26.613224" y="10" z="93.899429" />
+  <small-nitro x="38.771843" y="10" z="106.935478" />
+  <small-nitro x="57.323135" y="10" z="118.091324" />
+  <small-nitro x="77.879974" y="10" z="124.233307" />
+  <small-nitro x="79.133438" y="10" z="111.322609" />
+  <small-nitro x="61.083527" y="10" z="106.058052" />
+  <small-nitro x="45.289856" y="10" z="96.281021" />
+  <small-nitro x="37.142326" y="10" z="87.256065" />
+  <small-nitro x="148.496719" y="15" z="20.993481" />
+  <small-nitro x="154.032547" y="15" z="19.844534" />
+  <small-nitro x="150.376816" y="15" z="18.27779" />
+  <big-nitro x="156.852692" y="15" z="21.51573" />
+  <checks>
+    <check-lap kind="lap" same-group="0" other-ids="1" />
+    <check-line kind="activate" other-ids="2" p1="150.784927 126.542847" p2="155.456680 109.693733"
+                min-height="6.915720" same-group="1"/>
+    <check-line kind="activate" other-ids="0" p1="152.207260 69.675865" p2="169.226212 67.596519"
+                min-height="7.251176" same-group="2"/>
+  </checks>
+  <camera far="1000.0"/>
+  <default-start karts-per-row     ="4"
+                 forwards-distance ="1.10"
+                 sidewards-distance="2.20"
+                 upwards-distance  ="1.10"/>
+</scene>

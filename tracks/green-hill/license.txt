@@ -1,0 +1,19 @@
+Greenhill Track by CinusMinus
+
+---- My own work ----
+
+banner.jpg
+Landscape (of course)
+Houses
+Stand
+
+---- open content by other people ----
+
+window05.jpg - originally from http://www.bencloward.com, but edited by me - CC0
+Trees on the Banner from http://openclipart.org - CC0
+canyon_boards.jpg, city_asphalt_1.jpg, grass2.jpg, rockMountain.jpg, roof.png, vegetation_1.png, wood_planks1.jpg from original package, some of them have been modified by me
+the tree model is taken from green valley track
+
+----
+
+This Track is released under the CC0 license

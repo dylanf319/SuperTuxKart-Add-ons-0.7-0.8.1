@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev Unknown -->
+<scene>
+  <track model="circuit_1_track.b3d" x="0" y="0" z="0"/>
+  <sky-color rgb="110 142 255"/>
+  <small-nitro x="9.786786" y="0.010024" z="35.536297" />
+  <small-nitro x="13.904257" y="0.010022" z="42.082016" />
+  <small-nitro x="1.551845" y="0.010027" z="48.62775" />
+  <small-nitro x="-2.46005" y="0.010029" z="42.715488" />
+  <small-nitro x="-12.912091" y="0.010033" z="55.701366" />
+  <small-nitro x="-17.135139" y="0.010034" z="50.000256" />
+  <small-nitro x="-7.42213" y="0.01003" z="49.472363" />
+  <small-nitro x="5.563741" y="0.010026" z="42.609898" />
+  <item x="-66.220558" y="1" z="29.834967" />
+  <item x="-60.926842" y="1" z="29.834967" />
+  <item x="-63.377666" y="1" z="23.298347" />
+  <banana x="-1.224964" y="1" z="-15.934757" />
+  <banana x="0.462533" y="1" z="-7.95064" />
+  <banana x="43.57584" y="1" z="-59.986526" />
+  <item x="-66.668098" y="1" z="17.54748" />
+  <item x="-60.428352" y="1" z="17.54748" />
+  <banana x="38.775089" y="1" z="-60.293945" />
+  <checks>
+    <check-lap kind="lap" same-group="0" other-ids="1" />
+    <check-line kind="activate" other-ids="0" p1="-49.46 10.21" p2="-76.21 10.21"
+                min-height="0.01" same-group="1"/>
+  </checks>
+
+  <sky-dome texture="sky.jpg"
+            horizontal="20" vertical="20" 
+            texture-percent="1.0" sphere-percent="1.3"
+            speed-x="0.0" speed-y="0.0" />
+  <default-start karts-per-row     ="2"
+                 forwards-distance ="1.50"
+                 sidewards-distance="3.00"
+                 upwards-distance  ="0.10"/>
+</scene>

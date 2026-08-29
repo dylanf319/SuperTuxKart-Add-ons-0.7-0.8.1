@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev Unknown -->
+<graph>
+  <!-- First define all nodes of the graph, and what quads they represent -->
+  <node-list from-quad="0" to-quad="220"/>  <!-- map each quad to a node  -->
+  <!-- Define the main loop -->
+  <edge-loop from="0" to="187"/>
+  <!-- Shortcut Driverline.001 -->
+  <edge from="132" to="188"/>
+  <edge-line from="188" to="199"/>
+  <edge from="199" to="153"/>
+  <!-- Shortcut No crossing.003 -->
+  <edge from="73" to="200"/>
+  <edge-line from="200" to="208"/>
+  <edge from="208" to="76"/>
+  <!-- Shortcut Driverline.002 -->
+  <edge from="52" to="209"/>
+  <edge-line from="209" to="220"/>
+  <edge from="220" to="62"/>
+</graph>

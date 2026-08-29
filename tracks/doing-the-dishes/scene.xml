@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev Unknown -->
+<scene>
+  <track model="Dishes_track.b3d" x="0" y="0" z="0"/>
+  <object type="animation" model="waterdrop.b3d" xyz="-6.646176 15.928073 47.169712" hpr="-0.000000 -0.000000 -0.000000" scale="0.500000 0.500000 0.500000" shape="box">
+    <curve channel="LocX" interpolation="bezier" extend="cyclic">
+      <p c="1.000 -6.646" h1="-8.370 -6.646" h2="10.370 -6.646"/>
+      <p c="25.000 -6.646" h1="15.630 -6.646" h2="26.952 -6.646"/>
+      <p c="30.000 -6.646" h1="28.048 -6.646" h2="31.952 -6.646"/>
+    </curve>
+    <curve channel="LocZ" interpolation="bezier" extend="cyclic">
+      <p c="1.000 47.170" h1="-8.370 47.170" h2="10.370 47.170"/>
+      <p c="25.000 47.170" h1="15.630 47.170" h2="26.952 47.170"/>
+      <p c="30.000 47.170" h1="28.048 47.170" h2="31.952 47.170"/>
+    </curve>
+    <curve channel="LocY" interpolation="linear" extend="cyclic">
+      <p c="1.000 15.928"/>
+      <p c="25.000 -3.106"/>
+      <p c="30.000 -3.106"/>
+    </curve>
+  </object>
+  <small-nitro x="-25.291042" y="0.234527" z="-9.93778" />
+  <small-nitro x="-22.38682" y="0.234527" z="-19.895115" />
+  <small-nitro x="-27.987822" y="0.234527" z="-19.895115" />
+  <banana x="-22.044085" y="0.234527" z="-9.93778" />
+  <banana x="-28.087032" y="0.234527" z="-9.757394" />
+  <banana x="-24.930269" y="0.234527" z="-19.859039" />
+  <big-nitro x="-30.52667" y="0.234526" z="38.273426" />
+  <item x="-10.650354" y="-5.949773" z="53.732773" />
+  <item x="-7.035804" y="-5.949773" z="50.868412" />
+  <item x="-1.989073" y="-5.949773" z="49.436234" />
+  <item x="3.194057" y="-5.949773" z="50.732018" />
+  <item x="7.149602" y="-5.949773" z="53.45998" />
+  <checks>
+    <check-lap kind="lap" same-group="0" other-ids="1" />
+    <check-line kind="activate" other-ids="0" p1="18.419388 103.320648" p2="7.777014 103.314873"
+                min-height="0.171026" same-group="1"/>
+  </checks>
+
+  <sky-dome texture="800px-Blue_and_white_tiles.jpg"
+            horizontal="20" vertical="20" 
+            texture-percent="1.0" sphere-percent="1.3"
+            speed-x="0.0" speed-y="0.0" />
+  <camera far="1000.0"/>
+  <default-start karts-per-row     ="2"
+                 forwards-distance ="1.10"
+                 sidewards-distance="1.10"
+                 upwards-distance  ="1.10"/>
+  <end-cameras>
+    <camera type="static_follow_kart" xyz="68.536438 55.660664 35.351723" distance="80.0"/>
+    <camera type="ahead_of_kart" xyz="-3.319653 30.010344 99.238243" distance="40.0"/>
+  </end-cameras>
+</scene>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev 8296 -->
+<scene>
+  <track model="hillside_track.b3d" x="0" y="0" z="0">
+    <animated-texture name="water_light.png" dy="0.10000000149" />
+  </track>
+  <sun  xyz="-79.5917739868 92.6271057129 -116.634841919" sun-specular="255 255 255 255" sun-diffuse="255 255 255 255" ambient="255 255 255 255"/>
+  <sky-color rgb="199 256 253"/>
+  <weather type="rain" />
+  <small-nitro x="-32.88736" y="-34.033333" z="-23.174549" />
+  <small-nitro x="-21.641495" y="-34.033333" z="-20.765373" />
+  <small-nitro x="-11.123837" y="-34.033333" z="-18.644756" />
+  <small-nitro x="-3.563209" y="-34.033333" z="-17.640839" />
+  <item x="-3.782405" y="-9.256598" z="64.226608" />
+  <item x="-3.782405" y="-9.256598" z="61.508934" />
+  <item x="-3.782405" y="-9.256598" z="58.867329" />
+  <item x="44.767773" y="-34.457443" z="-105.744644" />
+  <item x="44.767773" y="-34.457443" z="-102.945274" />
+  <item x="44.767773" y="-34.457443" z="-99.746292" />
+  <banana x="-58.467125" y="-9.256598" z="60.32925" />
+  <banana x="-58.467125" y="-33.274624" z="-103.16095" />
+  <checks>
+    <check-lap kind="lap" same-group="0" other-ids="1" />
+    <check-line kind="activate" other-ids="2" p1="-9.030001 -26.851412" p2="-18.331450 -26.851410"
+                min-height="-8.883390" same-group="1"/>
+    <check-line kind="activate" other-ids="0" p1="78.211082 -52.479263" p2="68.909630 -52.479263"
+                min-height="-27.292255" same-group="2"/>
+  </checks>
+
+  <sky-dome texture="hillside_sky.png"
+            horizontal="16" vertical="16" 
+            texture-percent="1.0" sphere-percent="1.3"
+            speed-x="0" speed-y="0" />
+  <camera far="2000"/>
+  <default-start karts-per-row     ="2"
+                 forwards-distance ="1.5"
+                 sidewards-distance="3"
+                 upwards-distance  ="0.1"/>
+  <end-cameras>
+    <camera type="ahead_of_kart" xyz="-75.803978 -22.814392 -88.105942" distance="5.0"/>
+  </end-cameras>
+</scene>

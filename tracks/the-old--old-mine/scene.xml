@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev Unknown -->
+<scene>
+  <track model="traditionalmines_track.b3d" x="0" y="0" z="0"/>
+  <checks>
+    <check-lap kind="lap" same-group="0" other-ids="1" />
+    <check-line kind="activate" other-ids="0" p1="136.64 -45.06" p2="138.40 -65.39"
+                min-height="-0.46" same-group="1"/>
+  </checks>
+  <default-start karts-per-row     ="2"
+                 forwards-distance ="1.50"
+                 sidewards-distance="3.00"
+                 upwards-distance  ="0.10"/>
+</scene>

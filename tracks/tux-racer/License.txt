@@ -1,0 +1,3 @@
+Released under CC-BY 3.0 by Hero except for:
+
+zipper.png under GNU GPL (modified by Hero).

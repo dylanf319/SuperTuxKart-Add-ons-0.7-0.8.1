@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev Unknown -->
+<scene>
+  <track model="Subterranean-cave_track.b3d" x="0" y="0" z="0">
+    <static-object model="lightBeam.b3d" xyz="65.19 99.68 -104.09" hpr="90.0 70.0 90.0" scale="1.70 1.70 1.70"/> <!-- writeStaticObjects 3 -->
+    <static-object model="lightBeam.b3d" xyz="64.67 99.68 103.91" hpr="-90.0 -70.0 90.0" scale="1.70 1.70 1.70"/> <!-- writeStaticObjects 3 -->
+    <static-object model="lightBeam.b3d" xyz="16.55 99.68 103.18" hpr="-90.0 -70.0 90.0" scale="1.70 1.70 1.70"/> <!-- writeStaticObjects 3 -->
+    <static-object model="lightBeam.b3d" xyz="-26.79 99.68 105.22" hpr="58.3 -113.2 -60.4" scale="1.70 1.70 1.70"/> <!-- writeStaticObjects 3 -->
+    <static-object model="lightBeam.b3d" xyz="109.40 99.68 -105.64" hpr="61.2 67.4 63.1" scale="1.70 1.70 1.70"/> <!-- writeStaticObjects 3 -->
+    <static-object model="lightBeam.b3d" xyz="-27.36 99.68 -102.92" hpr="-58.4 113.1 -60.5" scale="1.70 1.70 1.70"/> <!-- writeStaticObjects 3 -->
+    <static-object model="lightBeam.b3d" xyz="107.49 99.68 101.88" hpr="-60.0 -67.2 62.0" scale="1.70 1.70 1.70"/> <!-- writeStaticObjects 3 -->
+    <static-object model="lightBeam.b3d" xyz="150.00 99.68 98.20" hpr="-38.1 -59.5 42.3" scale="1.70 1.70 1.70"/> <!-- writeStaticObjects 3 -->
+    <static-object model="lightBeam.b3d" xyz="-67.82 99.68 -92.36" hpr="-39.7 119.7 -43.7" scale="1.70 1.70 1.70"/> <!-- writeStaticObjects 3 -->
+    <static-object model="lightBeam.b3d" xyz="151.94 99.68 -97.17" hpr="41.7 61.3 45.4" scale="1.70 1.70 1.70"/> <!-- writeStaticObjects 3 -->
+    <static-object model="lightBeam.b3d" xyz="-69.35 99.68 100.36" hpr="38.6 -120.3 -42.7" scale="1.70 1.70 1.70"/> <!-- writeStaticObjects 3 -->
+    <static-object model="lightBeam.b3d" xyz="214.52 99.68 -40.26" hpr="8.5 22.1 21.7" scale="1.70 1.70 1.70"/> <!-- writeStaticObjects 3 -->
+    <static-object model="lightBeam.b3d" xyz="206.21 99.68 42.03" hpr="-8.4 -21.8 21.6" scale="1.70 1.70 1.70"/> <!-- writeStaticObjects 3 -->
+    <static-object model="lightBeam.b3d" xyz="-141.64 99.68 2.38" hpr="-0.0 180.0 -20.0" scale="1.70 1.70 1.70"/> <!-- writeStaticObjects 3 -->
+    <static-object model="lightBeam.b3d" xyz="215.25 99.68 2.40" hpr="-0.0 -0.0 20.0" scale="1.70 1.70 1.70"/> <!-- writeStaticObjects 3 -->
+    <static-object model="lightBeam.b3d" xyz="-125.84 99.68 42.69" hpr="7.8 -159.5 -21.4" scale="1.70 1.70 1.70"/> <!-- writeStaticObjects 3 -->
+    <static-object model="lightBeam.b3d" xyz="-133.06 99.68 -40.44" hpr="-8.4 158.1 -21.6" scale="1.70 1.70 1.70"/> <!-- writeStaticObjects 3 -->
+    <static-object model="lightBeam.b3d" xyz="-98.38 99.68 71.44" hpr="18.9 -138.4 -27.2" scale="1.70 1.70 1.70"/> <!-- writeStaticObjects 3 -->
+    <static-object model="lightBeam.b3d" xyz="185.74 99.68 77.75" hpr="-19.6 -42.7 27.7" scale="1.70 1.70 1.70"/> <!-- writeStaticObjects 3 -->
+    <static-object model="lightBeam.b3d" xyz="189.83 99.68 -76.90" hpr="22.1 45.9 29.5" scale="1.70 1.70 1.70"/> <!-- writeStaticObjects 3 -->
+    <static-object model="lightBeam.b3d" xyz="-108.82 99.68 -77.20" hpr="-21.1 135.3 -28.8" scale="1.70 1.70 1.70"/> <!-- writeStaticObjects 3 -->
+    <static-object model="lightBeam.b3d" xyz="16.43 99.68 -103.35" hpr="90.0 70.0 90.0" scale="1.70 1.70 1.70"/> <!-- writeStaticObjects 3 -->
+  </track>
+  <object type="animation" model="barrel.b3d" xyz="-77.07 15.10 -40.98" hpr="15.1 129.2 84.9" scale="1.00 1.00 1.00" shape="exact" explode="y" interaction="explode">
+  </object>
+  <object type="animation" model="barrel.b3d" xyz="-80.65 14.55 -39.56" hpr="-1.2 1.4 -7.3" scale="1.00 1.00 1.00" shape="exact" explode="y" interaction="explode">
+  </object>
+  <object type="animation" model="barrel.b3d" xyz="-76.93 14.27 -43.45" hpr="8.4 6.0 -6.2" scale="1.00 1.00 1.00" shape="exact" explode="y" interaction="explode">
+  </object>
+  <object type="animation" model="Mill.b3d" xyz="117.56 32.17 70.19" hpr="0.0 20.3 0.0" scale="1.00 1.00 1.00" shape="box" interaction="static">
+    <curve channel="RotX" interpolation="linear" extend="cyclic">
+      <p c="1.000 -0.000"/>
+      <p c="100.000 360.000"/>
+    </curve>
+    <curve channel="RotZ" interpolation="bezier" extend="const">
+      <p c="1.000 0.000" h1="-32.000 -0.000" h2="34.000 0.000"/>
+      <p c="100.000 0.000" h1="61.349 0.000" h2="138.651 0.000"/>
+    </curve>
+    <curve channel="RotY" interpolation="bezier" extend="const">
+      <p c="1.000 20.290" h1="-37.651 20.290" h2="39.651 20.290"/>
+      <p c="100.000 20.290" h1="61.349 20.290" h2="138.651 20.290"/>
+    </curve>
+  </object>
+
+  <sky-dome texture="SKY0006.png"
+            horizontal="20" vertical="20" 
+            texture-percent="1.0" sphere-percent="1.3"
+            speed-x="0.0" speed-y="0.0" />
+  <camera far="1000.0"/>
+  <checks>
+    <check-lap kind="lap" same-group="0" other-ids="1" />
+    <check-line kind="activate" other-ids="2" p1="74.81 82.15" p2="74.81 101.41"
+                min-height="26.16" same-group="1"/>
+    <check-line kind="activate" other-ids="0" p1="56.61 -43.29" p2="41.57 -31.25"
+                min-height="19.53" same-group="2"/>
+  </checks>
+  <item x="33.95" y="24.75" z="2.96" />
+  <item x="33.87" y="24.75" z="7.33" />
+  <banana x="-1.54" y="34.64" z="2.31" />
+  <banana x="155.67" y="46.71" z="-47.39" />
+  <small-nitro x="69.59" y="30.27" z="89.73" />
+  <item x="33.97" y="13.81" z="7.90" />
+  <item x="33.92" y="13.81" z="2.41" />
+  <small-nitro x="33.92" y="13.81" z="5.21" />
+  <item x="123.97" y="43.71" z="-57.50" />
+  <item x="123.93" y="43.71" z="-64.14" />
+  <item x="123.97" y="43.71" z="-60.81" />
+  <small-nitro x="119.01" y="39.01" z="-30.57" />
+  <small-nitro x="115.60" y="38.28" z="-29.45" />
+  <small-nitro x="113.04" y="38.32" z="-19.78" />
+  <small-nitro x="109.77" y="38.23" z="-17.93" />
+  <banana x="114.02" y="38.23" z="-24.47" />
+  <item x="53.03" y="31.79" z="82.93" />
+  <small-nitro x="73.30" y="30.18" z="92.55" />
+  <small-nitro x="91.05" y="27.20" z="78.92" />
+  <small-nitro x="82.65" y="24.41" z="36.57" />
+  <small-nitro x="-73.34" y="17.28" z="7.23" />
+  <small-nitro x="-79.64" y="17.28" z="5.48" />
+  <small-nitro x="-84.05" y="17.28" z="1.40" />
+  <small-nitro x="-86.52" y="17.28" z="-4.46" />
+  <banana x="-77.63" y="17.28" z="-2.12" />
+  <item x="-45.81" y="16.59" z="-34.91" />
+  <item x="-31.85" y="38.43" z="65.27" />
+  <item x="-31.85" y="38.16" z="60.00" />
+  <item x="-48.66" y="16.59" z="-32.35" />
+  <big-nitro x="-80.41" y="15.82" z="-43.61" />
+  <object type="billboard" texture="halo.png" xyz="16.43 96.03 -95.66" 
+             width="24.059" height="23.581" >
+  </object>
+  <object type="billboard" texture="halo.png" xyz="65.19 96.03 -96.41" 
+             width="24.059" height="23.581" >
+  </object>
+  <object type="billboard" texture="halo.png" xyz="64.67 96.03 96.23" 
+             width="24.059" height="23.581" >
+  </object>
+  <object type="billboard" texture="halo.png" xyz="16.55 96.03 95.49" 
+             width="24.059" height="23.581" >
+  </object>
+  <object type="billboard" texture="halo.png" xyz="-25.20 96.03 97.71" 
+             width="24.426" height="23.581" >
+  </object>
+  <object type="billboard" texture="halo.png" xyz="107.98 96.03 -98.09" 
+             width="24.426" height="23.581" >
+  </object>
+  <object type="billboard" texture="halo.png" xyz="-25.78 96.03 -95.40" 
+             width="24.426" height="23.581" >
+  </object>
+  <object type="billboard" texture="halo.png" xyz="106.00 96.03 94.34" 
+             width="24.426" height="23.581" >
+  </object>
+  <object type="billboard" texture="halo.png" xyz="146.92 96.03 91.16" 
+             width="24.172" height="23.581" >
+  </object>
+  <object type="billboard" texture="halo.png" xyz="-64.89 96.03 -85.26" 
+             width="24.172" height="23.581" >
+  </object>
+  <object type="billboard" texture="halo.png" xyz="149.18 96.03 -89.99" 
+             width="24.172" height="23.581" >
+  </object>
+  <object type="billboard" texture="halo.png" xyz="-66.32 96.03 93.30" 
+             width="24.172" height="23.581" >
+  </object>
+  <object type="billboard" texture="halo.png" xyz="207.48 96.03 -37.19" 
+             width="24.357" height="23.581" >
+  </object>
+  <object type="billboard" texture="halo.png" xyz="199.15 96.03 38.99" 
+             width="24.357" height="23.581" >
+  </object>
+  <object type="billboard" texture="halo.png" xyz="-133.96 96.03 2.38" 
+             width="24.059" height="23.581" >
+  </object>
+  <object type="billboard" texture="halo.png" xyz="207.57 96.03 2.40" 
+             width="24.059" height="23.581" >
+  </object>
+  <object type="billboard" texture="halo.png" xyz="-118.70 96.03 39.83" 
+             width="24.357" height="23.581" >
+  </object>
+  <object type="billboard" texture="halo.png" xyz="-126.01 96.03 -37.38" 
+             width="24.357" height="23.581" >
+  </object>
+  <object type="billboard" texture="halo.png" xyz="-92.94 96.03 66.00" 
+             width="20.389" height="23.581" >
+  </object>
+  <object type="billboard" texture="halo.png" xyz="180.42 96.03 72.20" 
+             width="20.389" height="23.581" >
+  </object>
+  <object type="billboard" texture="halo.png" xyz="184.88 96.03 -71.03" 
+             width="20.389" height="23.581" >
+  </object>
+  <object type="billboard" texture="halo.png" xyz="-103.73 96.03 -71.45" 
+             width="20.389" height="23.581" >
+  </object>
+  <object type="billboard" texture="halo.png" xyz="-87.99 23.04 -44.57" 
+             width="6.654" height="6.522" >
+  </object>
+  <object type="billboard" texture="halo.png" xyz="-31.10 20.08 -13.28" 
+             width="6.654" height="6.522" >
+  </object>
+  <object type="billboard" texture="halo.png" xyz="-16.66 21.69 -12.32" 
+             width="6.654" height="6.522" >
+  </object>
+  <object type="billboard" texture="halo.png" xyz="61.35 21.95 -22.48" 
+             width="6.654" height="6.522" >
+  </object>
+  <object type="billboard" texture="halo.png" xyz="51.37 42.74 61.49" 
+             width="6.654" height="6.522" >
+  </object>
+  <object type="billboard" texture="halo.png" xyz="93.98 42.74 62.29" 
+             width="6.654" height="6.522" >
+  </object>
+  <object type="billboard" texture="halo.png" xyz="71.67 42.74 88.30" 
+             width="6.654" height="6.522" >
+  </object>
+  <default-start karts-per-row     ="2"
+                 forwards-distance ="1.90"
+                 sidewards-distance="2.06"
+                 upwards-distance  ="2.22"/>
+</scene>

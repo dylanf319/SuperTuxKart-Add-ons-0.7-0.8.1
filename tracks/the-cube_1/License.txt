@@ -1,0 +1,58 @@
+Track: The Cube
+Design: Asciimonster
+Developed by: Asciimonster and STKRudy
+Music: DJ Helium (Music composed specifically for this track)
+Licence: CC BY SA
+
+
+== Image attibution ==
+
+Made myself:
+box_pattern1.png
+box_pattern2.png
+box_pattern3.png
+EnterLeft.png
+EnterRight.png
+SignText.png
+sshot-track.png
+track_edge_arrow.png
+Walltexture4a.png
+Walltexture5a.png
+Walltexture4b.png
+Walltexture5b.png
+Walltexture4c.png
+Walltexture5c.png
+Walltexture4d.png
+Walltexture5d.png
+grassy.png - foto by Rudy
+
+Textures from Mayang.com:
+desert_clouds_190164.png
+
+Wikipedia Commons:
+RubicsCube.png - Creative Commons Attribution-Share Alike 2.5 Generic - http://commons.wikimedia.org/wiki/File:Rubiks_cube_by_keqs.jpg
+Tetris.png - public domain - http://en.wikipedia.org/wiki/File:Tetrominoes_IJLO_STZ_Worlds.svg
+Comp-NoEntry.png - by Farish - Creative Commons Attribution 3.0 Unported - http://commons.wikimedia.org/wiki/File:Comp-noentry.png
+Go_Right.png - public domain - http://commons.wikimedia.org/wiki/File:Japanese_Road_sign_(One_way_A).svg
+
+From other tracks:
+Concrete_Plain.png - adapted from general STK texture called "concrete_plain.png" 
+track.png - adapted from general STK texture called "track.png"
+track_border.png - adapted from general STK texture called "track.png"
+track_border_combine.png - adapted from general STK texture called "track.png"
+track_border_split.png - adapted from general STK texture called "track.png"
+track_guiderail.png - adapted from "Vangrail.rgb" of the "industry" track - CC-BY-SA
+water2.png - adapted from "water_ligt2.png" of the "Secret garden" track - CC-BY-SA
+
+Logo's:
+Compiz.png - GPL lesser public licence - http://commons.wikimedia.org/wiki/File:Compiz_logo.svg
+Fusion.png - GPL lesser public licence - http://commons.wikimedia.org/wiki/File:Compiz-Fusion_Logo.png
+
+Screenshots (supplied by various STK users):
+Debian.png - Debian logo released under common free software license (Software in the Public Interest, whatever that me be) 
+Fedora.png - No fedora logo showing. Firefox logo's showing; Firefox logo is a trademark of the Mozilla Corporation, logo is unmodified as usage terms require.
+Gentoo.png - Gentoo and "g" logo are trademark of Gentoo Foundation, Inc., licenced CC-BY-SA-2.5
+Ubuntu.png - Ubunto logo release under CC-BY-SA licence.
+
+Unknown (were supplied by STK users):
+Dice.png

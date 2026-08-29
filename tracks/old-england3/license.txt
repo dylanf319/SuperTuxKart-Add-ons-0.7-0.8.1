@@ -1,0 +1,19 @@
+England track by ctdabomb released under CC-BY-SA 3.0
+
+everything by ctdabomb released under CC-BY-SA 3.0
+except:
+
+road_dirt.jpg, metalfence.png, iron-fence.png, roof.png, lightHaloY.png by samuncle released under CC-BY-SA 3.0
+
+Door4.png, WindowOld.png, pub2.png, by Canis Lupus, released under CC-BY-SA 3
+
+brick1.png by Marianne Gagnon (Auria), based on public domain image from BurningWell
+
+tree.png from lost forest track
+
+Character icons in following images by Anthony Carré (yekcim), released under GPL 2; with modifications by Lupus Canis 
+-Puffy_bar.png               from karts/puffy
+-gnu_bar.png                 from karts/gnu
+-mozillas_pub.png            from karts/mozillas
+
+zipper.png by Dakal, released under CC-BY-SA 3.0

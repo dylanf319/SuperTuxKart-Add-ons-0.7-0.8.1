@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev Unknown -->
+<materials>
+  <material name="lake.png" falling-effect="Y" graphical-effect="bubble" reset="Y" slowdown-time="10.00" collision-detect="Y" collision-reaction="reset" collision-particles="smoke.xml"/>
+  <material name="gate.png" compositing="blend"/>
+  <material name="grass_detail1.png" backface-culling="N" compositing="blend" ignore="Y"/>
+  <material name="grass_detail2.png" backface-culling="N" compositing="blend" ignore="Y"/>
+  <material name="long-grass.png" compositing="blend"/>
+  <material name="metalfence.png" compositing="blend"/>
+  <material name="mountain.png" compositing="blend"/>
+  <material name="zipper.png" compositing="blend">
+    <zipper duration="3.5" max_speed_increase="15.0" fade_out_time="3.0" speed_gain="4.5"/>
+  </material>
+</materials>

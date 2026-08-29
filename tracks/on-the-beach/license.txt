@@ -1,0 +1,1 @@
+from supertuxkart 0.62 Released under GNU GPL.

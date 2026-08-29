@@ -1,0 +1,4 @@
+city_asphalt_1.jpg : Thomas Oppl (horace) toppl@fh-sbg.ac.at (c) 2008, license: CC-BY-SA 3.0
+coniferous_tree.png : Marianne Gagnon alias Auria, license: CC-BY-SA 3.0
+grass.jpg : samuncle, with modifications by Magne Djupvik, license: CC-BY-SA 3.0
+Everything else in this folder : Magne Djupvik, licenses: CC-BY-SA 3.0, GPLv3

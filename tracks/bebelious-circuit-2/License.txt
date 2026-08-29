@@ -1,0 +1,16 @@
+"BeBeLiOuS Circuit 2" track (c) 01/2013 by BeBeLiOuS
+
+Update 12/2013 : Compatible with STK 0.8.1
+
+Layout inspired by a famous plumber circuit.
+
+Track licensed under CC BY-SA 3.0
+http://creativecommons.org/licenses/by-sa/3.0/
+
+Tools :
+Track > Inkscape / Blender / STK Addons
+
+Track Tutorial:
+http://www.bebelious.fr/tutorielstk.php
+
+BeBeLiOuS

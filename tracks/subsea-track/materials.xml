@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev 7732 -->
+<materials>
+  
+  <material name="water_dark-transp-subsea.png" alpha="Y"reset="Y" falling-effect="Y">
+    <sfx filename="splash.ogg" name="splash" rolloff="0.100"/></material> 
+
+  <material name="brick-subsea.jpg">
+    <particles base="smoke_yellow.xml" condition="skid drive" />
+  </material>
+
+   <material name="Transparent-Particles-subsea.png" alpha="Y">
+    <particles base="waterparticles0-subsea.xml" condition="skid drive"/>
+</material>
+
+
+  <material name="sand-subsea.jpg" alpha="Y"reset="Y" falling-effect="Y"/>
+
+ <material name="dirt_0-subsea.jpg" ignore="Y"/>
+ <material name="diffus-subsea.png" alpha="Y" ignore="Y"/>
+ <material name="Flower-subsea.png" alpha="Y" ignore="Y"/>
+ <material name="organic_out-subsea.png" alpha="Y" ignore="Y"/>
+ <material name="Transparent-door-subsea.png" alpha="Y" ignore="Y"/>
+ <material name="flaque-subsea.png" alpha="Y"  ignore="Y"/>
+ <material name="LilySmall-subsea.png" alpha="Y"/>
+ <material name="DragonsBed-subsea.png" alpha="Y"/>
+ <material name="treasuremap-subsea.png" alpha="Y"/>
+ <material name="treasure_map2-subsea.png" alpha="Y"/>
+ <material name="fish-filet-subsea.png" alpha="Y"/>
+ <material name="chain-subsea.png" alpha="Y"/>
+ <material name="Pirate_Flag_of_Rack_Rackham-subsea.png" alpha="Y"/>
+ <material name="Rubis-subsea.png" alpha="Y"/>
+ <material name="eggs-subsea.png" alpha="Y"/>
+ <material name="Grate-subsea.png" alpha="Y"/>
+ <material name="Transparent-subsea.png" alpha="Y"/>
+ <material name="Transparent-Broken-1-subsea.png" alpha="Y"/>
+ <material name="Transparent-Broken-2-subsea.png" alpha="Y"/>
+ <material name="waterparticles-subsea.png" compositing="additive" disable-z-write="Y" ignore="Y" light="N"/>
+ 
+<material name="waterparticles0-subsea.png" compositing="blend" disable-z-write="Y" ignore="Y" light="N"/>
+
+  <material name="zipper-inverted-subsea.png" alpha="Y" light="N">
+    <zipper max-speed-increase="10.0" speed-gain="3.0"/> </material>
+
+      <material name="light3-subsea.png" compositing="additive" disable-z-write="Y" light="N" clampU="Y" crash-reset="Y" ignore="Y"/>
+
+</materials>

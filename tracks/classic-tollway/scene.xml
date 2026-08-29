@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev 8296 -->
+<scene>
+  <track model="classictollway_track.b3d" x="0" y="0" z="0"/>
+  <object type="movable" xyz="60.000000 1.500000 -29.000000" hpr="-90.000003 19.999999 -0.000000" scale="1.000000 1.000000 1.000000"
+          model="roadblock.b3d" shape="box" mass="10"/>
+  <object type="movable" xyz="58.000000 2.000000 -33.000000" hpr="-90.000003 -27.000001 -0.000000" scale="1.000000 1.000000 1.000000"
+          model="roadcone.b3d" shape="coneZ" mass="15.0"/>
+  <object type="movable" xyz="56.000000 2.000000 -34.000000" hpr="-90.000003 -147.000001 -0.000000" scale="1.000000 1.000000 1.000000"
+          model="roadcone.b3d" shape="coneZ" mass="15.0"/>
+  <object type="movable" xyz="54.000000 2.000000 -31.000000" hpr="-90.000003 -47.000000 -0.000000" scale="1.000000 1.000000 1.000000"
+          model="roadcone.b3d" shape="coneZ" mass="15.0"/>
+  <sky-color rgb="82 150 244"/>
+  <banana x="25" y="10" z="70" />
+  <banana x="30" y="10" z="70" />
+  <banana x="70" y="10" z="-130" />
+  <banana x="70" y="10" z="-126" />
+  <banana x="70" y="10" z="-123" />
+  <banana x="70" y="10" z="-120" />
+  <item x="29" y="10" z="-139" />
+  <item x="29" y="10" z="-141" />
+  <item x="29" y="10" z="-143" />
+  <item x="29" y="10" z="-145" />
+  <item x="41" y="10" z="40" />
+  <item x="41" y="10" z="42" />
+  <item x="41" y="10" z="44" />
+  <item x="41" y="10" z="46" />
+  <item x="41" y="10" z="48" />
+  <item x="-40" y="10" z="-60" />
+  <item x="-20" y="10" z="-30" />
+  <item x="-10" y="10" z="-20" />
+  <item x="-70" y="10" z="-80" />
+  <item x="-50" y="10" z="-60" />
+  <big-nitro x="-45" y="10" z="-140" />
+  <small-nitro x="20" y="10" z="80" />
+  <small-nitro x="30" y="10" z="60" />
+  <small-nitro x="120" y="10" z="-55" />
+  <small-nitro x="120" y="10" z="-65" />
+  <checks>
+    <check-lap kind="lap" same-group="0" other-ids="1" />
+    <check-line kind="activate" other-ids="0" p1="-28.368078 -147.016373" p2="-28.368217 -134.550613"
+                min-height="3.001080" same-group="1"/>
+  </checks>
+  <camera far="200"/>
+  <default-start karts-per-row     ="2"
+                 forwards-distance ="1.5"
+                 sidewards-distance="3"
+                 upwards-distance  ="0.1"/>
+</scene>

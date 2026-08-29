@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev Unknown -->
+<materials>
+  <material name="city_ground.jpg" high-adhesion="true" max-speed="0.30"/>
+  <material name="farmland_dry.png" graphical-effect="bubble"/>
+  <material name="farmland_wet.png" backface-culling="N" graphical-effect="grass" high-adhesion="true" grass-speed="1.50" slowdown-time="0.00" max-speed="0.50"/>
+  <material name="mc1-RGB.png">
+    <zipper duration="3.5" max-speed-increase="15.0" fade-out-time="3.0" speed-gain="4.0"/>
+  </material>
+  <material name="mc1-RGB.png" collision-detect="Y" collision-reaction="reset"/>
+  <material name="mc1-RGB.png" max-speed="0.30"/>
+  <material name="mc1-RGBA.png" graphical-effect="water_shader" collision-detect="Y" surface="Y" collision-reaction="reset"/>
+  <material name="Road1.png" graphical-effect="water_shader" high-adhesion="true" water-shader-speed-1="10.00">
+    <zipper duration="7.0" max-speed-increase="15.0" fade-out-time="3.0" speed-gain="2.0"/>
+  </material>
+  <material name="Sand.jpg" high-adhesion="true" slowdown-time="0.20" max-speed="0.01"/>
+</materials>

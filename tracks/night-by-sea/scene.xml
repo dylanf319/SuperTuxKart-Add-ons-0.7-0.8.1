@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev 11947 -->
+<scene>
+  <track model="night_track.b3d" x="0" y="0" z="0">
+    <animated-texture name="water_light.png"/>
+    <animated-texture name=""/>
+    <animated-texture name="waterfall.png" dy="1.000" />
+    <animated-texture name=""/>
+  </track>
+  <sun  fog="true" fog-color="0 0 0" fog-start="50.0" fog-end="300.0" xyz="34.72 88.15 -106.33" ambient="0 15 87"/>
+  <sky-color rgb="0 0 8"/>
+  <banana x="63.055313" y="43.612362" z="-42.126709" h="-53.897481" />
+  <banana x="65.557663" y="43.612362" z="-44.294537" h="-53.897481" />
+  <banana x="67.773109" y="43.612362" z="-45.647812" h="-53.897481" />
+  <banana x="16.348423" y="43.612358" z="-79.314789" />
+  <banana x="13.949612" y="43.612358" z="-80.307404" />
+  <banana x="10.723625" y="43.612358" z="-81.051865" />
+  <item x="49.936722" y="2.735411" z="-86.18428" />
+  <item x="51.937778" y="2.735411" z="-88.042404" />
+  <item x="53.081242" y="2.735411" z="-89.614662" />
+  <item x="-8.442528" y="43.61237" z="-34.499001" h="95.293428" />
+  <item x="-9.902592" y="43.61237" z="-35.782635" h="95.293428" />
+  <item x="-11.568178" y="43.61237" z="-37.946583" h="95.293428" />
+  <small-nitro x="41.272743" y="43.61237" z="13.60611" />
+  <small-nitro x="40.941906" y="43.61237" z="11.372956" />
+  <small-nitro x="40.693779" y="43.61237" z="8.891675" />
+  <small-nitro x="13.404465" y="43.61237" z="-154.83461" h="-15.299986" />
+  <small-nitro x="14.298539" y="43.61237" z="-152.506744" h="-15.299986" />
+  <small-nitro x="15.20692" y="43.61237" z="-150.440048" h="-15.299986" />
+  <checks>
+    <check-lap kind="lap" same-group="0" other-ids="1" />
+    <check-line kind="activate" other-ids="0" p1="41.61 22.20" p2="40.10 1.32"
+                min-height="5.03" same-group="1"/>
+  </checks>
+  <camera far="1000.0"/>
+  <default-start karts-per-row     ="2"
+                 forwards-distance ="1.10"
+                 sidewards-distance="1.10"
+                 upwards-distance  ="1.10"/>
+</scene>

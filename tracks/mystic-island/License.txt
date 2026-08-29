@@ -1,0 +1,25 @@
+Mystic island_ by David Herrera <<<dav10her@hotmail.com>>>	
+
+Textures created by me:
+
+SkyM.png
+Bridge.png
+Light.png
+Light_W.png
+Light2.png
+Symbol.png
+Tree2.png
+window.png
+
+---------------------------------------------------------------------------------------------------------------
+                                                                                                              )
+Wall.png        Texture edited by me ( original oldWood.png )                                                 )
+                                                                                                              )
+Butterfly_A.png  Texture edited by me ( original Butterfly.png )                                              )
+                                                                                                              )
+Mushroom_M.png   Texture edited by me ( original shroom_color_a.png  and  shroom_color2.png )                 )
+                                                                                                              )
+---------------------------------------------------------------------------------------------------------------
+
+
+--<  This work is released under the Gnu General Public License (GPL)  >--

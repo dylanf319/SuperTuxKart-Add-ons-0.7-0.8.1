@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev Unknown -->
+<scene>
+  <track model="valley_track.b3d" x="0" y="0" z="0">
+    <animated-texture name="water_light.png" dx="0.200" />
+  </track>
+  <item x="-92.009598" y="0.096809" z="-53.921947" />
+  <item x="-94.010422" y="0.096809" z="-55.341888" />
+  <item x="-96.301689" y="0.096809" z="-56.245487" />
+  <item x="-3.080452" y="0.096809" z="-58.317062" />
+  <item x="-0.789185" y="0.096809" z="-57.413464" />
+  <item x="1.211639" y="0.096809" z="-55.993523" />
+  <item x="61.63258" y="-15.99357" z="82.801994" />
+  <item x="59.631756" y="-15.99357" z="81.38205" />
+  <item x="57.340488" y="-15.99357" z="80.478455" />
+  <small-nitro x="-20.464054" y="-3e-06" z="30.060196" />
+  <small-nitro x="-21.851448" y="-3e-06" z="31.44759" />
+  <small-nitro x="-22.776377" y="-3e-06" z="33.066216" />
+  <small-nitro x="-6.875049" y="-1e-06" z="14.592492" h="-28.92661" />
+  <small-nitro x="-6.848425" y="-1e-06" z="12.728429" h="-28.92661" />
+  <small-nitro x="-6.30519" y="-1e-06" z="10.843059" h="-28.92661" />
+  <small-nitro x="-88.344849" y="-11.31811" z="106.739388" h="-28.92661" />
+  <small-nitro x="-88.888092" y="-11.31811" z="108.624756" h="-28.92661" />
+  <small-nitro x="-88.914703" y="-11.31811" z="110.488815" h="-28.92661" />
+  <banana x="0.479449" y="0" z="-7.191732" />
+  <banana x="0.239724" y="0" z="-9.8287" />
+  <banana x="62.492958" y="-0.231209" z="-66.520103" h="23.282341" />
+  <banana x="61.670872" y="-0.231209" z="-64.003113" h="23.282341" />
+  <checks>
+    <check-lap kind="lap" same-group="0" other-ids="1" />
+    <check-line kind="activate" other-ids="0" p1="-93.376152 0.309384" p2="-120.503242 -5.723559"
+                min-height="-1.666235" same-group="1"/>
+  </checks>
+  <sky-box texture="farm_cube5.png farm_cube5.png farm_cube3.png farm_cube1.png farm_cube2.png farm_cube4.png"/>
+  <camera far="1000.0"/>
+  <default-start karts-per-row     ="2"
+                 forwards-distance ="1.10"
+                 sidewards-distance="1.10"
+                 upwards-distance  ="1.10"/>
+</scene>

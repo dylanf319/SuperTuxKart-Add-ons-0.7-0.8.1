@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev Unknown -->
+<materials>
+  <material name="bush.png" fog="N" light="N" backface-culling="N" compositing="blend"/>
+  <material name="iron-fence.png" fog="N" light="N" backface-culling="N" compositing="blend"/>
+  <material name="lightHaloY.png" backface-culling="N" compositing="blend"/>
+  <material name="marble.jpg" backface-culling="N"/>
+  <material name="metalfence.png" fog="N" light="N" backface-culling="N" compositing="blend"/>
+  <material name="TiZeta_ivy.png" backface-culling="N"/>
+  <material name="tree.png" fog="N" light="N" backface-culling="N" compositing="blend"/>
+  <material name="wood_planks1.jpg" backface-culling="N"/>
+  <material name="zipper.png" compositing="blend">
+    <zipper duration="5.0" max-speed-increase="15.0" fade-out-time="5.0" speed-gain="5.0"/>
+  </material>
+</materials>

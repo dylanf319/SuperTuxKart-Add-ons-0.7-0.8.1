@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev Unknown -->
+<materials>
+  <material name="arc1.png" backface-culling="N" compositing="blend" crash-reset="Y"/>
+  <material name="arc2.png" backface-culling="N" compositing="additive" disable-z-write="Y" crash-reset="Y" crash-reset-particles="sparks.xml"/>
+  <material name="Bleech.png" backface-culling="N" compositing="blend" disable-z-write="Y"/>
+  <material name="Light.png" backface-culling="N" compositing="additive" disable-z-write="Y" ignore="Y"/>
+  <material name="brick.png" backface-culling="N"/>
+  <material name="Bridge.png" backface-culling="N" compositing="blend" disable-z-write="Y">
+    <zipper duration="6.0" max_speed_increase="5.0" fade_out_time="3.0" speed_gain="4.5"/>
+  </material>
+  <material name="bush2.png" compositing="blend" ignore="Y"/>
+  <material name="Butterfly_A.png" backface-culling="N" compositing="additive"/>
+  <material name="city_checker.png" backface-culling="N"/>
+  <material name="city_rock.jpg" backface-culling="N"/>
+  <material name="earth.png" backface-culling="N"/>
+  <material name="flames.png" backface-culling="N"/>
+  <material name="grass2.jpg" backface-culling="N" high-adhesion="true" slowdown-time="2.00" max-speed="0.90"/>
+  <material name="grass2dirt.png" backface-culling="N"/>
+  <material name="hacienda_ground_dark.jpg" backface-culling="N"/>
+  <material name="Light2.png" backface-culling="N" compositing="blend" disable-z-write="Y"/>
+  <material name="light3-subsea.png" backface-culling="N" compositing="additive" disable-z-write="Y" ignore="Y"/>
+  <material name="Light_W.png" backface-culling="N" compositing="additive" disable-z-write="Y"/>
+  <material name="Mushroom_M.jpg" backface-culling="N"/>
+  <material name="oldWood.png" backface-culling="N"/>
+  <material name="road_dirt.jpg" backface-culling="N"/>
+  <material name="shintoB.jpg" backface-culling="N"/>
+  <material name="sky3.jpg" backface-culling="N" compositing="additive" graphical-effect="water" reset="Y"/>
+  <material name="SkyN.png" backface-culling="N" compositing="blend"/>
+  <material name="smoke.png" backface-culling="N" compositing="blend" disable-z-write="Y" ignore="Y"/>
+  <material name="starparticle.png" backface-culling="N" compositing="blend" ignore="Y"/>
+  <material name="stonewall.png" backface-culling="N"/>
+  <material name="Symbol.png" backface-culling="N" compositing="additive"/>
+  <material name="transparence2.png" backface-culling="N" compositing="blend"/>
+  <material name="Tree2.png" backface-culling="N" compositing="blend"/>
+  <material name="vegetation_1.png" backface-culling="N" compositing="blend" ignore="Y"/>
+  <material name="Wall.png" backface-culling="N" compositing="blend"/>
+  <material name="waterfall.png" backface-culling="N" compositing="blend" falling-effect="Y" ignore="Y" surface="Y">
+    <particles base="splash.xml" condition="skid drive"/>
+  </material>
+  <material name="zipper_collect.png" backface-culling="N" compositing="additive">
+    <zipper duration="3.5" max_speed_increase="15.0" fade_out_time="3.0" speed_gain="4.5"/>
+  </material>
+</materials>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev Unknown -->
+<materials>
+  <material name="brick_01.png">
+    <zipper max_speed_increase="15.0" duration="3.5" speed_gain="6.0" fade_out_time="3.0"/>
+  </material>
+  <material name="lava.png">
+    <particles base="smoke.xml" condition="skid drive"/>
+  </material>
+  <material name="zipper.png" compositing="blend">
+    <zipper duration="3.5" max_speed_increase="12.0" fade_out_time="3.0" speed_gain="4.0"/>
+  </material>
+</materials>

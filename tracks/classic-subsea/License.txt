@@ -1,0 +1,14 @@
+Track model:
+Ingo Ruhnke, license: GNU GPL v2 (or later)
+
+Music:
+tuxr.ogg : Matt Thomas, license: GNU GPL v2 (or later)
+
+Screenshot:
+sshot-subseatrack.jpg : Magne Djupvik, license: CC0
+
+Textures:
+chrome2.jpg : Steve Baker, license: GNU GPL v2 (or later)
+sand.jpg : Steve Baker, license: GNU GPL v2 (or later)
+track2.png : Ingo Ruhnke & Thomas Oppl (horace) toppl@fh-sbg.ac.at (c) 2008, license: CC-BY-SA 3.0
+window.png : Ingo Ruhnke, license: CC-BY-SA 3.0

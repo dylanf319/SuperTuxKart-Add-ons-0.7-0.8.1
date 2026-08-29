@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev Unknown -->
+<materials>
+  <material name="DSC09792x.JPG" crash-reset="Y"/>
+  <material name="IMG_0118.png" compositing="blend" ignore="Y" surface="Y">
+    <sfx filename="splash.ogg" min_speed="0.00" max_speed="0.00" min_pitch="0.80" max_pitch="1.20" positional="Y" rolloff="0.10"/>
+    <particles base="splash.xml" condition="skid drive"/>
+  </material>
+  <material name="IMG_0343b.jpg" high-adhesion="true"/>
+  <material name="water_light2.png" compositing="blend" ignore="Y" surface="Y">
+    <sfx filename="splash.ogg" min_speed="0.00" max_speed="0.00" min_pitch="0.80" max_pitch="1.20" positional="Y" rolloff="0.10"/>
+    <particles base="splash.xml" condition="skid drive"/>
+  </material>
+  <material name="qubodup-light_wood.png" high-adhesion="true"/>
+</materials>

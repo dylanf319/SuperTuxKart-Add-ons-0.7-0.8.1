@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev Unknown -->
+<scene>
+  <track model="theringofsand_track.b3d" x="0" y="0" z="0">
+    <static-object model="cactus.b3d" xyz="73.14 4.13 62.65" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object model="cactus.b3d" xyz="39.60 0.27 23.87" hpr="7.5 -104.4 -14.3" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object model="cactus.b3d" xyz="48.77 13.68 -79.51" hpr="7.6 164.1 0.9" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object model="cactus.b3d" xyz="-112.12 8.83 9.00" hpr="14.6 162.6 -3.2" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object model="cactus.b3d" xyz="-96.24 39.02 112.73" hpr="-0.0 -108.6 -0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object model="cactus.b3d" xyz="-4.10 10.51 105.86" hpr="21.3 -142.4 -13.4" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object model="cactus.b3d" xyz="51.10 37.98 -124.55" hpr="6.7 -107.5 -3.2" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object model="cactus.b3d" xyz="111.80 44.92 91.04" hpr="25.1 -20.8 -15.7" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object model="cactus.b3d" xyz="-62.27 3.71 77.30" hpr="-10.5 -45.8 23.2" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object model="cactus.b3d" xyz="-67.21 37.98 -124.55" hpr="3.9 -167.4 -1.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+  </track>
+  <item x="60.127144" y="3" z="25.438152" />
+  <item x="62.92083" y="3" z="25.390276" />
+  <item x="-52.125149" y="3" z="51.522354" />
+  <item x="-54.205795" y="3.00018" z="53.627022" />
+  <item x="-31.419668" y="3.000299" z="-54.351292" />
+  <item x="-29.343081" y="3" z="-52.311005" />
+  <item x="15.143114" y="4.220633" z="76.84198" />
+  <item x="48.225563" y="4.475675" z="-41.6623" />
+  <item x="-62.378441" y="3.946417" z="-10.554926" />
+  <banana x="13.564869" y="3.000119" z="68.738739" />
+  <banana x="-55.465691" y="3" z="-9.073616" />
+  <banana x="43.561459" y="3" z="-37.236164" />
+  <small-nitro x="50.537838" y="2.999821" z="56.683697" />
+  <small-nitro x="-20.47533" y="3.000119" z="70.510086" />
+  <small-nitro x="-63.708645" y="3.000179" z="21.720741" />
+  <small-nitro x="-48.739334" y="3.000299" z="-32.259396" />
+  <small-nitro x="16.273392" y="3" z="-66.857117" />
+  <small-nitro x="47.959614" y="2.999821" z="54.105473" />
+  <small-nitro x="-19.483706" y="3.000119" z="66.543587" />
+  <small-nitro x="-59.940468" y="3.000179" z="22.117392" />
+  <small-nitro x="-45.566135" y="3.000299" z="-30.672796" />
+  <small-nitro x="14.845451" y="3" z="-63.525257" />
+  <big-nitro x="62.945782" y="3.869612" z="-8.276473" />
+  <banana x="-67.848167" y="3.95" z="21.624743" />
+  <banana x="-21.40966" y="3.95" z="75.400658" />
+  <banana x="53.384651" y="3.95" z="61.14917" />
+  <banana x="17.9844" y="3.950003" z="-70.316071" />
+  <banana x="-52.592766" y="3.950003" z="-34.068878" />
+  <item x="-35.469421" y="3.950002" z="-58.131416" />
+  <item x="-57.897797" y="3.950002" z="56.957771" />
+  <item x="67.963905" y="3.949997" z="25.384184" />
+  <checks>
+    <check-lap kind="lap" same-group="0" other-ids="1" />
+    <check-line kind="activate" other-ids="0" p1="-55.49 22.48" p2="-70.35 22.07"
+                min-height="-1.01" same-group="1"/>
+  </checks>
+
+  <sky-dome texture="sky.jpg"
+            horizontal="20" vertical="20" 
+            texture-percent="1.0" sphere-percent="1.3"
+            speed-x="0.0" speed-y="0.0" />
+  <default-start karts-per-row     ="2"
+                 forwards-distance ="1.50"
+                 sidewards-distance="3.00"
+                 upwards-distance  ="0.10"/>
+</scene>

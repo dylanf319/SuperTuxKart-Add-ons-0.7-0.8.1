@@ -1,0 +1,4 @@
+Fort Magma present in SuperTuxKart 0.7
+Originally created by Oliver & Steve Baker, Marianne Gagnon.
+Released under GNU GPL.
+Packaged by Marcin Mielniczuk

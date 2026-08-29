@@ -1,0 +1,22 @@
+track by ctdabomb released under CC-BY-SA 3.0
+-----------
+castle.png, gate.png, gradient2.png, lake2.png, long-grass.png, mountain.png, straw.png, by ctdabomb released under CC-BY-SA 3.0
+
+blackroad2.jpg by ctdabomb based on blackroad.jpg from burning well released under public domain
+
+grassToRock.png by ctdabomb based on images by samuncle released under CC-BY-SA 3.0
+
+grass, grassroad
+    created by Christoph Egger <debian@christoph-egger.org>, Marianne Gagnon (Auria), MiniBjorn and Samuncle released under CC-BY-SA 3.0
+
+Well model and well texture by Sean Greene (Iconoclast) released under public domain
+
+zipper.png by Dakal, released under CC-BY-SA 3.0
+
+Textures based on pictures from burningwell: blackRoad.png, black_rockMountain.jpg, released under public domain
+
+castelwall.png, grass_detail1.png, grass_detail2.png, metalfence.png, by Samuncle released under CC-BY-SA 3.0
+
+
+
+

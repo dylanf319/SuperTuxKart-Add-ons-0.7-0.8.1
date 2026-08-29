@@ -1,0 +1,313 @@
+License for "City lights" track
+===============================
+
+Some files are in subdirectories. Plus, the license statement is valid for all file formats, e. g. if it says "road" then the statement is 
+valid for "road.png", "road.xcf", "road.jpg", etc. Additionally, some subdirectories might contain more License.txt files, which describe 
+the contents in those directories and their subdirectories.
+
+This track and all files have been created by Wolfs and are licensed under Creative Commons Attribution Share-Alike (CC BY-SA) 3.0, except:
+
+- Several scripts/programs have a different license. In this case, their license can be found in a comment in the first lines of the source
+  code.
+- arrow:
+	Created by Wolfs
+	Licensed under Creative Commons Attribution Share-Alike (CC BY-SA) 3.0
+- black:
+	Created by Wolfs
+	Licensed under CC0 1.0
+- Bleech2.png:
+	Created by Yorik, slightly modified by Wolfs
+	From http://blender-archi.tuxfamily.org/Greenhouse
+	Licensed under Creative Commons Attribution (CC BY) 3.0
+- bridge_fence:
+	Created by Wolfs, based on an image
+		from http://www.burningwell.org/gallery2/v/textures/surfaces/metal/TT7002105.JPG.html
+		which has been released to public domain.
+	Licensed under CC0 1.0
+- ChillCarrier-Druckverlust.ogg
+	Created by Chill Carrier
+	Licensed under Creative Commons Attribution Share-Alike (CC BY-SA) 3.0
+- city_concrete:
+	From SuperTuxKart texture directory
+	Licensed under Creative Commons Attribution Share-Alike (CC BY-SA) 3.0
+- gravel:
+	Created by Wolfs, based on an image
+		from http://www.burningwell.org/gallery2/v/textures/ground/rocks/TT1_0217.JPG.html
+		which has been created by Titus Tscharntke
+		and which has been released to public domain.
+	Licensed under Creative Commons Attribution Share-Alike (CC BY-SA) 3.0
+- invisible:
+	Created by Wolfs
+	Licensed under CC0 1.0
+- light_white and light_red:
+	Created by Wolfs
+	Licensed under Creative Commons Attribution (CC BY) 3.0
+- Metal3:
+	Created by Wolfs, based on an image
+		from http://www.burningwell.org/gallery2/v/textures/surfaces/metal/TT7002105.JPG.html
+		which has been released to public domain.
+	Licensed under CC0 1.0
+- OpenfootageNETground3
+	From http://www.openfootage.net/?p=65#more-65
+	Licensed under Creative Commons Attribution (CC BY) 3.0	
+- pavement:
+	Created by Wolfs, based on the image OpenfootageNETground3.tif
+		from http://www.openfootage.net/?p=65#more-65
+		which has been licensed under Creative Commons Attribution (CC BY) 3.0	
+	Licensed under Creative Commons Attribution Share-Alike (CC BY-SA) 3.0	
+- place-light
+	Created by Wolfs
+	Licensed under CC0 1.0
+- road:
+	Created by Wolfs, based on following images:
+		- OpenfootageNETground3.tif:
+			From http://www.openfootage.net/?p=65#more-65
+			Licensed under Creative Commons Attribution (CC BY) 3.0
+		- city_asphalt_1.jpg:
+			From SuperTuxKart data directory
+			Licensed under Creative Commons Attribution Share-Alike (CC-BY-SA) 3.0
+	Licensed under Creative Commons Attribution Share-Alike (CC BY-SA) 3.0
+- road_barrier:
+	Created by Wolfs
+	Licensed under CC0 1.0
+- road_crossing and road_T_crossing:
+	Created by Wolfs, based on following images:
+		- OpenfootageNETground3.tif:
+			From http://www.openfootage.net/?p=65#more-65
+			Licensed under Creative Commons Attribution (CC BY) 3.0
+		- city_asphalt_1.jpg:
+			From SuperTuxKart data directory
+			Licensed under Creative Commons Attribution Share-Alike (CC BY-SA) 3.0
+		- city_asphalt_2.jpg:
+			From SuperTuxKart data directory
+			Licensed under Creative Commons Attribution Share-Alike (CC BY-SA) 3.0
+	Licensed under Creative Commons Attribution Share-Alike (CC BY-SA) 3.0
+- seabed:
+	From City track
+	(TODO: still have to find the license)
+- skybox-east, skybox-west, skybox-north, skybox-south, skybox-top, skybox-bottom and distant-skyscraper.blend:
+	Created by Wolfs, based on the image "ESO - Milky Way" 
+		from https://commons.wikimedia.org/wiki/File:ESO_-_Milky_Way.jpg
+		which has been created by ESO/H.H. Heyer
+		and which has been licensed under Creative Commons Attribution (CC-BY) 3.0.
+	Also contains various skyscraper textures, see below
+	Licensed under Creative Commons Attribution Share-Alike (CC BY-SA) 3.0	
+- small_road:
+	Created by Wolfs, based on following images:
+		- OpenfootageNETground3.tif:
+			From http://www.openfootage.net/?p=65#more-65
+			Licensed under Creative Commons Attribution (CC BY) 3.0
+		- city_asphalt_2.jpg:
+			From SuperTuxKart data directory
+			Licensed under Creative Commons Attribution Share-Alike (CC-BY-SA) 3.0
+	Licensed under Creative Commons Attribution Share-Alike (CC BY-SA) 3.0
+- storm_zipper:
+	TODO
+- traffic_light_green, traffic_light_red, traffic_light_background, traffic_light_off and traffic_light_red_off:
+	Created by Wolfs
+	Licensed under Creative Commons Attribution (CC BY) 3.0
+- water:
+	From http://opengameart.org/node/10594
+	Created by qubodup
+	Modified by Wolfs
+	Licensed under CC0 1.0
+- white:
+	Created by Wolfs
+	Licensed under CC0 1.0
+
+Skyscraper textures:
+Some of these images might not be used in the track
+
+- skyscraper3_tileable:
+	Created by Wolfs, based on a work 
+		from http://pixabay.com/en/skyscraper-berlin-at-night-8264/
+		which was created by PixelAnarchy
+		and which is licensed under CC0 1.0.
+	Licensed under Creative Commons Attribution Share-Alike (CC BY-SA) 3.0
+
+- skyscraper4_tileable:
+	Created by Wolfs, based on the image
+		"Office Building at Night"
+		from http://www.flickr.com/photos/oatsy40/6654590411/
+		which was created by oatsy40
+		and which is licensed under CC BY 2.0.
+	Licensed under Creative Commons Attribution Share-Alike (CC BY-SA) 3.0
+
+- skyscraper5_tileable:
+	Created by Wolfs, based on the image
+		"Mmm... skyscraper, I love you!"
+		from http://www.flickr.com/photos/passer-by/260429453/
+		which was created by passer-by
+		and which is licensed under CC BY-SA 2.0.
+	Licensed under Creative Commons Attribution Share-Alike (CC BY-SA) 3.0
+
+- skyscraper6_tileable-a:
+	Created by Wolfs, based on the image
+		"Seattle at night"
+		from http://www.flickr.com/photos/getjiggygriggy/5181217366/
+		which was created by Michael Grigorian ("GetJiggyGriggy")
+		and which is licensed under CC BY 2.0.
+	Licensed under Creative Commons Attribution Share-Alike (CC BY-SA) 3.0
+
+- skyscraper6_tileable-b:
+	Created by Wolfs, based on the image
+		"Seattle at night"
+		from http://www.flickr.com/photos/getjiggygriggy/5181217366/
+		which was created by Michael Grigorian ("GetJiggyGriggy")
+		and which is licensed under CC BY 2.0.
+	Licensed under Creative Commons Attribution Share-Alike (CC BY-SA) 3.0
+
+- skyscraper8_only-v-tileable:
+	Created by Wolfs, based on the image
+		"Windows and Windows and Windows and Windows"
+		from http://www.flickr.com/photos/rutlo/3197689779/
+		which was created by Matthew Rutledge ("rutlo")
+		and which is icensed under CC BY 2.0.
+	Licensed under Creative Commons Attribution Share-Alike (CC BY-SA) 3.0
+
+- skyscraper8_tileable:
+	Created by Wolfs, based on the image
+		"Windows and Windows and Windows and Windows"
+		from http://www.flickr.com/photos/rutlo/3197689779/
+		which was created by Matthew Rutledge ("rutlo")
+		and which is licensed under CC BY 2.0.
+	Licensed under Creative Commons Attribution Share-Alike (CC BY-SA) 3.0
+
+- skyscraper9_tileable-a:
+	Created by Wolfs, based on the image
+		"Glow"
+		from http://www.flickr.com/photos/vauvau/3990175332/
+		which was created by Clemens v. Vogelsang ("vauvau")
+		and which is licensed under CC BY 2.0.
+	Licensed under Creative Commons Attribution Share-Alike (CC BY-SA) 3.0
+
+- skyscraper9_tileable-b:
+	Created by Wolfs, based on the image
+		"Glow"
+		from http://www.flickr.com/photos/vauvau/3990175332/
+		which was created by Clemens v. Vogelsang ("vauvau")
+		and which is licensed under CC BY 2.0.
+	Licensed under Creative Commons Attribution Share-Alike (CC BY-SA) 3.0
+
+- skyscraper15_only-v-tileable:
+	Created by Wolfs, based on the image
+		"Chicago At Night 1"
+		from http://www.flickr.com/photos/ebnt-photo/4999854800/
+		which was created by Eric Bennett
+		and which is licensed under CC BY-SA 2.0.
+	Licensed under Creative Commons Attribution Share-Alike (CC BY-SA) 3.0
+
+- skyscraper16_only-v-tileable-b:
+	Created by Wolfs, based on the image
+		"Cincinnati Downtown Smoke"
+		from http://www.flickr.com/photos/sideonecincy/5948590436/
+		which was created by Chris Miller ("Sideonecincy")
+		and which is licensed under CC BY 2.0
+	Licensed under Creative Commons Attribution Share-Alike (CC BY-SA) 3.0
+
+- skyscraper16_tileable-a:
+	Created by Wolfs, based on the image
+		"Cincinnati Downtown Smoke"
+		from http://www.flickr.com/photos/sideonecincy/5948590436/
+		which was created by Chris Miller ("Sideonecincy")
+		and which is licensed under CC BY 2.0
+	Licensed under Creative Commons Attribution Share-Alike (CC BY-SA) 3.0
+
+- skyscraper17_tileable:
+	Created by Wolfs, based on the image
+		"rentals"
+		from http://www.flickr.com/photos/telemetry9/3383072343/
+		which was created by telemetry9
+		and which is licensed under CC BY-SA 2.0.
+	Licensed under CC BY-SA 3.0
+
+- skyscraper20_tileable:
+	Created by Wolfs, based on the image
+		"The Bat Tower HDR Pano"
+		from http://www.flickr.com/photos/exothermic/2277110727/
+		which was created by Exothermic
+		and which is licensed under CC BY-SA 2.0.
+	Licensed under CC BY-SA 3.0
+
+- skyscraper24_tileable:
+	Created by Wolfs, based on the image
+		"HIGH RISE"
+		from http://www.flickr.com/photos/49889874@N05/6163157107/
+		which was created by marc falardeau
+		and which is licensed under CC BY 2.0
+	Licensed under CC BY-SA 3.0
+
+- skyscraper25_tileable:
+	Created by Wolfs, based on the image
+		"Neon nights"
+		from http://www.flickr.com/photos/rutlo/3218560094/
+		which was created by Matthew Rutledge ("rutlo")
+		and which is licensed under CC BY 2.0.
+	Licensed under CC BY-SA 3.0
+
+- skyscraper29_tileable:
+	Created by Wolfs, based on an image
+		from http://commons.wikimedia.org/wiki/File:The_Faircrest_at_night,_Ottawa.jpg
+		which was created by David Carroll
+		and which is licensed under CC BY 2.0.
+	Licensed under CC BY-SA 3.0
+
+- skyscraper31_tileable:
+	Created by Wolfs, based on an image
+		from http://commons.wikimedia.org/wiki/File:Lovelace_Medical_Center,_ABQ,_night.jpg 
+		which was created by Steve Burke
+		and which is licensed under CC BY 2.0.
+	Licensed under CC BY-SA 3.0
+
+- skyscraper65_tileable:
+	Created by Wolfs
+	Based on the picture
+		"Office Life"
+		from http://www.flickr.com/photos/melburnian/3652851277
+		which has been created by Steve Davidson ("melburnian")
+		and which is licensed under CC BY 2.0.
+	Licensed under Creative Commons Attribution Share-Alike (CC BY-SA) 3.0
+
+- skyscraper72b_tileable-lc:
+	Created by Wolfs
+	Based on the picture
+		"Overnight in Toronto"
+		from http://www.flickr.com/photos/alwbutler/8247424615/in/photostream/
+		which has been created by masterbutler
+		and which is licensed under Creative Commons Attribution (CC BY) 2.0
+	Licensed under Creative Commons Attribution Share-Alike (CC BY-SA) 3.0
+
+- windowsskyscraper_blender_texturepack.jpg
+	From http://schools.spsd.sk.ca/mountroyal/Hoffman/blender/blendertextures/texture/building/window/windowsskyscraper.jpg
+	Belongs to the Blender Texture Disk
+	Released to public domain
+
+- windowskyscraper2.jpg
+	From http://schools.spsd.sk.ca/mountroyal/Hoffman/blender/blendertextures/texture/building/window/windowskyscraper2.jpg
+	Belongs to the Blender Texture Disk
+	Released to public domain
+
+
+
+URIs of licenses
+================
+
+Apache License 2.0:												http://www.apache.org/licenses/LICENSE-2.0.txt
+Artistic License 1.0:											http://opensource.org/licenses/artistic-license-1.0
+Artistic License 2.0:											http://opensource.org/licenses/artistic-license-2.0
+BSD 2-Clause License:											http://opensource.org/licenses/bsd-license.php
+BSD 3-Clause License:											http://opensource.org/licenses/BSD-3-Clause
+Creative Commons Zero 1.0 (CC0 1.0):							http://creativecommons.org/publicdomain/zero/1.0/
+Creative Commons Attribution 2.0 (CC BY 2.0): 					http://creativecommons.org/licenses/by/2.0/
+Creative Commons Attribution 2.5 (CC BY 2.5): 					http://creativecommons.org/licenses/by/2.5/
+Creative Commons Attribution 3.0 (CC BY 3.0): 					http://creativecommons.org/licenses/by/3.0/
+Creative Commons Attribution Share-Alike 2.0 (CC BY-SA 2.0):	http://creativecommons.org/licenses/by-sa/2.0/
+Creative Commons Attribution Share-Alike 2.5 (CC BY-SA 2.5):	http://creativecommons.org/licenses/by-sa/2.5/
+Creative Commons Attribution Share-Alike 3.0 (CC BY-SA 3.0):	http://creativecommons.org/licenses/by-sa/3.0/
+Free Arts License 1.3 (FAL 1.3):								http://artlibre.org/licence/lal/en
+GNU Free Documentation License 1.2 (GFDL 1.2):					http://www.gnu.org/licenses/old-licenses/fdl-1.2.txt
+GNU Free Documentation License 1.3 (GFDL 1.3):					http://www.gnu.org/licenses/fdl-1.3.txt
+GNU General Public License 2.0 (GPL 2.0):						http://www.gnu.org/licenses/old-licenses/gpl-2.0.txt
+GNU General Public License 3.0 (GPL 3.0):						http://www.gnu.org/licenses/gpl.txt
+MIT License:													http://opensource.org/licenses/mit-license.php
+Mozilla Public License 2.0 (MPL 2.0):							http://www.mozilla.org/MPL/2.0/index.txt

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev Unknown -->
+<scene>
+  <track model="volcano_track.b3d" x="0" y="0" z="0"/>
+  <sky-color rgb="77 104 255"/>
+  <weather particles="none.xml" />
+  <item x="1.163814" y="10" z="38.412811" />
+  <item x="-107.700996" y="10" z="48.539001" />
+  <item x="-128.962006" y="10" z="-17.608" />
+  <item x="-23.441" y="15" z="-37.688999" />
+  <item x="-65.964996" y="30" z="48.539001" />
+  <item x="-50.609001" y="35" z="30.427" />
+  <item x="-45.883999" y="5" z="-59.344002" />
+  <small-nitro x="-54.27" y="5" z="70.363998" />
+  <small-nitro x="-110.017998" y="5" z="8.474" />
+  <small-nitro x="-68.443001" y="10" z="-40.188" />
+  <small-nitro x="-22.143999" y="25" z="28.316999" />
+  <small-nitro x="-40.569" y="40" z="-11.841" />
+  <small-nitro x="-67.026001" y="5" z="-53.889" />
+  <checks>
+    <check-lap kind="lap" same-group="0" other-ids="1" />
+    <check-line kind="activate" other-ids="2" p1="-16.216629 -7.150702" p2="-26.819046 -6.099539"
+                min-height="13.647926" same-group="1"/>
+    <check-line kind="activate" other-ids="0" p1="-71.006226 -9.657097" p2="-60.248909 -5.154388"
+                min-height="14.078198" same-group="2"/>
+  </checks>
+  <camera far="1000.0"/>
+  <default-start karts-per-row     ="2"
+                 forwards-distance ="1.10"
+                 sidewards-distance="1.10"
+                 upwards-distance  ="1.10"/>
+</scene>

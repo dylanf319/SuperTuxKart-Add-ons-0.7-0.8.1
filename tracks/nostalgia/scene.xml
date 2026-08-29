@@ -1,0 +1,692 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev Unknown -->
+<scene>
+  <track model="nostalgia_track.b3d" x="0" y="0" z="0">
+    <animated-texture name="lava.png" dy="-0.030" />
+    <animated-texture name="water_light_animated.png" dy="-0.080" />
+    <animated-texture name="water_light_animated.png" dy="-0.080" />
+    <animated-texture name="zipper.png" dy="-3.000" />
+    <animated-texture name="zipper.png" dy="-3.000" />
+  </track>
+  <sky-color rgb="75 181 228"/>
+  <camera far="1000.0"/>
+  <checks>
+    <check-lap kind="lap" same-group="0" other-ids="1" />
+    <check-line kind="activate" other-ids="2" p1="70.22 196.66" p2="95.63 205.13"
+                min-height="45.92" same-group="1"/>
+    <check-line kind="activate" other-ids="3" p1="-90.66 308.57" p2="-110.72 326.32"
+                min-height="42.66" same-group="2"/>
+    <check-line kind="activate" other-ids="4" p1="-47.79 137.95" p2="-28.57 119.29"
+                min-height="31.17" same-group="3"/>
+    <check-line kind="activate" other-ids="5" p1="-95.99 -150.91" p2="-112.48 -129.80"
+                min-height="28.02" same-group="4"/>
+    <check-line kind="activate" other-ids="6" p1="1.38 -338.87" p2="-1.49 -365.51"
+                min-height="24.04" same-group="5"/>
+    <check-line kind="activate" other-ids="0" p1="95.86 -185.05" p2="122.14 -179.84"
+                min-height="45.92" same-group="6"/>
+    <check-line kind="activate" other-ids="0" p1="-7.11 249.79" p2="-61.83 273.12"
+                min-height="41.42" same-group="7"/>
+  </checks>
+  <banana x="34.76" y="200.00" z="-30.13" h="-21.20" />
+  <banana x="-15.67" y="1.00" z="310.21" h="66.80" />
+  <banana x="36.76" y="200.00" z="-27.43" h="-21.20" />
+  <banana x="36.37" y="200.00" z="-33.25" h="-21.20" />
+  <banana x="38.15" y="200.00" z="-30.49" h="-21.20" />
+  <banana x="39.69" y="200.00" z="-33.53" h="-21.20" />
+  <item x="34.64" y="200.00" z="57.74" h="-21.20" />
+  <item x="36.97" y="200.00" z="59.25" h="-21.20" />
+  <item x="37.67" y="200.00" z="56.60" h="-21.20" />
+  <item x="40.04" y="200.00" z="57.80" h="-21.20" />
+  <item x="40.77" y="200.00" z="55.43" h="-21.20" />
+  <item x="-34.33" y="1.00" z="288.61" h="66.80" />
+  <item x="-15.54" y="1.00" z="315.59" h="66.80" />
+  <item x="-38.42" y="1.00" z="240.97" h="66.80" />
+  <item x="-41.05" y="1.00" z="234.69" h="66.80" />
+  <item x="63.29" y="1.00" z="290.66" h="66.80" />
+  <item x="-39.74" y="1.00" z="237.89" h="66.80" />
+  <small-nitro x="-97.32" y="200.00" z="-225.38" h="-13.61" />
+  <small-nitro x="-69.97" y="200.00" z="-190.68" h="-13.61" />
+  <item x="-97.14" y="200.00" z="-181.93" h="-13.61" />
+  <small-nitro x="105.79" y="200.00" z="-28.38" h="-14.40" />
+  <small-nitro x="102.99" y="200.00" z="-26.62" h="-14.40" />
+  <small-nitro x="100.19" y="200.00" z="-24.62" h="-14.40" />
+  <item x="63.89" y="200.00" z="-15.27" h="-14.40" />
+  <item x="61.79" y="200.00" z="-14.41" h="-14.40" />
+  <item x="59.12" y="200.00" z="-13.39" h="-14.40" />
+  <item x="56.62" y="200.00" z="-12.35" h="-14.40" />
+  <small-nitro x="72.24" y="49.58" z="-47.29" h="9.87" />
+  <small-nitro x="75.59" y="49.58" z="-49.93" h="9.87" />
+  <small-nitro x="109.23" y="49.58" z="-183.66" h="9.87" />
+  <small-nitro x="105.02" y="49.58" z="-184.31" h="9.87" />
+  <item x="105.78" y="49.58" z="-252.58" h="9.87" />
+  <item x="100.98" y="49.58" z="-252.80" h="9.87" />
+  <item x="67.05" y="200.00" z="125.48" h="134.80" />
+  <item x="61.67" y="200.00" z="127.98" h="134.80" />
+  <big-nitro x="22.77" y="75.00" z="295.21" h="67.64" />
+  <big-nitro x="-0.26" y="75.00" z="218.18" h="67.64" />
+  <item x="18.76" y="75.00" z="264.43" h="67.64" />
+  <banana x="22.46" y="75.00" z="262.90" h="67.64" />
+  <item x="24.31" y="75.00" z="262.14" h="67.64" />
+  <item x="9.72" y="75.00" z="289.77" h="67.64" />
+  <banana x="-16.38" y="75.00" z="278.88" h="67.64" />
+  <item x="-42.49" y="75.00" z="267.99" h="67.64" />
+  <item x="35.04" y="75.00" z="219.88" h="67.64" />
+  <item x="-1.95" y="75.00" z="235.10" h="67.64" />
+  <small-nitro x="-52.60" y="75.00" z="240.79" h="67.64" />
+  <small-nitro x="-54.44" y="75.00" z="241.55" h="67.64" />
+  <small-nitro x="-53.36" y="75.00" z="238.94" h="67.64" />
+  <small-nitro x="-55.21" y="75.00" z="239.70" h="67.64" />
+  <small-nitro x="25.53" y="75.00" z="196.76" h="67.64" />
+  <item x="27.38" y="75.00" z="196.00" h="67.64" />
+  <banana x="24.77" y="75.00" z="194.91" h="67.64" />
+  <big-nitro x="26.62" y="75.00" z="194.15" h="67.64" />
+  <item x="-16.33" y="75.00" z="284.27" h="67.64" />
+  <big-nitro x="70.05" y="200.00" z="316.71" h="156.85" />
+  <small-nitro x="81.45" y="200.00" z="355.45" h="156.85" />
+  <small-nitro x="79.39" y="200.00" z="312.71" h="156.85" />
+  <item x="90.75" y="200.00" z="345.06" h="156.85" />
+  <item x="88.82" y="200.00" z="345.88" h="156.85" />
+  <item x="86.69" y="200.00" z="346.84" h="156.85" />
+  <item x="84.56" y="200.00" z="347.79" h="156.85" />
+  <item x="9.80" y="200.00" z="329.98" h="111.77" />
+  <item x="-25.43" y="200.00" z="337.61" h="111.47" />
+  <item x="-38.40" y="200.00" z="343.25" h="111.47" />
+  <item x="39.40" y="200.00" z="309.38" h="111.47" />
+  <item x="13.47" y="200.00" z="320.67" h="111.47" />
+  <small-nitro x="-17.43" y="35.00" z="145.26" h="-23.39" />
+  <small-nitro x="-16.34" y="35.00" z="150.13" h="-23.39" />
+  <small-nitro x="-63.35" y="35.00" z="90.22" h="-23.39" />
+  <small-nitro x="-67.32" y="35.00" z="94.42" h="-23.39" />
+  <item x="-7.92" y="35.00" z="113.70" h="-23.39" />
+  <item x="-9.56" y="35.00" z="114.85" h="-23.39" />
+  <item x="-11.20" y="35.00" z="115.99" h="-23.39" />
+  <item x="-12.84" y="35.00" z="117.13" h="-23.39" />
+  <item x="-75.12" y="49.92" z="138.92" h="-23.39" />
+  <item x="-73.49" y="49.92" z="137.75" h="-23.39" />
+  <item x="-71.87" y="49.92" z="136.58" h="-23.39" />
+  <item x="-70.25" y="49.92" z="135.41" h="-23.39" />
+  <item x="-63.38" y="35.00" z="-12.77" h="-146.21" />
+  <small-nitro x="-44.07" y="35.00" z="61.85" h="-146.21" />
+  <small-nitro x="-46.51" y="35.00" z="64.85" h="-146.21" />
+  <item x="-64.50" y="35.00" z="-62.59" h="139.05" />
+  <small-nitro x="-67.89" y="35.00" z="-64.99" h="139.05" />
+  <small-nitro x="-59.86" y="35.00" z="-59.14" h="139.05" />
+  <item x="-120.75" y="199.78" z="-171.99" h="-5.09" />
+  <big-nitro x="6.60" y="4.31" z="224.89" h="66.80" />
+  <big-nitro x="4.42" y="4.31" z="227.08" h="66.80" />
+  <small-nitro x="23.37" y="1.00" z="217.98" h="66.80" />
+  <small-nitro x="22.52" y="1.00" z="220.89" h="66.80" />
+  <small-nitro x="24.44" y="1.00" z="215.31" h="66.80" />
+  <small-nitro x="25.96" y="1.00" z="211.89" h="66.80" />
+  <small-nitro x="53.71" y="10.07" z="238.26" h="136.62" />
+  <small-nitro x="89.10" y="19.63" z="189.99" h="136.62" />
+  <small-nitro x="73.16" y="12.15" z="232.71" h="136.62" />
+  <small-nitro x="87.14" y="13.00" z="223.46" h="136.62" />
+  <small-nitro x="91.69" y="16.91" z="206.32" h="136.62" />
+  <small-nitro x="37.96" y="6.89" z="238.32" h="136.62" />
+  <object type="billboard" texture="fog.png" xyz="57.85 46.92 -95.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="57.85 54.21 -191.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="105.85 46.92 -95.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="57.85 51.57 -143.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="9.85 54.21 -191.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="105.85 54.21 -191.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="9.85 55.85 -239.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="105.85 51.57 -143.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="9.85 51.57 -143.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="105.85 55.85 -239.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="33.85 46.92 -95.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="81.85 46.92 -95.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="57.85 52.12 -167.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="57.85 55.94 -215.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="33.85 54.21 -191.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="129.86 54.21 -191.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="57.85 46.05 -71.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="81.85 54.21 -191.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="57.85 50.42 -119.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="-14.15 54.21 -191.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="9.85 52.12 -167.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="81.85 55.85 -239.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="129.86 55.85 -239.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="105.85 46.05 -71.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="105.85 50.42 -119.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="129.86 51.57 -143.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="-14.15 51.57 -143.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="33.85 51.57 -143.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="81.85 51.57 -143.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="9.85 55.94 -215.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="105.85 52.12 -167.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="105.85 55.94 -215.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="105.85 56.98 -263.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="81.85 52.12 -167.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="81.85 46.05 -71.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="-14.15 52.12 -167.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="81.85 56.98 -263.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="81.85 50.42 -119.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="129.86 52.12 -167.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="33.85 52.12 -167.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="33.85 55.94 -215.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="81.85 55.94 -215.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="33.85 50.42 -119.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="129.86 55.94 -215.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="129.86 56.98 -263.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="93.85 46.92 -95.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="57.85 51.55 -155.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="-2.15 54.21 -191.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="57.85 55.90 -227.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="93.85 54.21 -191.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="117.85 46.92 -95.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="57.85 51.58 -131.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="21.85 54.21 -191.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="117.85 54.21 -191.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="9.85 55.90 -227.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="141.86 55.85 -239.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="105.85 45.62 -59.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="93.85 45.18 -47.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="105.85 51.58 -131.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="105.85 51.55 -155.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="93.85 51.57 -143.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="9.85 51.58 -131.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="9.85 51.55 -155.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="-2.15 51.57 -143.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="45.85 51.57 -143.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="105.85 55.90 -227.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="105.85 55.95 -251.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="93.85 55.85 -239.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="57.85 46.49 -83.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="69.85 54.21 -191.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="57.85 48.67 -107.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="45.85 46.92 -95.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="69.85 46.92 -95.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="57.85 53.07 -179.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="57.85 55.52 -203.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="45.85 54.21 -191.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="141.86 54.21 -191.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="9.85 53.07 -179.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="69.85 55.85 -239.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="105.85 46.49 -83.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="105.85 48.67 -107.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="117.85 51.57 -143.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="21.85 51.57 -143.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="69.85 51.57 -143.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="9.85 55.52 -203.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="105.85 53.07 -179.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="105.85 55.52 -203.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="117.85 55.85 -239.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="105.85 58.39 -275.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="81.85 48.67 -107.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="21.85 52.12 -167.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="81.85 55.90 -227.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="141.86 52.12 -167.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="45.85 52.12 -167.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="81.85 55.52 -203.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="117.85 46.05 -71.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="-14.15 51.58 -131.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="81.85 51.58 -131.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="117.85 52.12 -167.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="117.85 56.98 -263.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="81.85 45.62 -59.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="69.85 52.12 -167.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="81.85 53.07 -179.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="69.85 50.42 -119.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="-2.15 52.12 -167.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="81.85 55.95 -251.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="129.86 53.07 -179.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="129.86 55.90 -227.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="129.86 55.95 -251.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="69.85 46.05 -71.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="81.85 46.49 -83.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="33.85 53.07 -179.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="33.85 55.52 -203.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="45.85 55.94 -215.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="69.85 55.94 -215.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="93.85 46.05 -71.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="93.85 50.42 -119.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="117.85 50.42 -119.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="129.86 51.58 -131.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="129.86 51.55 -155.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="-14.15 51.55 -155.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="33.85 48.67 -107.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="45.85 50.42 -119.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="33.85 51.55 -155.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="81.85 51.55 -155.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="-14.15 53.07 -179.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="-2.15 55.94 -215.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="21.85 55.94 -215.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="33.85 55.90 -227.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="69.85 56.98 -263.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="81.85 58.39 -275.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="93.85 52.12 -167.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="93.85 55.94 -215.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="117.85 55.94 -215.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="129.86 55.52 -203.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="141.86 55.94 -215.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="93.85 56.98 -263.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="129.86 58.39 -275.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="21.85 55.90 -227.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="117.85 51.58 -131.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="117.85 55.90 -227.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="69.85 53.07 -179.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="21.85 53.07 -179.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="69.85 55.90 -227.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="69.85 46.49 -83.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="117.85 46.49 -83.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="69.85 51.58 -131.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="117.85 53.07 -179.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="117.85 58.39 -275.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="141.86 55.90 -227.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="45.85 55.52 -203.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="117.85 48.67 -107.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="45.85 48.67 -107.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="45.85 51.58 -131.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="21.85 55.52 -203.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="45.85 55.90 -227.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="117.85 55.52 -203.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="141.86 55.52 -203.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="69.85 48.67 -107.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="-2.15 53.07 -179.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="-2.15 55.90 -227.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="69.85 55.95 -251.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="141.86 53.07 -179.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="141.86 55.95 -251.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="45.85 46.49 -83.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="45.85 53.07 -179.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="69.85 55.52 -203.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="93.85 45.62 -59.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="93.85 46.49 -83.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="93.85 48.67 -107.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="93.85 51.58 -131.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="93.85 51.55 -155.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="117.85 51.55 -155.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="141.86 51.55 -155.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="-2.15 51.58 -131.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="-2.15 51.55 -155.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="21.85 51.55 -155.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="45.85 51.55 -155.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="69.85 51.55 -155.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="-2.15 55.52 -203.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="93.85 53.07 -179.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="93.85 55.52 -203.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="93.85 55.90 -227.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="93.85 55.95 -251.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="117.85 55.95 -251.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="93.85 58.39 -275.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <object type="billboard" texture="fog.png" xyz="21.85 55.90 -239.69" 
+             width="48.000" height="16.000" fadeout="true" start="15.00" end="20.00">
+  </object>
+  <default-start karts-per-row     ="2"
+                 forwards-distance ="1.10"
+                 sidewards-distance="1.10"
+                 upwards-distance  ="1.10"/>
+</scene>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev Unknown -->
+<materials>
+  <material name="arbor2_n.png" compositing="test"/>
+  <material name="armco2_arbor.png" compositing="blend"/>
+  <material name="armco_snow_arbor.png" compositing="blend"/>
+  <material name="armcoturn_arbor.png" compositing="blend"/>
+  <material name="BARS_tree_n.png" compositing="blend"/>
+  <material name="GRDRA_tree_n.png" compositing="blend"/>
+  <material name="ppla_tree_n.png" compositing="blend"/>
+  <material name="pplb_tree_n.png" compositing="blend"/>
+  <material name="pplc_tree_n.png" compositing="blend"/>
+  <material name="RAILtree_n.png" compositing="blend"/>
+  <material name="TOWER_tree_n.png" compositing="blend"/>
+  <material name="tree1_n.png" compositing="test"/>
+  <material name="tree2_n.png" compositing="test"/>
+  <material name="tree3_n.png" compositing="test"/>
+  <material name="tree6_n.png" compositing="test"/>
+  <material name="tree7_n.png" compositing="test"/>
+  <material name="tree8_n.png" compositing="test"/>
+  <material name="truck_arbor_berniw_n.png" compositing="test"/>
+  <material name="truck_arbor_dummy_n.png" compositing="test"/>
+  <material name="truck_arbor_hymie_n.png" compositing="test"/>
+  <material name="truck_arbor_inferno_n.png" compositing="test"/>
+  <material name="truck_arbor_mouse_n.png" compositing="test"/>
+  <material name="truck_arbor_ole_n.png" compositing="test"/>
+  <material name="truck_arbor_speedy_n.png" compositing="test"/>
+  <material name="truck_arbor_tp_n.png" compositing="test"/>
+  <material name="truck_arbor_usr_n.png" compositing="test"/>
+</materials>

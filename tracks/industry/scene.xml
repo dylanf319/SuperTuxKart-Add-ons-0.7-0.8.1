@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev Unknown -->
+<scene>
+  <track model="industry_track.b3d" x="0" y="0" z="0">
+    <static-object model="lamppost-double.b3d" xyz="-5.589276 5.447494 -16.526957" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-double.b3d" xyz="-5.589000 5.447494 3.473000" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-double.b3d" xyz="4.411000 5.447494 -6.527000" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-double.b3d" xyz="4.411000 5.447494 -26.527000" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-double.b3d" xyz="4.411000 5.447494 -46.508175" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-double.b3d" xyz="4.411000 5.447494 -66.608383" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-double.b3d" xyz="131.610992 5.447494 -45.493000" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-double.b3d" xyz="133.983994 5.447494 -62.507999" hpr="-0.000000 -24.999997 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-double.b3d" xyz="142.050842 5.447494 -77.070824" hpr="-0.000000 -45.000015 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-double.b3d" xyz="158.758453 5.447494 -85.454147" hpr="-0.000000 -80.000032 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-single.b3d" xyz="123.442131 4.736462 -15.544394" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-single.b3d" xyz="156.347000 4.736462 -22.952000" hpr="-0.000000 -150.000066 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-single.b3d" xyz="178.914993 4.736462 -71.558998" hpr="-0.000000 -155.000065 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-single.b3d" xyz="183.923996 4.736462 -46.148998" hpr="-0.000000 50.000021 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-single.b3d" xyz="209.173996 4.736462 -42.692001" hpr="-0.000000 115.000086 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-single.b3d" xyz="224.860992 4.736462 -56.937000" hpr="-0.000000 159.999831 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-single.b3d" xyz="181.085007 4.736462 -90.584999" hpr="-0.000000 110.000080 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-single.b3d" xyz="98.841003 4.736462 -35.853001" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-single.b3d" xyz="98.841003 4.736462 24.107000" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-single.b3d" xyz="97.989998 4.736462 62.504002" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-single.b3d" xyz="127.994003 4.736463 60.550999" hpr="-0.000000 -90.000037 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-single.b3d" xyz="156.061005 4.736463 67.127998" hpr="-0.000000 90.000037 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-single.b3d" xyz="153.990005 4.736463 40.504002" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-single.b3d" xyz="153.895126 4.736463 9.595112" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-single.b3d" xyz="180.918060 4.736463 22.544312" hpr="-0.000000 90.000037 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-single.b3d" xyz="-44.469002 4.736475 -41.567001" hpr="-0.000000 -50.000021 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-single.b3d" xyz="-64.344002 4.736475 -23.597000" hpr="-0.000000 120.000058 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-single.b3d" xyz="-14.683000 4.736475 -47.224998" hpr="-0.000000 55.000027 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-single.b3d" xyz="3.385000 4.736478 25.239000" hpr="-0.000000 -180.000073 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-single.b3d" xyz="1.196000 4.736478 51.838001" hpr="-0.000000 155.000160 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-single.b3d" xyz="104.946999 4.736000 -5.873000" hpr="-0.000000 -180.000073 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-single.b3d" xyz="105.639000 4.736462 -65.873001" hpr="-0.000000 -180.000073 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-single.b3d" xyz="98.841003 4.736462 -95.852997" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-single.b3d" xyz="98.841003 4.736462 -125.975357" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-single.b3d" xyz="98.841003 4.736462 -155.955963" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object model="lamppost-single.b3d" xyz="98.841003 4.736462 -185.900772" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000"/>
+  </track>
+  <water model="water.b3d" xyz="0.000000 0.000000 0.000000" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000" height="0.10" speed="1000.00" length="20.00">
+    <animated-texture name="polluted_water.png" dy="0.075" />
+  </water>
+  <particle-emitter kind="industry-smoke.xml" x="113.862106" y="22.000000" z="-13.872987" h="0.000000"/>
+  <particle-emitter kind="industry-smoke.xml" x="113.862106" y="22.000000" z="5.953446" h="0.000000"/>
+  <particle-emitter kind="industry-smoke.xml" x="217.658539" y="46.000000" z="-106.311234" h="0.000000"/>
+  <particle-emitter kind="industry-smoke.xml" x="217.900482" y="46.000000" z="-115.747269" h="0.000000"/>
+  <particle-emitter kind="industry-smoke.xml" x="168.542740" y="43.000000" z="-50.178894" h="0.000000"/>
+  <particle-emitter kind="industry-smoke.xml" x="211.125885" y="31.000000" z="-29.129267" h="0.000000"/>
+  <particle-emitter kind="industry-smoke.xml" x="237.256454" y="31.000000" z="-29.129267" h="0.000000"/>
+  <particle-emitter kind="industry-smoke.xml" x="-37.598408" y="39.000000" z="-0.579197" h="0.000000"/>
+  <particle-emitter kind="industry-smoke.xml" x="-28.162369" y="39.000000" z="-0.579197" h="0.000000"/>
+  <particle-emitter kind="industry-smoke.xml" x="-27.436525" y="39.000008" z="118.701065" h="0.000000"/>
+  <particle-emitter kind="industry-smoke.xml" x="-89.856430" y="32.000000" z="-87.385582" h="0.000000"/>
+  <particle-emitter kind="industry-smoke.xml" x="-89.275787" y="32.000000" z="-112.062981" h="0.000000"/>
+  <particle-emitter kind="industry-smoke.xml" x="-37.598415" y="32.000004" z="-112.643623" h="0.000000"/>
+  <object type="movable" xyz="128.070007 1.000000 -42.099998" hpr="-0.000000 -140.000054 -0.000000" scale="1.000000 1.000000 1.000000"
+          model="roadblock.b3d" shape="box" mass="100.0"/>
+  <object type="movable" xyz="123.949997 1.000000 -42.099998" hpr="-0.000000 -50.000021 -0.000000" scale="1.000000 1.000000 1.000000"
+          model="roadblock.b3d" shape="box" mass="100.0"/>
+  <object type="movable" xyz="99.199997 1.000000 -92.599998" hpr="-0.000000 -140.000054 -0.000000" scale="1.000000 1.000000 1.000000"
+          model="roadblock.b3d" shape="box" mass="100.0"/>
+  <object type="movable" xyz="104.400002 1.000000 -92.599998" hpr="-0.000000 -140.000054 -0.000000" scale="1.000000 1.000000 1.000000"
+          model="roadblock.b3d" shape="box" mass="100.0"/>
+  <object type="movable" xyz="-62.000000 1.000000 -27.900000" hpr="-0.000000 120.000058 -0.000000" scale="1.000000 1.000000 1.000000"
+          model="roadblock.b3d" shape="box" mass="100.0"/>
+  <object type="movable" xyz="-63.900002 1.000000 -30.700001" hpr="-0.000000 120.000058 -0.000000" scale="1.000000 1.000000 1.000000"
+          model="roadblock.b3d" shape="box" mass="100.0"/>
+  <object type="movable" xyz="142.899994 1.000000 -60.700001" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000"
+          model="roadcone.b3d" shape="coneY" mass="15.0"/>
+  <object type="movable" xyz="149.399994 1.000000 -32.799999" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000"
+          model="roadcone.b3d" shape="coneY" mass="15.0"/>
+  <object type="movable" xyz="152.699997 1.000000 -28.900000" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000"
+          model="roadcone.b3d" shape="coneY" mass="15.0"/>
+  <object type="movable" xyz="145.699997 1.000000 -36.799999" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000"
+          model="roadcone.b3d" shape="coneY" mass="15.0"/>
+  <object type="movable" xyz="155.399994 1.000000 -25.500000" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000"
+          model="roadcone.b3d" shape="coneY" mass="15.0"/>
+  <object type="movable" xyz="142.199997 1.000000 -41.400002" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000"
+          model="roadcone.b3d" shape="coneY" mass="15.0"/>
+  <object type="movable" xyz="158.000000 1.000000 -21.100000" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000"
+          model="roadcone.b3d" shape="coneY" mass="15.0"/>
+  <object type="movable" xyz="140.500000 1.000000 -47.500000" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000"
+          model="roadcone.b3d" shape="coneY" mass="15.0"/>
+  <object type="movable" xyz="140.899994 1.000000 -54.099998" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000"
+          model="roadcone.b3d" shape="coneY" mass="15.0"/>
+  <object type="movable" xyz="98.699997 1.000000 -66.099998" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000"
+          model="roadcone.b3d" shape="coneY" mass="15.0"/>
+  <object type="movable" xyz="98.699997 1.000000 -69.199997" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000"
+          model="roadcone.b3d" shape="coneY" mass="15.0"/>
+  <object type="movable" xyz="98.699997 1.000000 -72.300003" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000"
+          model="roadcone.b3d" shape="coneY" mass="15.0"/>
+  <object type="animation" model="tanks-1.b3d" xyz="196.383804 13.968287 -72.800652" hpr="-90.000009 -0.000000 0.000000" scale="1.000000 1.000000 1.000000" >
+  </object>
+  <object type="animation" model="tanks-2.b3d" xyz="128.880447 16.859999 85.656441" hpr="-90.000009 -0.000000 0.000000" scale="1.000000 1.000000 1.000000" >
+  </object>
+  <sun  fog="true" fog-color="128 128 128" fog-start="30.0" fog-end="200.0"/>
+  <weather particles="none.xml" />
+  <banana x="100.290001" y="20" z="3.28" />
+  <banana x="103.050003" y="20" z="-4.96" />
+  <banana x="154.600006" y="20" z="24.27" />
+  <banana x="-44.18" y="20" z="-42.23" />
+  <banana x="126.540001" y="20" z="-44.580002" />
+  <banana x="128.880005" y="20" z="-47.700001" />
+  <banana x="156.720001" y="20" z="45.779999" />
+  <banana x="158.880005" y="20" z="30.459999" />
+  <banana x="163.820007" y="20" z="-78.080002" />
+  <banana x="-16.370001" y="20" z="-48.150002" />
+  <banana x="158.729996" y="20" z="-93.440002" />
+  <banana x="169.779999" y="20" z="-94.709999" />
+  <item x="-2.81" y="20" z="12.6" />
+  <item x="-34.740002" y="20" z="-50.119999" />
+  <item x="-32.970001" y="20" z="-47.880001" />
+  <item x="-31.65" y="20" z="-46" />
+  <item x="191.470001" y="20" z="-100.220001" />
+  <item x="192.490005" y="20" z="-94.959999" />
+  <item x="176.929993" y="20" z="-67.239998" />
+  <item x="130.759995" y="20" z="-74.010002" />
+  <item x="133.240005" y="20" z="-72.949997" />
+  <item x="159.800003" y="20" z="14.26" />
+  <item x="191.899994" y="20" z="-97.68" />
+  <item x="179.699997" y="20" z="-67.949997" />
+  <item x="135.429993" y="20" z="-71.82" />
+  <item x="99.18" y="20" z="-58.529999" />
+  <item x="104.330002" y="20" z="-58.529999" />
+  <item x="10.58" y="20" z="16.67" />
+  <item x="10.58" y="20" z="20.790001" />
+  <item x="2.33" y="20" z="12.55" />
+  <item x="-0.24" y="20" z="12.55" />
+  <big-nitro x="5.48" y="20" z="-13.747" />
+  <big-nitro x="94.929001" y="20" z="-69.529999" />
+  <small-nitro x="-13.43" y="20" z="-41.91" />
+  <small-nitro x="161.779999" y="20" z="-93.849998" />
+  <small-nitro x="165.789993" y="20" z="-94.139999" />
+  <small-nitro x="-8.95" y="20" z="-31.67" />
+  <small-nitro x="151.369995" y="20" z="-72.559998" />
+  <small-nitro x="163.279999" y="20" z="-74.309998" />
+  <small-nitro x="-64.18" y="20" z="-39.700001" />
+  <small-nitro x="6.24" y="20" z="-17.709999" />
+  <small-nitro x="102.389999" y="4.558563" z="34.639999" />
+  <small-nitro x="94.93" y="20" z="-64.75" />
+  <checks>
+    <check-lap kind="lap" same-group="0" other-ids="1" />
+    <check-line kind="activate" other-ids="2" p1="125.566376 13.661530" p2="125.566368 24.392872"
+                min-height="3.898362" same-group="1"/>
+    <check-line kind="activate" other-ids="0" p1="82.286827 -91.284088" p2="82.286827 -83.141754"
+                min-height="1.410410" same-group="2"/>
+  </checks>
+
+  <sky-dome texture="polluted_air.png"
+            horizontal="20" vertical="20" 
+            texture-percent="1.0" sphere-percent="1.3"
+            speed-x="0.0" speed-y="0.0" />
+  <camera far="1000.0"/>
+  <default-start karts-per-row     ="2"
+                 forwards-distance ="1.10"
+                 sidewards-distance="1.10"
+                 upwards-distance  ="1.10"/>
+  <end-cameras>
+    <camera type="ahead_of_kart" xyz="7.481132 5.343665 -6.507640" distance="5"/>
+  </end-cameras>
+</scene>

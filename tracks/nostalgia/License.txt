@@ -1,0 +1,4 @@
+Unless otherwise stated, all files are derived from early versions of Supertuxkart, by the original Supertuxkart Team, and licensed under the GNU General Public License (GPL).
+The exceptions are listed below, along with their respective licenses.
+
+blackfade.png, fog.png, sea_sky_fade.png, skyfade.png, and swatch.png by Anon and in the public domain.

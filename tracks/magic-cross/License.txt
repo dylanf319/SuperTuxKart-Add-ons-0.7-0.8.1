@@ -1,0 +1,23 @@
+city_rock.jpg
+	CC-BY-SA
+	by Thomas Oppl (horace) toppl@fh-sbg.ac.at (c) 2008
+
+dirt.jpg
+	CC-BY-SA
+	by Marianne Gagnon (Auria), based on public domain photos from BurningWell
+
+HortonRockWall.jpg
+	CC-BY-SA 3
+	by Marianne Gagnon, made from public domain images from BurningWell, http://www.publicdomainpictures.net/, Wikimedia commons
+
+
+bar.png
+	based on the texture from Tux Tollway, a track from Ivar ten Cate,track is licensed under CC BY-SA 3.0
+
+city_checker.png
+	CC-BY-SA
+	by Thomas Oppl (horace) toppl@fh-sbg.ac.at (c) 2008
+
+concrete_plain.png
+	CC-BY-SA
+	by Ivar ten Cate (Varivar),  (varivar@gmail.com)

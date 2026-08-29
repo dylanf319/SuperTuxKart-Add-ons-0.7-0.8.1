@@ -1,0 +1,16 @@
+"The Ring of Sand" ("L'anneau des Sables" in French) track (c) 07/2012 by BeBeLiOuS
+
+Update 12/2013 : Compatible with STK 0.8.1
+Update 12/2012 : Compatible with STK 0.8 Reverse Mode
+
+Track licensed under CC BY-SA 3.0
+http://creativecommons.org/licenses/by-sa/3.0/
+
+Tools :
+Track > Inkscape / Blender / STK Addons
+Textures > The Gimp
+
+Track Tutorial:
+http://www.bebelious.fr/tutorielstk.php
+
+BeBeLiOuS

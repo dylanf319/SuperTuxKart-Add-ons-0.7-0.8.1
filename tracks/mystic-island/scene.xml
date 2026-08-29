@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev Unknown -->
+<scene>
+  <track model="Mystic island_track.b3d" x="0" y="0" z="0">
+    <static-object lod_instance="true" lod_group="Tree" xyz="-151.636749 -34.801498 -105.115494" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000"/>
+    <static-object lod_distance="100.0" lod_group="Tree" model="trees.b3d" xyz="-289.937164 -31.117218 -131.943771" hpr="-0.000054 19.243179 0.000130" scale="4.068583 4.068583 4.068583"/>
+    <animated-texture name="light3-subsea.png" dy="0.200" />
+    <animated-texture name="arc1.png" dx="1.500" />
+    <animated-texture name="arc2.png" dx="1.500" />
+    <animated-texture name="arc2.png" dx="1.500" />
+    <animated-texture name="arc1.png" dx="1.500" />
+    <animated-texture name="city_checker.png" dx="3.000" />
+    <animated-texture name="Light.png" dx="0.100" />
+    <animated-texture name="Light.png" dx="0.100" />
+    <animated-texture name="Light.png" dx="0.100" />
+    <animated-texture name="zipper_collect.png" dy="0.600" />
+    <animated-texture name="zipper_collect.png" dy="0.600" />
+    <animated-texture name="zipper_collect.png" dy="0.600" />
+    <animated-texture name="zipper_collect.png" dy="0.600" />
+    <animated-texture name="zipper_collect.png" dy="0.600" />
+    <animated-texture name="zipper_collect.png" dy="0.600" />
+    <animated-texture name="Light.png" dx="0.100" />
+    <animated-texture name="SkyN.png" dx="0.020" />
+    <animated-texture name="Symbol.png" dx="0.500" />
+    <animated-texture name="starparticle.png" dx="2.000" />
+    <animated-texture name="starparticle.png" dx="2.000" />
+    <animated-texture name="Symbol.png" dx="0.500" />
+    <animated-texture name="starparticle.png" dx="2.000" />
+    <animated-texture name="Symbol.png" dx="1.500" />
+    <animated-texture name="Symbol.png" dx="1.500" />
+    <animated-texture name="Symbol.png" dx="0.500" />
+    <animated-texture name="Symbol.png" dx="1.000" />
+    <animated-texture name="br" dx="1.500" />
+    <animated-texture name="Symbol.png" dx="1.000" />
+    <animated-texture name="waterfall.png" dx="0.150" />
+    <animated-texture name="waterfall.png" dx="0.150" />
+    <animated-texture name="Light_W.png" dx="0.100" />
+    <animated-texture name="Light_W.png" dx="0.100" />
+    <animated-texture name="Light_W.png" dx="0.100" />
+    <animated-texture name="Light_W.png" dx="0.100" />
+    <animated-texture name="Light_W.png" dx="0.100" />
+    <animated-texture name="Light_W.png" dx="0.100" />
+    <animated-texture name="Butterfly.png" dy="0.500" />
+    <animated-texture name="Butterfly.png" dy="0.600" />
+    <animated-texture name="Bridge.png" dx="0.500" />
+    <animated-texture name="smoke.png" dy="0.500" />
+    <animated-texture name="waterfall.png" dx="0.150" />
+    <animated-texture name="waterfall.png" dx="0.150" />
+    <animated-texture name="waterfall.png" dx="0.150" />
+    <animated-texture name="waterfall.png" dx="0.150" />
+    <animated-texture name="waterfall.png" dx="0.150" />
+  </track>
+  <particle-emitter kind="nitro.xml" x="8.156276" y="-24.870070" z="-88.646492" h="-345.791932"/>
+  <particle-emitter kind="nitro.xml" x="7.722267" y="-24.870070" z="-88.646492" h="-345.791932"/>
+  <particle-emitter kind="nitro.xml" x="6.164637" y="-24.870070" z="-92.554169" h="-345.791932"/>
+  <particle-emitter kind="nitro.xml" x="6.164637" y="-24.870070" z="-93.095650" h="-345.791932"/>
+  <particle-emitter kind="nitro.xml" x="5.989463" y="-24.870070" z="-92.765106" h="-345.791932"/>
+  <particle-emitter kind="nitro.xml" x="6.423472" y="-24.870070" z="-92.765106" h="-345.791932"/>
+  <particle-emitter kind="nitro.xml" x="4.781938" y="-24.870070" z="-95.543785" h="-345.791932"/>
+  <particle-emitter kind="nitro.xml" x="4.347929" y="-24.870070" z="-95.543785" h="-345.791932"/>
+  <particle-emitter kind="nitro.xml" x="3.054947" y="-24.870070" z="-98.980003" h="-345.791932"/>
+  <particle-emitter kind="nitro.xml" x="3.054947" y="-24.870070" z="-99.521484" h="-345.791932"/>
+  <particle-emitter kind="nitro.xml" x="-7.248752" y="-24.870070" z="-90.826698" h="-345.791932"/>
+  <particle-emitter kind="nitro.xml" x="-7.682761" y="-24.870070" z="-90.826698" h="-345.791932"/>
+  <particle-emitter kind="nitro.xml" x="-6.002238" y="-24.870070" z="-86.978210" h="-345.791932"/>
+  <particle-emitter kind="nitro.xml" x="-6.002238" y="-24.870070" z="-87.519691" h="-345.791932"/>
+  <particle-emitter kind="nitro.xml" x="-3.445644" y="-24.870070" z="-83.825584" h="-345.791932"/>
+  <particle-emitter kind="nitro.xml" x="-3.879653" y="-24.870070" z="-83.825584" h="-345.791932"/>
+  <particle-emitter kind="nitro.xml" x="-1.058395" y="-24.870070" z="-79.254570" h="-345.791932"/>
+  <particle-emitter kind="nitro.xml" x="-1.058395" y="-24.870070" z="-79.796051" h="-345.791932"/>
+  <object type="movable" xyz="90.641289 -31.162109 -99.563225" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000"
+          model="Box.b3d" shape="box" mass="100.0"/>
+  <object type="movable" xyz="90.641289 -28.951462 -99.563225" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000"
+          model="Box.b3d" shape="box" mass="100.0"/>
+  <object type="movable" xyz="96.680313 -31.162109 -74.740021" hpr="-0.000000 179.580112 0.000000" scale="1.000000 1.000000 1.000000"
+          model="Box.b3d" shape="box" mass="100.0"/>
+  <object type="movable" xyz="96.680313 -28.951462 -74.740021" hpr="-0.000000 179.580112 0.000000" scale="1.000000 1.000000 1.000000"
+          model="Box.b3d" shape="box" mass="100.0"/>
+  <sun  xyz="61.16 542.12 337.60" sun-specular="145 159 255" sun-diffuse="150 152 232" ambient="138 153 255"/>
+  <weather particles="none.xml" />
+  <banana x="186.833008" y="-25.556883" z="-89.153946" h="-362.605023" />
+  <banana x="186.833008" y="-25.556883" z="-83.549316" h="-362.605023" />
+  <banana x="186.833008" y="-25.556883" z="-78.565834" h="-362.605023" />
+  <banana x="165.018478" y="-31.197733" z="-237.106583" h="-362.605023" />
+  <banana x="165.018478" y="-31.197733" z="-239.92511" h="-362.605023" />
+  <banana x="4.203094" y="-31.197733" z="-247.54982" h="-362.605023" />
+  <banana x="59.628498" y="-31.197733" z="-239.372208" h="-362.605023" />
+  <banana x="186.833008" y="-25.556883" z="-93.12252" h="-362.605023" />
+  <banana x="-246.028275" y="-32.245396" z="-6.236013" h="-140.186165" />
+  <banana x="-242.279755" y="-32.245396" z="-6.236013" h="-140.186165" />
+  <banana x="-238.862228" y="-32.245396" z="-6.236013" h="-140.186165" />
+  <banana x="165.018478" y="-31.197733" z="-242.197006" h="-362.605023" />
+  <banana x="4.203094" y="-31.197733" z="-240.666656" h="-362.605023" />
+  <item x="-185.122375" y="-30.948835" z="-228.781982" h="-40.091548" />
+  <item x="-181.828812" y="-30.948835" z="-224.869568" h="-40.091548" />
+  <item x="-178.532928" y="-30.948835" z="-220.954361" h="-40.091548" />
+  <item x="-105.196014" y="-32.438663" z="-204.509308" h="-67.540941" />
+  <item x="-104.85524" y="-32.438663" z="-209.44162" h="-67.540941" />
+  <item x="-104.661842" y="-32.438663" z="-214.154922" h="-67.540941" />
+  <item x="-33.243279" y="-32.41375" z="-250.614243" h="-67.540941" />
+  <item x="-33.436676" y="-32.41375" z="-245.90094" h="-67.540941" />
+  <item x="-33.777451" y="-32.41375" z="-240.968628" h="-67.540941" />
+  <item x="88.425301" y="-32.245396" z="-239.365692" h="-67.540941" />
+  <item x="88.766075" y="-32.245396" z="-242.916153" h="-67.540941" />
+  <item x="88.959473" y="-32.245396" z="-247.629456" h="-67.540941" />
+  <item x="189.577194" y="-36.650566" z="-241.774872" h="-67.540941" />
+  <item x="189.465576" y="-36.650566" z="-239.05452" h="-67.540941" />
+  <item x="189.268875" y="-36.650566" z="-236.207764" h="-67.540941" />
+  <item x="-271.89328" y="-32.966621" z="-59.110874" h="-94.576545" />
+  <item x="-265.541077" y="-32.966621" z="-59.619335" h="-94.576545" />
+  <item x="-259.184418" y="-32.966621" z="-59.832691" h="-94.576545" />
+  <item x="2.401476" y="-30.972195" z="-90.928345" h="-345.791938" />
+  <item x="-265.002472" y="-31.497255" z="-151.198898" h="-84.120857" />
+  <item x="-269.188232" y="-31.497255" z="-151.629944" h="-84.120857" />
+  <item x="-273.371033" y="-31.497255" z="-152.060654" h="-84.120857" />
+  <item x="-211.348434" y="-32.324184" z="16.891237" h="-161.187809" />
+  <item x="-212.798386" y="-32.324184" z="21.147339" h="-161.187809" />
+  <item x="-214.247269" y="-32.324184" z="25.400465" h="-161.187809" />
+  <small-nitro x="-267.914978" y="-24.590506" z="18.256077" h="-89.754889" />
+  <item x="161.614975" y="-23.747946" z="-91.720284" h="-362.605023" />
+  <item x="-135.663666" y="-32.378609" z="28.770144" h="-194.897949" />
+  <item x="-136.818848" y="-32.378609" z="24.428038" h="-194.897949" />
+  <item x="-137.974792" y="-32.378609" z="20.082863" h="-194.897949" />
+  <item x="-68.771713" y="-32.703735" z="-56.906494" h="-255.007248" />
+  <item x="-64.428482" y="-32.703735" z="-55.743271" h="-255.007248" />
+  <item x="-60.088291" y="-32.703735" z="-54.58091" h="-255.007248" />
+  <small-nitro x="46.423409" y="-32.245396" z="-244.135315" h="-67.540941" />
+  <small-nitro x="46.275146" y="-32.245396" z="-241.14621" h="-67.540941" />
+  <big-nitro x="46.013916" y="-31.418818" z="-231.452698" h="-67.540941" />
+  <small-nitro x="46.423409" y="-32.245396" z="-247.087784" h="-67.540941" />
+  <item x="162.285873" y="-23.747946" z="-79.577065" h="-362.605023" />
+  <item x="162.135086" y="-23.747946" z="-82.892303" h="-362.605023" />
+  <item x="161.676361" y="-23.747946" z="-87.51004" h="-362.605023" />
+  <item x="284.758636" y="-32.748711" z="-167.04982" h="-362.605023" />
+  <item x="285.141357" y="-32.748711" z="-163.197418" h="-362.605023" />
+  <item x="285.267151" y="-32.748711" z="-160.431641" h="-362.605023" />
+  <item x="284.707458" y="-32.748711" z="-170.562286" h="-362.605023" />
+  <item x="88.425301" y="-32.245396" z="-235.950867" h="-67.540941" />
+  <item x="87.320053" y="-31.195686" z="-97.231323" h="-317.305568" />
+  <item x="87.895081" y="-31.195686" z="-90.33931" h="-317.305568" />
+  <item x="88.590561" y="-31.195686" z="-82.003647" h="-317.305568" />
+  <item x="89.143158" y="-31.195686" z="-75.380432" h="-317.305568" />
+  <item x="0.507639" y="-28.573778" z="-90.928345" h="-345.791938" />
+  <small-nitro x="239.972168" y="-32.245396" z="-240.038727" h="-140.186165" />
+  <small-nitro x="237.163361" y="-32.245396" z="-241.071838" h="-140.186165" />
+  <small-nitro x="231.500793" y="-32.245396" z="-241.899033" h="-149.2501" />
+  <small-nitro x="234.437286" y="-32.245396" z="-241.321304" h="-149.2501" />
+  <small-nitro x="250.151886" y="-32.245396" z="-187.099533" h="-140.186165" />
+  <banana x="-250.296143" y="-32.245396" z="-6.236013" h="-140.186165" />
+  <checks>
+    <check-lap kind="lap" same-group="0" other-ids="1" />
+    <check-line kind="activate" other-ids="0" p1="-224.115448 -7.964493" p2="-307.695709 -7.964488"
+                min-height="-32.874756" same-group="1"/>
+  </checks>
+
+  <sky-dome texture="SkyM.jpg"
+            horizontal="50" vertical="50" 
+            texture-percent="1.0" sphere-percent="1.2999999523162842"
+            speed-x="0.0020000000949949026" speed-y="0.0" />
+  <camera far="1000.0"/>
+  <default-start karts-per-row     ="2"
+                 forwards-distance ="1.10"
+                 sidewards-distance="4.00"
+                 upwards-distance  ="1.10"/>
+  <end-cameras>
+    <camera type="ahead_of_kart" xyz="190.404083 80.524612 160.093140" distance="5"/>
+  </end-cameras>
+</scene>
