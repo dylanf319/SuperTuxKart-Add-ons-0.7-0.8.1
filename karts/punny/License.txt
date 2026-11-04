@@ -1,0 +1,27 @@
+=textures=
+
+Coccinelle-0.png
+Coccinelle-1.png
+Heart.png
+Penny-0.png
+Penny-icon.png
+Penny-shadow.png
+Tire-0.png
+Tears.png
+Volant-0.png
+
+=Sources=
+
+Coccinelle-2.xcf
+Heart.xcf
+Penny.xcf
+Penny-icon.png
+Tire.xcf
+Tears.png
+
+=Blender Model=
+
+Coccinelle.blend
+
+=========================================================================
+Are all made by Rudy Phelippeau (STKRudy85) and released under CC0 public domain licence

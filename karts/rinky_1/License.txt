@@ -1,0 +1,9 @@
+Rinky model adapted from Big Buck Bunny, released under the Creative Commons Attribution 3.0 license,
+with modifications by Marianne Gagnon. Kart by Marianne Gagnon. Model as a whole released under
+Creative Commons Attribution 3.0 license. By the Blender Foundation | www.blender.org
+
+
+hair.png adapted from Big Buck Bunny, released under the Creative Commons Attribution 3.0 license,
+with modifications by Marianne Gagnon. By the Blender Foundation | www.blender.org
+
+Textures wood-1.png wood-2.png Rinky-icon.png are released under public domain made by Rudy.phelippeau

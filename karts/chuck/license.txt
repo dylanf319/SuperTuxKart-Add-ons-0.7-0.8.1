@@ -1,0 +1,5 @@
+Chuck is under GPL license
+Maker Tom Jenkins
+Animation Rudy Phelippeau
+
+Icon by Funto, BSD license

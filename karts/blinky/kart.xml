@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<kart name="blinky" version="2" model-file="blinky.b3d" icon-file="blinky_icon64x64.png" minimap-icon-file="blinky_icon32x32.png" shadow-file="shadow.png" center-shift="0.00" groups="Add-Ons" rgb="1.00 1.00 1.00" revision="3">
+    <sounds engine="large"/>
+    <animations left="0" straight="19" right="39" start-winning="59" start-winning-loop="69" end-winning="109" start-losing="114" start-losing-loop="119" end-losing="159"/>
+    <wheels/>
+</kart>

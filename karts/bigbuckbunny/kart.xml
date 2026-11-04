@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<kart name="Bigbuckbunny" version="2" model-file="bigbuckbunny.b3d" icon-file="bunnyicon.png" minimap-icon-file="bunnyicon.png" shadow-file="bunnyshadow.png" groups="Add-Ons" rgb="0.7 0 0">
+    <sounds engine="large"/>
+    <animations left="0" straight="20" right="40" start-winning="80" end-winning="260" start-losing="340" start-losing-loop="504" end-losing="519"/>
+    <wheels>
+        <front-left position="-0.357841 0.130890 0.233072" model="wheel-front-left.b3d"/>
+        <front-right position="0.362163 0.130890 0.233007" model="wheel-front-right.b3d"/>
+        <rear-left position="-0.357815 0.130890 -0.234870" model="wheel-rear-left.b3d"/>
+        <rear-right position="0.362219 0.130890 -0.234924" model="wheel-rear-right.b3d"/>
+    </wheels>
+</kart>

@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<materials>
+  <material name="kart.png" alpha="Y" />
+  <material name="pneu_WheelFront.L.png" alpha="Y" />
+</materials>

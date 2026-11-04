@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<kart name="Bambou" version="2" model-file="bambou.b3d" icon-file="Bambouicon.png" minimap-icon-file="Bambouicon.png" shadow-file="Bambou-shadow.png" groups="Add-Ons" rgb="0.7 0 0">
+    <sounds engine="large"/>
+    <animations left="0" straight="20" right="40" start-winning="60" start-winning-loop="121" end-winning="156" start-losing="210" start-losing-loop="482" end-losing="497"/>
+    <wheels>
+        <front-left position="-0.381525 0.151175 0.454591" model="wheel-front-left.b3d"/>
+        <front-right position="0.375779 0.151175 0.454591" model="wheel-front-right.b3d"/>
+        <rear-left position="-0.381217 0.151175 -0.355282" model="wheel-rear-left.b3d"/>
+        <rear-right position="0.375971 0.151175 -0.355282" model="wheel-rear-right.b3d"/>
+    </wheels>
+</kart>

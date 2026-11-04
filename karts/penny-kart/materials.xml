@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<materials>
+  <material name="pennyshadow.png" clamp="Y" transparency="Y" alpha="Y" ignore="Y"/> <material name="pennyicon.png" clamp="Y" transparency="Y" alpha="Y" ignore="Y"/> 
+  </materials>

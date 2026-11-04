@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<kart name="Amiga kart" version="2" model-file="amiga kart.b3d" icon-file="Amiga-icon.png" minimap-icon-file="Amiga-icon.png" shadow-file="Amiga-Shadow.png" groups="Add-Ons" rgb="0.7 0 0">
+    <sounds engine="small"/>
+    <animations left="0" straight="20" right="40" start-winning="80" start-winning-loop="96" end-winning="129" start-losing="169" start-losing-loop="229" end-losing="232"/>
+    <wheels>
+        <front-left position="-0.308993 0.118172 0.465641" model="wheel-front-left.b3d"/>
+        <front-right position="0.321098 0.118172 0.465577" model="wheel-front-right.b3d"/>
+        <rear-left position="-0.425832 0.158759 -0.357524" model="wheel-rear-left.b3d"/>
+        <rear-right position="0.438269 0.158343 -0.357200" model="wheel-rear-right.b3d"/>
+    </wheels>
+</kart>

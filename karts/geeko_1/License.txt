@@ -1,0 +1,20 @@
+===Geeko Kart===
+Created by Luke (Gaming4JC) 8/18/2011. All content original and licensed CC 3.0 Unported, except for OpenSUSE Logo on back of kart and tires.
+
+The OpenSUSE trademark information can be found here: http://en.opensuse.org/openSUSE:Trademark_guidelines
+
+Permission was obtained by Bryen M. Yunashko and posted to STK Contributions forum:
+http://forum.freegamedev.net/viewtopic.php?f=18&t=1692&start=25#p18677
+
+This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. 	
+
+    You are free:
+
+        to share – to copy, distribute and transmit the work
+        to remix – to adapt the work
+
+    Under the following conditions:
+
+        attribution – You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
+        share alike – If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
+More information: http://creativecommons.org/licenses/by-sa/3.0/deed.en

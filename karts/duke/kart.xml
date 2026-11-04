@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<kart name="Duke" version="2" model-file="duke.b3d" icon-file="dukeicon.png" minimap-icon-file="dukeicon.png" shadow-file="dukeshadow.png" groups="Add-Ons" rgb="0.7 0 0">
+    <sounds engine="small"/>
+    <animations left="0" straight="20" right="40" start-winning="80" end-winning="275" start-losing="332" start-losing-loop="498" end-losing="502"/>
+    <wheels>
+        <front-left position="-0.159319 0.096020 0.320442" model="wheel-front-left.b3d"/>
+        <front-right position="0.164937 0.096020 0.320442" model="wheel-front-right.b3d"/>
+        <rear-left position="-0.199851 0.096020 -0.328071" model="wheel-rear-left.b3d"/>
+        <rear-right position="0.205469 0.096020 -0.328071" model="wheel-rear-right.b3d"/>
+    </wheels>
+</kart>

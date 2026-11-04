@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<kart name="Alternative Tux" version="2" model-file="alternative tux.b3d" icon-file="tuxicon.png" minimap-icon-file="tuxicon.png" shadow-file="shadow.png" center-shift="0.00" groups="Add-Ons" rgb="1.00 0.00 0.00" revision="10">
+    <sounds engine="large"/>
+    <animations left="0" straight="40" right="80" start-winning="99" start-winning-loop="139" end-winning="179" start-losing="197" start-losing-loop="237" end-losing="278"/>
+    <wheels>
+        <front-left position="-0.371049 0.149528 0.340387" model="wheel-front-left.b3d"/>
+        <front-right position="0.372689 0.149528 0.340387" model="wheel-front-right.b3d"/>
+        <rear-left position="-0.371470 0.149528 -0.348320" model="wheel-rear-left.b3d"/>
+        <rear-right position="0.373268 0.149528 -0.348320" model="wheel-rear-right.b3d"/>
+    </wheels>
+</kart>

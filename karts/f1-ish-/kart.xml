@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<kart name="F1(ish)" version="2" model-file="f1ish.b3d" icon-file="kart-icon.png" minimap-icon-file="kart-icon.png" shadow-file="kart-shadow.png" random-wheel-rot="true" groups="Add-Ons" rgb="1.00 1.00 1.00" revision="1">
+    <sounds engine="large"/>
+    <wheels>
+        <front-right position="0.500000 0.200000 0.500000" model="wheel-front-right.b3d"/>
+        <rear-right position="0.500000 0.200000 -0.500000" model="wheel-rear-right.b3d"/>
+        <rear-left position="-0.500000 0.200000 -0.500000" model="wheel-rear-left.b3d"/>
+        <front-left position="-0.500000 0.200000 0.500000" model="wheel-front-left.b3d"/>
+    </wheels>
+    <nitro-emitter>
+        <nitro-emitter-a position="-0.104478 0.160532 -0.665726"/>
+        <nitro-emitter-b position="0.103759 0.160532 -0.665726"/>
+    </nitro-emitter>
+    <hat offset="0.0 1.0 0.0"/>
+</kart>

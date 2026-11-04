@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<kart name="VR Tux" version="2" model-file="tux.b3d" icon-file="tuxicon.png" minimap-icon-file="tuxicon.png" shadow-file="tuxkartshadow.png" random-wheel-rot="true" type="light" groups="Add-Ons" rgb="0.75 0.00 0.00" revision="1">
+    <sounds engine="large"/>
+    <animations left="0" straight="20" right="40" start-winning="80" end-winning="335" start-losing="486" start-losing-loop="832" end-losing="852"/>
+    <wheels/>
+    <nitro-emitter>
+        <nitro-emitter-a position="0.0 0.329109 -0.685808"/>
+        <nitro-emitter-b position="0.0 0.329109 -0.685808"/>
+    </nitro-emitter>
+    <hat offset="0.0 0.16 0.0"/>
+</kart>

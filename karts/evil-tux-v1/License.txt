@@ -1,0 +1,7 @@
+﻿---------- Evil Tux-V1 > License --------------------------------------- 
+
+1.eviltux_model-texture.png, evil-tux-icon.png, EvilTux model by Betharatux1 released under GNU GPL license
+
+2.eviltux_kart_texture.png, evil_tire.png, turbo.png, ( Update EvilTux Vehicle-V1 from latest modifier : Christian Framing )  by Ned.J released under GNU GPL license
+
+3.eviltux_kart_texture.png, evil_tire.png, tux_body.png, evil-tuxkartshadow.png ( some texture have modified by betharatux1, by Ned.J and Supertuxkart Team released under GNU GPL license )

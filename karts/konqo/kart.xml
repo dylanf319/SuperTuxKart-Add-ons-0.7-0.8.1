@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<kart name="Konqo" version="2" model-file="konqo.b3d" icon-file="konqo-icon.png" minimap-icon-file="konqo-icon.png" shadow-file="konqo-shadow.png" groups="Add-Ons" rgb="0.7 0 0">
+    <sounds engine="small"/>
+    <animations left="0" straight="20" right="40" start-winning="78" start-winning-loop="468" end-winning="469" start-losing="550" start-losing-loop="688" end-losing="776"/>
+    <wheels>
+        <front-left position="-0.262545 0.136901 0.245484" model="wheel-front-left.b3d"/>
+        <front-right position="0.259795 0.136901 0.245484" model="wheel-front-right.b3d"/>
+        <rear-left position="-0.262545 0.136901 -0.245483" model="wheel-rear-left.b3d"/>
+        <rear-right position="0.259795 0.136901 -0.245483" model="wheel-rear-right.b3d"/>
+    </wheels>
+</kart>

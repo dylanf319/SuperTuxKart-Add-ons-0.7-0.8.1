@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<kart name="AUDACITY Girl" version="2" model-file="audacity girl.b3d" icon-file="audaIcon.png" minimap-icon-file="audaIcon.png" shadow-file="audaShadow.png" groups="Add-Ons" rgb="0.7 0 0">
+    <sounds engine="small"/>
+    <animations left="0" straight="30" right="60" start-winning="119" end-winning="348" start-losing="408" end-losing="669"/>
+    <wheels>
+        <front-left position="-0.320967 0.124850 0.343676" model="wheel-front-left.b3d"/>
+        <front-right position="0.334069 0.125046 0.344092" model="wheel-front-right.b3d"/>
+        <rear-left position="-0.337411 0.159858 -0.300050" model="wheel-rear-left.b3d"/>
+        <rear-right position="0.346951 0.159804 -0.299776" model="wheel-rear-right.b3d"/>
+    </wheels>
+</kart>

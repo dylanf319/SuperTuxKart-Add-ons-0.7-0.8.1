@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<kart name="Catapult Ted" version="2" model-file="catapult ted.b3d" icon-file="icon.png" minimap-icon-file="icon.png" shadow-file="shadow.png" groups="Add-Ons" rgb="0.7 0 0">
+    <sounds engine="small"/>
+    <animations left="0" straight="20" right="40" start-winning="80" start-winning-loop="247" end-winning="349" start-losing="400" start-losing-loop="615" end-losing="624"/>
+    <wheels>
+        <front-left position="-0.276980 0.188560 0.262802" model="wheel-front-left.b3d"/>
+        <front-right position="0.258131 0.188356 0.262189" model="wheel-front-right.b3d"/>
+        <rear-left position="0.256986 0.189771 -0.287432" model="wheel-rear-left.b3d"/>
+        <rear-right position="-0.279882 0.188356 -0.287432" model="wheel-rear-right.b3d"/>
+    </wheels>
+</kart>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<kart name="Joe" version="2" model-file="joe.b3d" icon-file="icon256.png" minimap-icon-file="icon256.png" shadow-file="shadow.png" random-wheel-rot="true" groups="Add-Ons" rgb="0.98 0.98 0.98" revision="4">
+    <sounds engine="large"/>
+    <animations left="0" straight="9" right="19" start-winning="29" start-winning-loop="79" end-winning="119" start-losing="139" start-losing-loop="189" end-losing="209"/>
+    <wheels>
+        <rear-right position="0.220000 0.179828 -0.415903" model="wheel-rear-right.b3d"/>
+        <front-right position="0.220000 0.179828 0.384097" model="wheel-front-right.b3d"/>
+        <front-left position="-0.220000 0.179828 0.384097" model="wheel-front-left.b3d"/>
+        <rear-left position="-0.220000 0.179828 -0.415903" model="wheel-rear-left.b3d"/>
+    </wheels>
+</kart>

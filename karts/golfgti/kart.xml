@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<kart name="GolfGTI" version="2" model-file="golfgti.b3d" icon-file="icon.png" minimap-icon-file="icon.png" shadow-file="gtishadow.png" random-wheel-rot="true" groups="Add-Ons" rgb="1.00 1.00 1.00" revision="2">
+    <sounds engine="small"/>
+    <wheels>
+        <rear-left position="-0.328980 0.152481 -0.592532" model="wheel-rear-left.b3d"/>
+        <front-right position="0.338063 0.151586 0.630940" model="wheel-front-right.b3d"/>
+        <front-left position="-0.328976 0.152481 0.632013" model="wheel-front-left.b3d"/>
+        <rear-right position="0.338059 0.151586 -0.594928" model="wheel-rear-right.b3d"/>
+    </wheels>
+    <nitro-emitter>
+        <nitro-emitter-a position="-0.196243 0.111652 -0.818688"/>
+        <nitro-emitter-b position="-0.244512 0.111652 -0.818688"/>
+    </nitro-emitter>
+    <hat offset="0.0 1.0 0.0"/>
+</kart>

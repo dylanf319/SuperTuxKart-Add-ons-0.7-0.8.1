@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<kart name="OGRE" version="2" model-file="ogre.b3d" icon-file="ogreicon.png" minimap-icon-file="ogremini.png" shadow-file="shadow.png" groups="Add-Ons" rgb="0.7 0 0">
+    <sounds engine="small"/>
+    <animations left="0" straight="20" right="40" start-winning="60" start-winning-loop="110" start-losing="137" start-losing-loop="160" end-losing="176"/>
+    <wheels>
+        <front-left position="-0.357750 0.145380 0.486990" model="wheel-front-left.b3d"/>
+        <front-right position="0.358610 0.145380 0.486990" model="wheel-front-right.b3d"/>
+        <rear-left position="-0.398889 0.145380 -0.392231" model="wheel-rear-left.b3d"/>
+        <rear-right position="0.391298 0.145380 -0.392231" model="wheel-rear-right.b3d"/>
+    </wheels>
+</kart>

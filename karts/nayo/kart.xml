@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<kart name="Nayo" version="2" model-file="nayo.b3d" icon-file="icon.png" minimap-icon-file="icon.png" shadow-file="shadow.png" groups="Add-Ons" rgb="0.7 0 0">
+    <sounds engine="small"/>
+    <wheels/>
+</kart>

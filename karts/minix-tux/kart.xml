@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<kart name="Minix Tux" version="2" model-file="minix tux.b3d" icon-file="mticon.png" minimap-icon-file="icon.png" shadow-file="minixtuxshadow.png" random-wheel-rot="true" groups="Add-Ons" rgb="0.96 0.95 1.00" revision="6">
+    <sounds engine="small"/>
+    <wheels>
+        <rear-left position="-0.358957 0.156851 -0.351928" model="wheel-rear-left.b3d"/>
+        <rear-right position="0.359690 0.157250 -0.351928" model="wheel-rear-right.b3d"/>
+        <front-left position="-0.251745 0.136945 0.491551" model="wheel-front-left.b3d"/>
+        <front-right position="0.258638 0.136945 0.491551" model="wheel-front-right.b3d"/>
+    </wheels>
+    <nitro-emitter>
+        <nitro-emitter-a position="0.152992 0.168289 -0.508345"/>
+        <nitro-emitter-b position="-0.155362 0.167027 -0.512085"/>
+    </nitro-emitter>
+    <hat offset="0.0 1.0 0.0"/>
+</kart>

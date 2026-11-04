@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<kart name="Box" version="2" model-file="Box.b3d" icon-file="boxicon.png" minimap-icon-file="boxicon.png" shadow-file="boxshadow.png" groups="Add-Ons" rgb="0.7 0 0" revision="1">
+    <wheels>
+        <front-left position="0.418979 0.160577 -0.338493" model="wheel-front-left.b3d"/>
+        <front-right position="-0.415398 0.171693 -0.317913" model="wheel-front-right.b3d"/>
+        <rear-left position="0.419968 0.159346 0.322947" model="wheel-rear-left.b3d"/>
+        <rear-right position="-0.420340 0.171693 0.319600" model="wheel-rear-right.b3d"/>
+    </wheels>
+</kart>

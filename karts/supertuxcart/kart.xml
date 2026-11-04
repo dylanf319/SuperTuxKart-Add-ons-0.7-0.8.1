@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<kart name="SuperTuxCart" version="2" model-file="supertuxcart.b3d" icon-file="tuxicon.png" minimap-icon-file="tuxicon.png" shadow-file="supertuxcartshadow.png" groups="Add-Ons" rgb="190 0 0">
+    <sounds engine="large"/>
+    <animations left="0" straight="20" right="40" start-winning="80" end-winning="335" start-losing="486" start-losing-loop="832" end-losing="852"/>
+    <wheels>
+        <front-left position="-0.309525 0.101875 0.420461" model="wheel-front-left.b3d"/>
+        <front-right position="0.307973 0.101875 0.420461" model="wheel-front-right.b3d"/>
+        <rear-left position="-0.342412 0.140526 -0.285513" model="wheel-rear-left.b3d"/>
+        <rear-right position="0.332675 0.140526 -0.285449" model="wheel-rear-right.b3d"/>
+    </wheels>
+</kart>

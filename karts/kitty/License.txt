@@ -1,0 +1,11 @@
+Kitty :
+	AROS "Kitty" mascot created by Eric Schwartz for AROS
+	released under APL
+
+	Kitty and kart 3D model by Thomas Wright
+	released under APL
+
+	Kitty Cartoon icon adaptation to STK by João Ralha
+	released under APL
+
+AROS PUBLIC LICENSE (APL): http://aros.sourceforge.net/license.html

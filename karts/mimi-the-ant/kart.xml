@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<kart name="MiMi the Ant" version="2" model-file="mimi the ant.b3d" icon-file="icon.png" minimap-icon-file="icon.png" shadow-file="ombre.png" center-shift="0.00" groups="Add-Ons" rgb="0.00 0.01 1.00" revision="1">
+    <sounds engine="large"/>
+    <wheels>
+        <front-left position="-0.295000 0.177086 0.400000" model="wheel-front-left.b3d"/>
+        <rear-left position="-0.320000 0.177086 -0.400000" model="wheel-rear-left.b3d"/>
+        <front-right position="0.295000 0.177086 0.400000" model="wheel-front-right.b3d"/>
+        <rear-right position="0.320000 0.177086 -0.400000" model="wheel-rear-right.b3d"/>
+    </wheels>
+</kart>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<materials>
+  <material name="Blood.png" shader="alphablend" mask="BloodAlpha.png"/>
+  <material name="Headlight.png" shader="additive" mask="HeadlightAlpha.png"/>
+  <material name="Texture.png" gloss-map="PBRMask.png" colorizable="Y" colorization-mask="ColourMask.png" hue-settings="0 0.001 0.02 0.1 0.3 0.5 0.66 0.8"/>
+</materials>

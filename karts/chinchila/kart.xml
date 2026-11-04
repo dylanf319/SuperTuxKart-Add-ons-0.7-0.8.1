@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<kart name="Chinchila" version="2" model-file="chinchila.b3d" icon-file="chinchilla-icon.png" minimap-icon-file="chinchilla-icon.png" shadow-file="chinchilla-shadow.png" groups="Add-Ons" rgb="0.7 0 0">
+    <sounds engine="small"/>
+    <animations left="0" straight="20" right="40" start-winning="78" end-winning="201" start-losing="248" start-losing-loop="306" end-losing="308"/>
+    <wheels>
+        <front-left position="-0.332175 0.111710 0.261178" model="wheel-front-left.b3d"/>
+        <front-right position="0.340669 0.111710 0.261178" model="wheel-front-right.b3d"/>
+        <rear-left position="-0.361582 0.111710 -0.236611" model="wheel-rear-left.b3d"/>
+        <rear-right position="0.362965 0.111710 -0.236611" model="wheel-rear-right.b3d"/>
+    </wheels>
+</kart>

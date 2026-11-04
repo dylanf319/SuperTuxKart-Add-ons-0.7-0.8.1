@@ -1,0 +1,10 @@
+Kart by Rudy Phelippeau CC0 public domain
+Animation Rudy Phelippeau
+
+
+Konqi character, colormap.jpg, hanky.tga
+by basse <basse@kimppu.org | www.kimppu.org/basse>
+With modifications by Marianne Gagnon
+Released under Gnu LGPL
+	
+Icon by Anthony Carré (yekcim), released under GPL 2 

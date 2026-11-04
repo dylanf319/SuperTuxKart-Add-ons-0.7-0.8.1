@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<kart name="Rinky" version="2" model-file="rinky.b3d" icon-file="Rinky-icon.png" minimap-icon-file="Rinky-icon.png" shadow-file="Rinky-shadow.png" groups="Add-Ons" rgb="0.7 0 0">
+    <sounds engine="small"/>
+    <animations left="0" straight="20" right="40" start-winning="68" end-winning="402" start-losing="449" start-losing-loop="556" end-losing="563"/>
+    <wheels>
+        <front-left position="-0.141134 0.070389 0.252750" model="wheel-front-left.b3d"/>
+        <front-right position="0.144875 0.070389 0.252750" model="wheel-front-right.b3d"/>
+        <rear-left position="-0.307499 0.090290 -0.193230" model="wheel-rear-left.b3d"/>
+        <rear-right position="0.345596 0.090290 -0.193230" model="wheel-rear-right.b3d"/>
+    </wheels>
+</kart>

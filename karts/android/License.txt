@@ -1,0 +1,8 @@
+Made by Rudy Phelippeau
+
+GPL CCbysa
+
+Texture Robot arm based on 
+metal plate tex.png
+CC-BY 3.0
+Philman401 (OpenGameArt.org user)

@@ -1,0 +1,42 @@
+------------------------------------
+---- Trackname: Noloks' Factory ----
+---- Author:    CinusMinus      ----
+------------------------------------
+
+--- Material from other Tracks: ---
+
+Fort Magma:
+	Castlewall.png (Not stated in FortMagma's License.txt)
+	chain.png (based on work by Wagner51, released under CC-BY-SA 3.0; Texturing based on images from burningwell)
+
+Darkhill Mansion:
+	lampglass.jpg, lightHaloY.png (by Jean-Manuel Clemen‡on, CC-BY-SA 3.0)
+	
+Old Mine:
+	mine_rail.jpg, mine_rail_no_dirt.png, wood_beam.png, wood_beam2.png, wood_beam3.png, wall_wood1.jpg
+		(based on public domain images from Burningwell)
+
+--- Material from STK Main Package ---
+
+blackrock.jpg, paving_stones_2.jpg, lantern.jpg (based on pictures from Burningwell)
+
+smoke.png (created by MiniBjorn)
+
+crate2_diffuse.jpg (Luke.RUSTLTD, public domain)
+
+--- Third Party ---
+
+metal.png, metal_hot.png 
+	(based on images by Duion http://opengameart.org/users/duion, released under public domain CC0)
+
+--- Own work ---
+
+bomb_face.png,
+Hose.png,
+Metal_Molten.png,
+Metal1.png,
+Acid.png,
+Fade.jpg,
+All of the models
+released under CC-By-SA 3.0
+

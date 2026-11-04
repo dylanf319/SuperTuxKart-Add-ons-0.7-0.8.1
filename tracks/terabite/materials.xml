@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev Unknown -->
+<materials>
+  <material name="arc1.png" backface-culling="N" compositing="blend" disable-z-write="Y"/>
+  <material name="arc2.png" backface-culling="N" compositing="blend" disable-z-write="Y"/>
+  <material name="BI.png" backface-culling="N" compositing="additive"/>
+  <material name="BI2.png" backface-culling="N" compositing="additive">
+    <zipper duration="9.333333015441895" max_speed_increase="1.4583343267440796" fade_out_time="1.166666865348816" speed_gain="4.5"/>
+  </material>
+  <material name="canyon_conveyor_belt.png">
+    <zipper duration="3.5" max_speed_increase="15.0" fade_out_time="3.0" speed_gain="4.5"/>
+  </material>
+  <material name="chrome.png" backface-culling="N" compositing="additive" disable-z-write="Y" sphere="Y"/>
+  <material name="Lines.png" backface-culling="N" compositing="additive"/>
+  <material name="TexturesXYZ.png" backface-culling="N" compositing="additive" disable-z-write="Y" reset="Y" crash-reset="Y" sphere="Y" crash-reset-particles="sparks.xml"/>
+  <material name="transparence2.png" backface-culling="N" compositing="blend" reset="Y" crash-reset="Y"/>
+</materials>

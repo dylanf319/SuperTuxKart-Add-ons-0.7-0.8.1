@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev Unknown -->
+<materials>
+  <material name="bananawrap.png" backface-culling="N"/>
+  <material name="ceramic.jpg" backface-culling="N"/>
+  <material name="chess.png" backface-culling="N"/>
+  <material name="chrome.png" backface-culling="N"/>
+  <material name="Flammes.png" backface-culling="N"/>
+  <material name="fuzzy.png" backface-culling="N"/>
+  <material name="Skin1.png" backface-culling="N"/>
+  <material name="Skin2.png" backface-culling="N"/>
+  <material name="skyscraper1.png" backface-culling="N"/>
+</materials>

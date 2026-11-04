@@ -1,0 +1,10 @@
+Model GPLv3 by berny
+Texture Rot-Weiss-Karo.jpg GPLv3 by berny
+Texture OS4_NrS.jpg GPLv3 by berny
+
+Texture tire.png by Tom Jenkins GPL
+
+Texture Amiga_Eye_Sphere.png CC0 Public domain Rudy Phelippeau
+Texture Amiga_Rearlight_Sphere.png Public domain Rudy Phelippeau
+
+Animation Public domain Rudy Phelippeau

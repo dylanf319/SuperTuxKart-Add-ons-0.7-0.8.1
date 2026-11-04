@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<kart name="X-Moto" version="2" model-file="x-moto.b3d" icon-file="motoicon.png" minimap-icon-file="motoicon.png" shadow-file="mozillashadow.png" center-shift="0.00" groups="Add-Ons" rgb="0.7 0 0" revision="2">
+    <sounds engine="small"/>
+    <animations left="0" straight="20" right="40" start-winning="71" end-winning="299" start-losing="338" start-losing-loop="417" end-losing="494"/>
+    <wheels>
+        <rear-left position="-0.045702 0.196701 -0.386127" model="wheel-rear-left.b3d"/>
+        <rear-right position="0.051299 0.196701 -0.386127" model="wheel-rear-right.b3d"/>
+        <front-right position="0.044429 0.181435 0.428769" model="wheel-front-right.b3d"/>
+        <front-left position="-0.038832 0.181435 0.428769" model="wheel-front-left.b3d"/>
+    </wheels>
+</kart>

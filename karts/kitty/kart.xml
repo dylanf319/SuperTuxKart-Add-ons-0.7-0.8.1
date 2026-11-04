@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<kart name="Kitty" version="2" model-file="kittykart.b3d" icon-file="kittyicon64.png" minimap-icon-file="kittyicon32.png" shadow-file="kittykartshadow.png" groups="Add-Ons" rgb="0.7 0 0">
+    <wheels>
+        <front-left position="-0.408546 0.143243 0.355961" model="wheel-front-left.b3d"/>
+        <front-right position="0.405668 0.143243 0.355961" model="wheel-front-right.b3d"/>
+        <rear-left position="-0.437687 0.165678 -0.457107" model="wheel-rear-left.b3d"/>
+        <rear-right position="0.435795 0.165678 -0.457107" model="wheel-rear-right.b3d"/>
+    </wheels>
+</kart>

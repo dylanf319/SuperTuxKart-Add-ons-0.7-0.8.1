@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<kart name="Proog" version="2" model-file="proog.b3d" icon-file="Proog-icon.png" minimap-icon-file="Proog-icon.png" shadow-file="Proog-shadow.png" groups="Add-Ons" rgb="0.7 0 0">
+    <sounds engine="large"/>
+    <animations left="0" straight="20" right="40" start-winning="80" end-winning="257" start-losing="312" start-losing-loop="395" end-losing="479"/>
+    <wheels>
+        <front-left position="-0.368275 0.113587 0.367015" model="wheel-front-left.b3d"/>
+        <front-right position="0.341003 0.115029 0.367914" model="wheel-front-right.b3d"/>
+        <rear-left position="-0.402283 0.164197 -0.246503" model="wheel-rear-left.b3d"/>
+        <rear-right position="0.371228 0.164197 -0.246436" model="wheel-rear-right.b3d"/>
+    </wheels>
+</kart>

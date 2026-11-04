@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<kart name="Penny32" version="2" model-file="penny32.b3d" icon-file="pennyicon.png" minimap-icon-file="pennyiconsmall.png" shadow-file="pennykartshadow.png" groups="Add-Ons" rgb="0.7 0 0">
+    <sounds engine="small"/>
+    <animations straight="0" left="9" right="19" start-winning="39" start-winning-loop="59"/>
+    <wheels>
+        <front-left position="0.315312 0.068604 0.428836" model="wheel-front-left.b3d"/>
+        <front-right position="-0.304571 0.068604 0.428836" model="wheel-front-right.b3d"/>
+        <rear-left position="0.343994 0.068098 -0.286415" model="wheel-rear-left.b3d"/>
+        <rear-right position="-0.359708 0.068111 -0.285104" model="wheel-rear-right.b3d"/>
+    </wheels>
+</kart>

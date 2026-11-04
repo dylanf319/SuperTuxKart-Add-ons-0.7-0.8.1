@@ -1,0 +1,7 @@
+Alternative Tux
+License: Creative Commons BY SA 3.0
+
+Creator: Joost Verdoorn
+
+Wheel texture by Cédric 'Céa' Archambault, originally for Suzanne's Kart, released under the GPL license.
+Tux icon by yekCim, released under the GPL license.

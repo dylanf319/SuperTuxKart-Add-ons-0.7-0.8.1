@@ -1,0 +1,14 @@
+"MiMi the Ant" ("MiMi la Fourmi" in French) Kart (c) 08/2012 by BeBeLiOuS
+
+Icon, model and textures licensed under CC BY-SA 3.0
+http://creativecommons.org/licenses/by-sa/3.0/
+
+Tools :
+Kart > Inkscape / Blender / STK Addons
+Textures > The Gimp
+
+Track Tutorial:
+http://www.bebelious.fr/tutorielstk.php
+
+BeBeLiOuS
+

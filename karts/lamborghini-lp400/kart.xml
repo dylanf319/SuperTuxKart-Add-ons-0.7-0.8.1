@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<kart name="Lamborghini LP400" version="2" model-file="lamborghini lp400.b3d" icon-file="icon.png" minimap-icon-file="icon.png" shadow-file="shadow.png" random-wheel-rot="false" groups="Add-Ons" rgb="1.00 0.00 0.01" revision="2">
+    <sounds engine="large"/>
+    <animations left="-1" straight="79" right="247"/>
+    <wheels>
+        <front-right position="0.409230 0.178182 0.786618" model="wheel-front-right.b3d"/>
+        <front-left position="-0.404948 0.186952 0.786825" model="wheel-front-left.b3d"/>
+        <rear-left position="-0.404948 0.178182 -0.674161" model="wheel-rear-left.b3d"/>
+        <rear-right position="0.398544 0.178182 -0.674161" model="wheel-rear-right.b3d"/>
+    </wheels>
+    <nitro-emitter>
+        <nitro-emitter-a position="0.390120 0.390637 -1.083084"/>
+        <nitro-emitter-b position="-0.384855 0.390637 -1.083084"/>
+    </nitro-emitter>
+    <hat offset="0.0 1.0 0.0"/>
+</kart>

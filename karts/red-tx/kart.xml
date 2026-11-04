@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<kart name="Red TX" version="2" model-file="red tx.b3d" icon-file="icon.png" minimap-icon-file="icon.png" shadow-file="shadow.png" random-wheel-rot="true" groups="Add-Ons" rgb="1.00 1.00 1.00" revision="2">
+    <sounds engine="large"/>
+    <wheels>
+        <front-right position="0.481313 0.196231 0.479515" model="wheel-front-right.b3d"/>
+        <rear-left position="-0.298796 0.193044 -0.674893" model="wheel-rear-left.b3d"/>
+        <rear-right position="0.482331 0.193837 -0.675843" model="wheel-rear-right.b3d"/>
+        <front-left position="-0.297003 0.196231 0.479514" model="wheel-front-left.b3d"/>
+    </wheels>
+    <nitro-emitter>
+        <nitro-emitter-a position="0.380147 0.185569 -1.059832"/>
+        <nitro-emitter-b position="-0.214660 0.185569 -1.059832"/>
+    </nitro-emitter>
+    <hat offset="0.0 1.0 0.0"/>
+</kart>

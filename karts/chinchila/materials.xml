@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<materials>
+  <material name="nut1.png" light="N"/>
+  <material name="nut1B.png" light="N"/>
+</materials>

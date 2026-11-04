@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<kart name="Supra01" version="2" model-file="supra01.b3d" icon-file="icon.png" minimap-icon-file="icon.png" shadow-file="shadow.png" random-wheel-rot="true" groups="Add-Ons" rgb="1.00 1.00 1.00" revision="2">
+    <sounds engine="large"/>
+    <wheels>
+        <rear-left position="-0.411967 0.203399 -0.580992" model="wheel-rear-left.b3d"/>
+        <front-right position="0.410911 0.202440 0.821891" model="wheel-front-right.b3d"/>
+        <front-left position="-0.411963 0.203399 0.823040" model="wheel-front-left.b3d"/>
+        <rear-right position="0.410907 0.202440 -0.583558" model="wheel-rear-right.b3d"/>
+    </wheels>
+    <nitro-emitter>
+        <nitro-emitter-a position="0.263033 0.227475 -1.072464"/>
+        <nitro-emitter-b position="-0.265930 0.227475 -1.072464"/>
+    </nitro-emitter>
+    <hat offset="0.0 1.0 0.0"/>
+</kart>

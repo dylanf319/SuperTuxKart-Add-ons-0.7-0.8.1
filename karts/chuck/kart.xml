@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<kart name="Chuck" version="2" model-file="chuck.b3d" icon-file="chuckicon.png" minimap-icon-file="chuckicon.png" shadow-file="chuckshadow.png" groups="Add-Ons" rgb="0.7 0 0">
+    <sounds engine="small"/>
+    <animations left="0" straight="20" right="40" start-winning="78" end-winning="226" start-losing="306" start-losing-loop="442" end-losing="446"/>
+    <wheels>
+        <front-left position="-0.290584 0.109014 0.229812" model="wheel-front-left.b3d"/>
+        <front-right position="0.309416 0.109014 0.229813" model="wheel-front-right.b3d"/>
+        <rear-left position="-0.290584 0.109014 -0.240913" model="wheel-rear-left.b3d"/>
+        <rear-right position="0.309416 0.109014 -0.243380" model="wheel-rear-right.b3d"/>
+    </wheels>
+</kart>

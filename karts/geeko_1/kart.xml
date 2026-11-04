@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<kart name="Geeko" version="2" model-file="geeko.b3d" icon-file="geeko_icon64.png" minimap-icon-file="geeko_icon32.png" shadow-file="geeko_shadow.png" groups="Add-Ons" rgb="255 255 255">
+    <sounds engine="small"/>
+    <animations left="0" straight="23" right="47" start-winning="72" start-winning-loop="74" end-winning="147" start-losing="148" start-losing-loop="154" end-losing="179"/>
+    <wheels>
+        <front-left position="-0.442333 0.096240 0.419282" model="wheel-front-left.b3d"/>
+        <rear-right position="0.474405 0.159095 -0.428016" model="wheel-rear-right.b3d"/>
+        <rear-left position="-0.485618 0.159095 -0.428016" model="wheel-rear-left.b3d"/>
+        <front-right position="0.436584 0.096240 0.419282" model="wheel-front-right.b3d"/>
+    </wheels>
+</kart>

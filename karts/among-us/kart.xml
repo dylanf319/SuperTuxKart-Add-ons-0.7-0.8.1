@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<kart name="Among Us" version="2" model-file="among us.b3d" icon-file="MenuIcon.png" minimap-icon-file="Icon.png" shadow-file="ShadowTexture.png" type="medium" groups="Add-Ons VIP" rgb="1.00 1.00 1.00" revision="5">
+    <sounds engine="large">
+        <skid name=""/>
+    </sounds>
+    <animations left="0" straight="20" right="40" start-jump="82" end-jump="209" start-winning="210" start-winning-loop="235" end-winning="290" end-winning-straight="303" start-losing="304" start-losing-loop="356" end-losing="361" end-losing-straight="440"/>
+    <nitro-emitter>
+        <nitro-emitter-a position="-0.431000 0.310000 -0.300000"/>
+        <nitro-emitter-b position="0.435000 0.306000 -0.300000"/>
+    </nitro-emitter>
+    <hat position="0.000000 0.806000 -0.082000" rotation="0.000003 -0.000014 0.000000" scale="0.850000 0.850000 0.850000" bone="Head"/>
+</kart>

@@ -1,0 +1,3 @@
+Amanda's kart
+All the content except the icon was done by Cyrille RUGGERO and is being released under the GPL license.
+Amanda 2dVector icon : amanda iCon.png Original created by Betharatux1 (Indro) Released under Gnu GPL

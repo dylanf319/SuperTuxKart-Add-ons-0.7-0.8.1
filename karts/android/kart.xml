@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<kart name="Android" version="2" model-file="android.b3d" icon-file="android-icon.png" minimap-icon-file="android-icon.png" shadow-file="android-shadow.png" groups="Add-Ons" rgb="0.7 0 0">
+    <sounds engine="small"/>
+    <animations left="0" straight="20" right="40" start-winning="70" start-winning-loop="169" end-winning="208" start-losing="249" start-losing-loop="394" end-losing="409"/>
+    <wheels>
+        <front-left position="-0.331498 0.102459 0.290983" model="wheel-front-left.b3d"/>
+        <front-right position="0.475027 0.102459 0.290983" model="wheel-front-right.b3d"/>
+        <rear-left position="-0.331498 0.102459 -0.291786" model="wheel-rear-left.b3d"/>
+        <rear-right position="0.475027 0.102459 -0.291786" model="wheel-rear-right.b3d"/>
+    </wheels>
+</kart>

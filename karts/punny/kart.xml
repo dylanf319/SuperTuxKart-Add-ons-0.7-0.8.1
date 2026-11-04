@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<kart name="Punny" version="2" model-file="penny.b3d" icon-file="Penny-icon.png" minimap-icon-file="Penny-icon.png" shadow-file="Penny-shadow.png" center-shift="0.00" groups="Add-Ons" rgb="1.00 1.00 1.00">
+    <sounds engine="small"/>
+    <animated-texture name="Tears.png" dy="6.000"/>
+    <animations left="0" straight="40" right="80" start-winning="102" start-winning-loop="131" end-winning="227" start-losing="259" start-losing-loop="350" end-losing="369"/>
+    <wheels>
+        <rear-right position="0.274222 0.148422 -0.401921" model="wheel-rear-right.b3d"/>
+        <rear-left position="-0.288420 0.148422 -0.401921" model="wheel-rear-left.b3d"/>
+        <front-left position="-0.288420 0.148422 0.348268" model="wheel-front-left.b3d"/>
+        <front-right position="0.274222 0.148422 0.348268" model="wheel-front-right.b3d"/>
+    </wheels>
+</kart>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<kart name="philae" version="2" model-file="philae.b3d" icon-file="icone-phil.png" minimap-icon-file="icone-phil.png" shadow-file="shadow-phil.png" random-wheel-rot="true" type="light" groups="Add-Ons" rgb="1.00 1.00 1.00" revision="1">
+    <sounds engine="small"/>
+    <wheels>
+        <rear-right position="0.691286 0.150000 -0.398713" model="wheel-rear-right.b3d"/>
+        <rear-left position="-0.683453 0.150000 -0.396452" model="wheel-rear-left.b3d"/>
+        <front-left position="-0.061285 0.150000 0.797437" model="wheel-front-left.b3d"/>
+        <front-right position="0.063170 0.150000 0.797437" model="wheel-front-right.b3d"/>
+    </wheels>
+    <nitro-emitter>
+        <nitro-emitter-a position="0.000000 0.306600 -0.645909"/>
+        <nitro-emitter-b position="0.000000 0.487339 -0.645909"/>
+    </nitro-emitter>
+    <hat offset="0.0 1.0 0.0"/>
+</kart>

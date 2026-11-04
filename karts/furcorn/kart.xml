@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<kart name="FurCorn" version="2" model-file="furcorn.b3d" icon-file="fercornicon.png" minimap-icon-file="fercornicon.png" shadow-file="shadow.png" random-wheel-rot="false" center-shift="1.00" groups="Add-Ons" rgb="0.70 0.00 0.00" revision="1">
+    <sounds engine="small"/>
+    <animations left="0" straight="19" right="39" start-winning="59" start-winning-loop="79" end-winning="199" start-losing="209" start-losing-loop="219" end-losing="239"/>
+    <wheels>
+        <front-left position="-0.142898 0.141120 0.310339" model="wheel-front-left.b3d"/>
+        <rear-left position="-0.144741 0.155523 -0.314754" model="wheel-rear-left.b3d"/>
+        <rear-right position="0.156650 0.155523 -0.314754" model="wheel-rear-right.b3d"/>
+        <front-right position="0.156026 0.141119 0.310339" model="wheel-front-right.b3d"/>
+    </wheels>
+    <hat offset="0.0 1.0 0.0"/>
+</kart>

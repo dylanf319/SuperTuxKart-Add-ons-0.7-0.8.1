@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<kart name="Firefox" version="2" model-file="firefox.b3dz" icon-file="icon.png" minimap-icon-file="icon.png" shadow-file="generic_shadow.png" random-wheel-rot="false" groups="Add-Ons" rgb="1.00 1.00 1.00" revision="1">
+    <sounds engine="small"/>
+    <animations left="1" straight="19" right="39" start-winning="59" start-winning-loop="103" end-winning="112" start-losing="136" start-losing-loop="170" end-losing="199"/>
+    <wheels>
+        <rear-right position="0.267349 0.120725 -0.356834" model="wheel-rear-right.b3d"/>
+        <front-right position="0.266679 0.118882 0.356382" model="wheel-front-right.b3d"/>
+        <front-left position="-0.274450 0.118882 0.356382" model="wheel-front-left.b3d"/>
+        <rear-left position="-0.275259 0.118882 -0.358591" model="wheel-rear-left.b3d"/>
+    </wheels>
+</kart>
